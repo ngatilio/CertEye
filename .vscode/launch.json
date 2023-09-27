@@ -1,0 +1,38 @@
+{
+  "version": "0.1.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "attach",
+      "name": "Attach to Node Server",
+      "port": 9678,
+      "restart": true,
+      "outFiles": ["${workspaceFolder}/@app/server/dist/**/*.js"]
+    },
+    {
+      "type": "node",
+      "request": "attach",
+      "name": "Attach to Jest tests",
+      "port": 9876,
+      "restart": true
+    },
+    {
+      "type": "node",
+      "request": "attach",
+      "name": "Attach to Worker",
+      "port": 9757,
+      "restart": true,
+      "outFiles": ["${workspaceFolder}/@app/worker/dist/**/*.js"]
+    },
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Launch localhost:5678",
+      "url": "http://localhost:5678/",
+      "webRoot": "${workspaceFolder}/@app/client/src",
+      "pathMapping": {
+        "/_next": "${workspaceFolder}/@app/client/.next"
+      }
+    }
+  ]
+}

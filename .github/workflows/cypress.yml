@@ -1,0 +1,69 @@
+name: End-to-end tests
+
+on: [pull_request]
+
+jobs:
+  cypress-run:
+    runs-on: ubuntu-latest
+
+    env:
+      CYPRESS_ROOT_URL: http://localhost:5678
+      CI: true
+      CONFIRM_DROP: 1
+      NODE_ENV: test
+      ENABLE_CYPRESS_COMMANDS: 1
+
+    strategy:
+      matrix:
+        node-version: [16.x]
+
+    services:
+      postgres:
+        image: postgres:14
+        env:
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: postgres
+        ports:
+          - "0.0.0.0:5432:5432"
+        # needed because the postgres container does not provide a healthcheck
+        options: --health-cmd pg_isready --health-interval 10s --health-timeout 5s --health-retries 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Install pg_dump
+        run: |
+          sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'
+          wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+          sudo apt-get update
+          sudo apt-get -yqq install postgresql-client-14
+      - name: Setup
+        run: |
+          cp .env.ci .env
+          yarn --immutable
+          yarn setup
+          yarn build
+      - name: Start server in background
+        run: yarn server start &
+      - name: Start worker in background
+        run: yarn worker start &
+      - name: Cypress run
+        uses: cypress-io/github-action@v5
+        with:
+          wait-on: http://localhost:5678
+          working-directory: "@app/e2e"
+      - uses: actions/upload-artifact@v1
+        if: failure()
+        with:
+          name: cypress-screenshots
+          path: "@app/e2e/cypress/screenshots"
+      - uses: actions/upload-artifact@v1
+        if: failure()
+        with:
+          name: cypress-videos
+          path: "@app/e2e/cypress/videos"
