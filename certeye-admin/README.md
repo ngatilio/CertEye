@@ -3,11 +3,11 @@
 This folder contains the various components (aka "packages") of our project. We
 use [yarn workspaces](https://yarnpkg.com/lang/en/docs/workspaces/) to manage
 this monorepo, to help us to keep things separate without slowing development
-speed. All components of this project are named `@app/*` so that we can
+speed. All components of this project are named `certkor-admin/*` so that we can
 reference them from each other in a straightforward manner, e.g.
 
 ```ts
-import { useAppQuery } from "@app/graphql";
+import { useAppQuery } from "certkor-admin/graphql";
 ```
 
 ## Packages
