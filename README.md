@@ -5,6 +5,9 @@ of enterprise-wide AI solutions.
 
 ## Architecture
 
+![architecture](https://github.com/ngatilio/CertEye/assets/17088165/ddf739ae-d80c-434c-865d-94552a8f4190)
+
+
 CertEye has 5 core features:
 
 `certeye-governance`: choose, prioritize, time, implement, track, and review AI ethics policies and controls suitable for your organization
@@ -20,6 +23,9 @@ CertEye has 5 core features:
 
 
 `certeye-eoar`: prevent and mitigate threats on AI assets using a custom Threat Mitigation Matrix (https://arxiv.org/pdf/2207.00091.pdf).
+
+
+https://github.com/ngatilio/CertEye/assets/17088165/41cad582-a84d-4cc7-8abe-4d59a12dfea9
 
 
 ## CertEye-Admin Prerequisites
