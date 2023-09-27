@@ -15,7 +15,7 @@ https://cve.report/vendor/st
 
 Identified CVE vulnerabilities must be reported under the link below:
 
-https://cve.report/vendor/innovobotlabs
+https://cve.report/vendor/certeye
 
 
 Please use a descriptive title for your report.
