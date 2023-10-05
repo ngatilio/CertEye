@@ -13,7 +13,7 @@ CertEye has 5 core features:
 `certeye-governance`: choose, prioritize, time, implement, track, and review AI ethics policies and controls suitable for your organization (https://doi.org/10.1109/TAI.2022.3225132).
 
 
-`certeye-pcp`: continuously identify of AI ethics issues in your AI pipelines using CI/CDs, playbooks, and testing sandboxes (https://arxiv.org/abs/2206.11981).
+`certeye-pcp`: continuously identify AI ethics issues in your AI pipelines using CI/CDs, playbooks, and testing sandboxes (https://arxiv.org/abs/2206.11981).
 
 
 `certeye-pep`: continuously fix AI ethics issues in your AI pipelines using CI/CDs, playbooks, and testing sandboxes.
