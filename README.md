@@ -13,16 +13,19 @@ CertEye has 5 core features:
 `certeye-governance`: choose, prioritize, time, implement, track, and review AI ethics policies and controls suitable for your organization (https://doi.org/10.1109/TAI.2022.3225132).
 
 
-`certeye-pcp`: continuously identify AI ethics issues in your AI pipelines using CI/CDs, playbooks, and testing sandboxes (https://arxiv.org/abs/2206.11981).
+`certeye-pcp`: continuously identify AI ethics issues in your AI pipelines using CI/CDs, playbooks, and testing sandboxes (https://arxiv.org/abs/2206.11981). Testing sandboxes use the
+concept of ethical twins to run multiple tests on the AI components using a virtual emulator. 
 
 
-`certeye-pep`: continuously fix AI ethics issues in your AI pipelines using CI/CDs, playbooks, and testing sandboxes.
+`certeye-pep`: continuously fix AI ethics issues in your AI pipelines using CI/CDs, playbooks, and patching sandboxes. Patching sandboxes use the
+concept of ethical twins to run and validate multiple patches on the AI components using a virtual emulator. 
 
 
-`certeye-observability`: monitor various metrics such as fairness loss, PII exposure, carbon footprint per unit, audit traces, and well-know metrics (e.g., response time, peak load, cache hit rate) during the execution of AI models in deployment and post-deployment stages (https://arxiv.org/abs/2306.01788).
+`certeye-observability`: monitor various metrics such as fairness loss, PII exposure, carbon footprint per unit, audit traces, and well-know metrics (e.g., response time, peak load, cache hit rate) during the execution of AI models in deployment and post-deployment stages (https://arxiv.org/abs/2306.01788). Compliance reports are generated to help organizations having a 360 view on AI trustworthy postures on
+their AI products. Automatic suggestions are also proposed to fix these issues through the `certeye-pep` feature.
 
 
-`certeye-eoar`: prevent and mitigate threats on AI assets using a custom Threat Mitigation Matrix (https://arxiv.org/pdf/2207.00091.pdf, https://doi.org/10.1109/COMST.2019.2922584).
+`certeye-eoar`: prevent and mitigate threats on AI assets using a custom Threat Mitigation Matrix based on MITRE ATLAS and D3FEND (https://arxiv.org/pdf/2207.00091.pdf, https://doi.org/10.1109/COMST.2019.2922584).
 
 
 https://github.com/ngatilio/CertEye/assets/17088165/41cad582-a84d-4cc7-8abe-4d59a12dfea9
