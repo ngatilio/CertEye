@@ -27,7 +27,7 @@ their AI products. Automatic suggestions are also proposed to fix these issues t
 `certeye-eoar`: prevent and mitigate threats on AI assets using a custom Threat Mitigation Matrix based on MITRE ATLAS and D3FEND (https://arxiv.org/pdf/2207.00091.pdf, https://doi.org/10.1109/COMST.2019.2922584).
 
 
-https://github.com/ngatilio/CertEye/assets/17088165/41cad582-a84d-4cc7-8abe-4d59a12dfea9
+[https://github.com/ngatilio/CertEye/assets/17088165/41cad582-a84d-4cc7-8abe-4d59a12dfea9](https://youtu.be/K7j8SJ1RL2c)
 
 
 ## CertEye-Admin Prerequisites
