@@ -1,0 +1,1894 @@
+.menu {
+  background-color: #ffffff;
+  box-shadow: 3px 0px 20px #0000001a;
+  height: 771px;
+  position: relative;
+  width: 248px;
+}
+
+.menu .logo-section {
+  left: 0;
+  position: absolute;
+  width: 248px;
+}
+
+.menu .logo-svg {
+  height: 70px;
+  position: relative;
+}
+
+.menu .text-wrapper-2 {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 63px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+}
+
+.menu .line-2 {
+  height: 123px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 1px;
+}
+
+.menu .menu-items {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.menu .div-5 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  padding: 15px 23px;
+  position: relative;
+  width: 248px;
+}
+
+.menu .group {
+  height: 18px;
+  position: relative;
+  width: 180px;
+}
+
+.menu .iconsax-linear-3 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.menu .AI-policies-controls {
+  color: #5b5b5b;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.menu .iconsax-linear-4 {
+  height: 18px;
+  margin-right: -6px;
+  position: relative;
+  width: 18px;
+}
+
+.menu .roles {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  padding: 12px 53px;
+  position: relative;
+  width: 248px;
+}
+
+.menu .group-2 {
+  height: 17px;
+  position: relative;
+  width: 95px;
+}
+
+.menu .div-6 {
+  color: #5b5b5b;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.menu .policies-controls-wrapper {
+  height: 17px;
+  position: relative;
+  width: 122px;
+}
+
+.menu .group-3 {
+  height: 17px;
+  position: relative;
+  width: 139px;
+}
+
+.menu .settings {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 91px;
+  padding: 15px 23px;
+  position: relative;
+  width: 248px;
+}
+
+.menu .frame-6 {
+  height: 20px;
+  position: relative;
+  width: 100px;
+}
+
+.menu .text-wrapper-3 {
+  color: #5b5b5b;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.menu .iconsax-linear-5 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.menu .iconsax-linear-6 {
+  height: 18px;
+  margin-right: -7px;
+  position: relative;
+  width: 18px;
+}
+
+.menu .iconsax-linear-7 {
+  height: 18px;
+  position: relative;
+  width: 18px;
+}
+
+.menu .group-4 {
+  height: 18px;
+  margin-right: -9px;
+  position: relative;
+  width: 181px;
+}
+
+.menu .text-wrapper-4 {
+  color: #5b5b5b;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.menu .iconsax-linear-8 {
+  height: 18px;
+  left: 161px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.menu .customer {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 15px 23px;
+  position: relative;
+  width: 248px;
+}
+
+.menu .frame-7 {
+  height: 20px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 20px;
+}
+
+.menu .group-5 {
+  height: 18px;
+  margin-right: -11px;
+  position: relative;
+  width: 183px;
+}
+
+.menu .iconsax-linear-9 {
+  height: 18px;
+  left: 163px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.menu .customer-2 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 68px;
+  padding: 15px 23px;
+  position: relative;
+  width: 248px;
+}
+
+.menu .frame-8 {
+  height: 18px;
+  position: relative;
+  width: 123px;
+}
+
+.menu .iconsax-linear-10 {
+  height: 18px;
+  left: -1px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.menu .menu-items-2 {
+  left: 0;
+  position: absolute;
+}
+
+.menu .roles-2 {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  padding: 15px 23px;
+  position: relative;
+  width: 248px;
+}
+
+.menu .iconsax-linear-11 {
+  height: 18px;
+  position: relative;
+  width: 18px;
+}
+
+.menu .AI-policies-controls-2 {
+  color: #5b5b5b;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.menu .iconsax-linear-12 {
+  height: 18px;
+  position: relative;
+  width: 18px;
+}
+
+.menu .settings-2 {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 90px;
+  padding: 15px 23px;
+  position: relative;
+  width: 248px;
+}
+
+.menu .iconsax-linear-13 {
+  height: 18px;
+  position: relative;
+  width: 18px;
+}
+
+.menu .customer-3 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  padding: 15px 23px;
+  position: relative;
+  width: 248px;
+}
+
+.menu .group-6 {
+  height: 18px;
+  position: relative;
+  width: 183px;
+}
+
+.menu .roles-3 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 248px;
+}
+
+.menu .iconsax-linear-14 {
+  height: 18px;
+  position: relative;
+  width: 18px;
+}
+
+.menu .group-7 {
+  position: relative;
+}
+
+.menu .enforcement-point {
+  color: #5b5b5b;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.menu .iconsax-linear-15 {
+  height: 18px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.menu .roles-4 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 248px;
+}
+
+.menu .frame-9 {
+  position: relative;
+}
+
+.menu .customer-4 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 248px;
+}
+
+.menu .group-8 {
+  position: relative;
+}
+
+.menu .iconsax-linear-16 {
+  height: 18px;
+  margin-right: -37px;
+  position: relative;
+  width: 18px;
+}
+
+.menu .customer-5 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 248px;
+}
+
+.menu .frame-10 {
+  position: relative;
+}
+
+.menu .iconsax-linear-17 {
+  height: 18px;
+  position: relative;
+  width: 18px;
+}
+
+.menu .AI-ethics-drift-wrapper {
+  position: relative;
+}
+
+.menu .AI-ethics-drift {
+  color: #5b5b5b;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.menu .iconsax-linear-18 {
+  height: 18px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.menu .roles-5 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+  width: 248px;
+}
+
+.menu .iconsax-linear-19 {
+  height: 18px;
+  position: relative;
+  width: 18px;
+}
+
+.menu .group-9 {
+  position: relative;
+}
+
+.menu .virtual-emulation-VE {
+  color: #5b5b5b;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.menu .group-wrapper {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  padding: 12px 83px;
+  position: relative;
+  width: 248px;
+}
+
+.menu .VE-test-report-wrapper {
+  height: 15px;
+  position: relative;
+}
+
+.menu .div-7 {
+  color: #5b5b5b;
+  font-family: "Rubik", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.menu .roles-6 {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+  width: 248px;
+}
+
+.menu .ethics-auto-testing-wrapper {
+  position: relative;
+}
+
+.menu .ethics-auto-testing {
+  color: #5b5b5b;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.menu .customer-6 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+  width: 248px;
+}
+
+.menu .iconsax-linear-20 {
+  height: 18px;
+  position: relative;
+  width: 18px;
+}
+
+.menu .group-10 {
+  height: 18px;
+  margin-right: -8px;
+  position: relative;
+  width: 180px;
+}
+
+.menu .iconsax-linear-21 {
+  height: 18px;
+  left: 160px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.menu .customer-7 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  padding: 15px 23px;
+  position: relative;
+  width: 248px;
+}
+
+.menu .roles-7 {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 108px;
+  padding: 12px 53px;
+  position: relative;
+  width: 248px;
+}
+
+.menu .group-11 {
+  height: 17px;
+  position: relative;
+  width: 55px;
+}
+
+.menu .group-12 {
+  height: 15px;
+  margin-right: -48px;
+  position: relative;
+  width: 130px;
+}
+
+.menu .group-13 {
+  height: 15px;
+  margin-right: -38px;
+  position: relative;
+  width: 120px;
+}
+
+.menu .group-14 {
+  height: 15px;
+  margin-right: -36px;
+  position: relative;
+  width: 118px;
+}
+
+.menu .group-15 {
+  height: 15px;
+  margin-right: -79px;
+  position: relative;
+  width: 161px;
+}
+
+.menu .roles-8 {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  padding: 12px 53px;
+  position: relative;
+  width: 248px;
+}
+
+.menu .group-16 {
+  height: 17px;
+  margin-right: -15px;
+  position: relative;
+  width: 157px;
+}
+
+.menu .line-3 {
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.menu .line-4 {
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.menu .enforcement {
+  height: 70px;
+  top: 0;
+}
+
+.menu .enforcement-2 {
+  height: 70px;
+  top: 0;
+}
+
+.menu .side-menu {
+  height: 70px;
+  top: 0;
+}
+
+.menu .policy-and-control {
+  height: 461px;
+  top: 70px;
+}
+
+.menu .EOAR {
+  height: 70px;
+  top: 0;
+}
+
+.menu .incident-monitoring-expand {
+  height: 70px;
+  top: 0;
+}
+
+.menu .checkpoint-2 {
+  height: 70px;
+  top: 0;
+}
+
+.menu .compliance-moitoring {
+  height: 70px;
+  top: 0;
+}
+
+.menu .check-point {
+  height: 70px;
+  top: 0;
+}
+
+.menu .property-1-enforcement {
+  height: 503px;
+  top: 70px;
+  width: 248px;
+}
+
+.menu .property-1-enforcement-2 {
+  height: 620px;
+  top: 70px;
+  width: 248px;
+}
+
+.menu .property-1-side-menu {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  top: 70px;
+}
+
+.menu .property-1-policy-and-control {
+  height: 70px;
+  top: 0;
+  width: 248px;
+}
+
+.menu .property-1-EOAR {
+  height: 577px;
+  top: 70px;
+  width: 248px;
+}
+
+.menu .property-1-incident-monitoring-expand {
+  height: 421px;
+  top: 70px;
+  width: 248px;
+}
+
+.menu .property-1-checkpoint-2 {
+  height: 620px;
+  top: 70px;
+  width: 248px;
+}
+
+.menu .property-1-compliance-moitoring {
+  height: 420px;
+  top: 70px;
+  width: 248px;
+}
+
+.menu .property-1-check-point {
+  height: 503px;
+  top: 70px;
+  width: 248px;
+}
+
+.menu .menu-items-2.property-1-enforcement .customer-3 {
+  gap: 12px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .customer-3 {
+  gap: 12px;
+}
+
+.menu .menu-items-2.property-1-side-menu .customer-3 {
+  gap: 12px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .customer-3 {
+  gap: 12px;
+}
+
+.menu .menu-items-2.property-1-EOAR .customer-3 {
+  gap: 10px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .customer-3 {
+  gap: 12px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .customer-3 {
+  gap: 12px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .customer-3 {
+  gap: 12px;
+}
+
+.menu .menu-items-2.property-1-check-point .customer-3 {
+  gap: 12px;
+}
+
+.menu .menu-items-2.property-1-enforcement .group-6 {
+  margin-right: -10px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .group-6 {
+  margin-right: -10px;
+}
+
+.menu .menu-items-2.property-1-side-menu .group-6 {
+  margin-right: -10px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .group-6 {
+  margin-right: -10px;
+}
+
+.menu .menu-items-2.property-1-EOAR .group-6 {
+  margin-right: -11px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .group-6 {
+  margin-right: -10px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .group-6 {
+  margin-right: -10px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .group-6 {
+  margin-right: -10px;
+}
+
+.menu .menu-items-2.property-1-check-point .group-6 {
+  margin-right: -10px;
+}
+
+.menu .menu-items-2.property-1-enforcement .roles-3 {
+  gap: 12px;
+  padding: 15px 23px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .roles-3 {
+  gap: 12px;
+  padding: 15px 23px;
+}
+
+.menu .menu-items-2.property-1-side-menu .roles-3 {
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .roles-3 {
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-EOAR .roles-3 {
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .roles-3 {
+  gap: 68px;
+  padding: 15px 23px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .roles-3 {
+  background-color: #ffffff;
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .roles-3 {
+  background-color: #ffffff;
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-check-point .roles-3 {
+  background-color: #ffffff;
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-enforcement .group-7 {
+  height: 18px;
+  margin-right: -9px;
+  width: 181px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .group-7 {
+  height: 18px;
+  margin-right: -9px;
+  width: 181px;
+}
+
+.menu .menu-items-2.property-1-side-menu .group-7 {
+  height: 18px;
+  width: 181px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .group-7 {
+  height: 18px;
+  width: 181px;
+}
+
+.menu .menu-items-2.property-1-EOAR .group-7 {
+  height: 18px;
+  width: 181px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .group-7 {
+  height: 18px;
+  width: 123px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .group-7 {
+  height: 17px;
+  width: 121px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .group-7 {
+  height: 17px;
+  margin-right: -2px;
+  width: 144px;
+}
+
+.menu .menu-items-2.property-1-check-point .group-7 {
+  height: 17px;
+  width: 121px;
+}
+
+.menu .menu-items-2.property-1-enforcement .enforcement-point {
+  left: 0;
+  top: 0;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .enforcement-point {
+  left: 0;
+  top: 0;
+}
+
+.menu .menu-items-2.property-1-side-menu .enforcement-point {
+  left: 0;
+  top: 0;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .enforcement-point {
+  left: 0;
+  top: 0;
+}
+
+.menu .menu-items-2.property-1-EOAR .enforcement-point {
+  left: 0;
+  top: 0;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .enforcement-point {
+  left: 30px;
+  top: -1px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .enforcement-point {
+  left: 0;
+  top: 0;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .enforcement-point {
+  left: 0;
+  top: 0;
+}
+
+.menu .menu-items-2.property-1-check-point .enforcement-point {
+  left: 0;
+  top: 0;
+}
+
+.menu .menu-items-2.property-1-enforcement .iconsax-linear-15 {
+  left: 161px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .iconsax-linear-15 {
+  left: 161px;
+}
+
+.menu .menu-items-2.property-1-side-menu .iconsax-linear-15 {
+  left: 161px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .iconsax-linear-15 {
+  left: 161px;
+}
+
+.menu .menu-items-2.property-1-EOAR .iconsax-linear-15 {
+  left: 161px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .iconsax-linear-15 {
+  left: 0;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .iconsax-linear-15 {
+  left: 161px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .iconsax-linear-15 {
+  left: 161px;
+}
+
+.menu .menu-items-2.property-1-check-point .iconsax-linear-15 {
+  left: 161px;
+}
+
+.menu .menu-items-2.property-1-enforcement .roles-4 {
+  background-color: #ffffff;
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .roles-4 {
+  background-color: #ffffff;
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-side-menu .roles-4 {
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .roles-4 {
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-EOAR .roles-4 {
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .roles-4 {
+  gap: 68px;
+  padding: 15px 23px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .roles-4 {
+  background-color: #ffffff;
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .roles-4 {
+  background-color: #ffffff;
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-check-point .roles-4 {
+  background-color: #ffffff;
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-enforcement .frame-9 {
+  height: 17px;
+  width: 133px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .frame-9 {
+  height: 17px;
+  width: 133px;
+}
+
+.menu .menu-items-2.property-1-side-menu .frame-9 {
+  height: 17px;
+  width: 125px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .frame-9 {
+  height: 17px;
+  width: 125px;
+}
+
+.menu .menu-items-2.property-1-EOAR .frame-9 {
+  height: 17px;
+  width: 125px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .frame-9 {
+  height: 18px;
+  width: 123px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .frame-9 {
+  height: 17px;
+  width: 125px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .frame-9 {
+  height: 17px;
+  width: 117px;
+}
+
+.menu .menu-items-2.property-1-check-point .frame-9 {
+  height: 17px;
+  width: 125px;
+}
+
+.menu .menu-items-2.property-1-enforcement .customer-4 {
+  background-color: #ffffff;
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .customer-4 {
+  background-color: #ffffff;
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-side-menu .customer-4 {
+  gap: 52px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .customer-4 {
+  gap: 52px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-EOAR .customer-4 {
+  gap: 52px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .customer-4 {
+  background-color: #ffffff;
+  gap: 108px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .customer-4 {
+  background-color: #ffffff;
+  gap: 52px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .customer-4 {
+  gap: 68px;
+  padding: 15px 23px;
+}
+
+.menu .menu-items-2.property-1-check-point .customer-4 {
+  background-color: #ffffff;
+  gap: 52px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-enforcement .group-8 {
+  height: 17px;
+  width: 128px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .group-8 {
+  height: 17px;
+  width: 128px;
+}
+
+.menu .menu-items-2.property-1-side-menu .group-8 {
+  height: 17px;
+  width: 111px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .group-8 {
+  height: 17px;
+  width: 111px;
+}
+
+.menu .menu-items-2.property-1-EOAR .group-8 {
+  height: 17px;
+  width: 111px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .group-8 {
+  height: 17px;
+  width: 55px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .group-8 {
+  height: 17px;
+  width: 111px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .group-8 {
+  height: 18px;
+  width: 123px;
+}
+
+.menu .menu-items-2.property-1-check-point .group-8 {
+  height: 17px;
+  width: 111px;
+}
+
+.menu .menu-items-2.property-1-enforcement .customer-5 {
+  background-color: #ffffff;
+  gap: 40px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .customer-5 {
+  background-color: #ffffff;
+  gap: 40px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-side-menu .customer-5 {
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .customer-5 {
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-EOAR .customer-5 {
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .customer-5 {
+  background-color: #ffffff;
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .customer-5 {
+  background-color: #ffffff;
+  gap: 12px;
+  padding: 12px 83px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .customer-5 {
+  gap: 68px;
+  padding: 15px 23px;
+}
+
+.menu .menu-items-2.property-1-check-point .customer-5 {
+  background-color: #ffffff;
+  gap: 12px;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-enforcement .frame-10 {
+  height: 17px;
+  width: 122px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .frame-10 {
+  height: 17px;
+  width: 122px;
+}
+
+.menu .menu-items-2.property-1-side-menu .frame-10 {
+  height: 17px;
+  width: 122px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .frame-10 {
+  height: 17px;
+  width: 122px;
+}
+
+.menu .menu-items-2.property-1-EOAR .frame-10 {
+  height: 17px;
+  width: 122px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .frame-10 {
+  height: 17px;
+  width: 122px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .frame-10 {
+  height: 17px;
+  width: 122px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .frame-10 {
+  height: 18px;
+  width: 123px;
+}
+
+.menu .menu-items-2.property-1-check-point .frame-10 {
+  height: 17px;
+  width: 122px;
+}
+
+.menu .menu-items-2.property-1-enforcement .iconsax-linear-17 {
+  margin-right: -36px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .iconsax-linear-17 {
+  margin-right: -36px;
+}
+
+.menu .menu-items-2.property-1-side-menu .iconsax-linear-17 {
+  margin-right: -36px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .iconsax-linear-17 {
+  margin-right: -36px;
+}
+
+.menu .menu-items-2.property-1-EOAR .iconsax-linear-17 {
+  margin-right: -36px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .iconsax-linear-17 {
+  margin-right: -36px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .iconsax-linear-17 {
+  margin-right: -36px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .iconsax-linear-17 {
+  margin-right: -7px;
+}
+
+.menu .menu-items-2.property-1-check-point .iconsax-linear-17 {
+  margin-right: -36px;
+}
+
+.menu .menu-items-2.property-1-enforcement .AI-ethics-drift-wrapper {
+  height: 17px;
+  width: 157px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .AI-ethics-drift-wrapper {
+  height: 17px;
+  width: 157px;
+}
+
+.menu .menu-items-2.property-1-side-menu .AI-ethics-drift-wrapper {
+  height: 17px;
+  width: 157px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .AI-ethics-drift-wrapper {
+  height: 17px;
+  width: 157px;
+}
+
+.menu .menu-items-2.property-1-EOAR .AI-ethics-drift-wrapper {
+  height: 17px;
+  width: 157px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .AI-ethics-drift-wrapper {
+  height: 17px;
+  margin-right: -15px;
+  width: 157px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .AI-ethics-drift-wrapper {
+  height: 15px;
+  width: 81px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .AI-ethics-drift-wrapper {
+  height: 17px;
+  width: 157px;
+}
+
+.menu .menu-items-2.property-1-check-point .AI-ethics-drift-wrapper {
+  height: 17px;
+  width: 128px;
+}
+
+.menu .menu-items-2.property-1-enforcement .AI-ethics-drift {
+  font-size: 14px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .AI-ethics-drift {
+  font-size: 14px;
+}
+
+.menu .menu-items-2.property-1-side-menu .AI-ethics-drift {
+  font-size: 14px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .AI-ethics-drift {
+  font-size: 14px;
+}
+
+.menu .menu-items-2.property-1-EOAR .AI-ethics-drift {
+  font-size: 14px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .AI-ethics-drift {
+  font-size: 14px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .AI-ethics-drift {
+  font-size: 13px;
+  white-space: nowrap;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .AI-ethics-drift {
+  font-size: 14px;
+}
+
+.menu .menu-items-2.property-1-check-point .AI-ethics-drift {
+  font-size: 14px;
+}
+
+.menu .menu-items-2.property-1-enforcement .iconsax-linear-18 {
+  left: -1px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .iconsax-linear-18 {
+  left: -1px;
+}
+
+.menu .menu-items-2.property-1-side-menu .iconsax-linear-18 {
+  left: -1px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .iconsax-linear-18 {
+  left: -1px;
+}
+
+.menu .menu-items-2.property-1-EOAR .iconsax-linear-18 {
+  left: 0;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .iconsax-linear-18 {
+  left: -1px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .iconsax-linear-18 {
+  left: -1px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .iconsax-linear-18 {
+  left: -1px;
+}
+
+.menu .menu-items-2.property-1-check-point .iconsax-linear-18 {
+  left: -1px;
+}
+
+.menu .menu-items-2.property-1-enforcement .roles-5 {
+  background-color: #ffffff;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .roles-5 {
+  background-color: #ffffff;
+  padding: 12px 83px;
+}
+
+.menu .menu-items-2.property-1-side-menu .roles-5 {
+  padding: 12px 83px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .roles-5 {
+  padding: 12px 83px;
+}
+
+.menu .menu-items-2.property-1-EOAR .roles-5 {
+  padding: 12px 83px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .roles-5 {
+  padding: 12px 83px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .roles-5 {
+  background-color: #ffffff;
+  padding: 12px 83px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .roles-5 {
+  padding: 12px 83px;
+}
+
+.menu .menu-items-2.property-1-check-point .roles-5 {
+  padding: 15px 23px;
+}
+
+.menu .menu-items-2.property-1-enforcement .group-9 {
+  height: 17px;
+  margin-right: -9px;
+  width: 139px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .group-9 {
+  height: 15px;
+  margin-right: -9px;
+  width: 81px;
+}
+
+.menu .menu-items-2.property-1-side-menu .group-9 {
+  height: 15px;
+  margin-right: -9px;
+  width: 181px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .group-9 {
+  height: 15px;
+  margin-right: -9px;
+  width: 181px;
+}
+
+.menu .menu-items-2.property-1-EOAR .group-9 {
+  height: 15px;
+  margin-right: -9px;
+  width: 181px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .group-9 {
+  height: 15px;
+  margin-right: -9px;
+  width: 181px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .group-9 {
+  height: 15px;
+  margin-right: -53px;
+  width: 135px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .group-9 {
+  height: 15px;
+  margin-right: -9px;
+  width: 181px;
+}
+
+.menu .menu-items-2.property-1-check-point .group-9 {
+  height: 18px;
+  margin-right: -9px;
+  width: 181px;
+}
+
+.menu .menu-items-2.property-1-enforcement .virtual-emulation-VE {
+  font-size: 14px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .virtual-emulation-VE {
+  font-size: 13px;
+  white-space: nowrap;
+}
+
+.menu .menu-items-2.property-1-side-menu .virtual-emulation-VE {
+  font-size: 13px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .virtual-emulation-VE {
+  font-size: 13px;
+}
+
+.menu .menu-items-2.property-1-EOAR .virtual-emulation-VE {
+  font-size: 13px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .virtual-emulation-VE {
+  font-size: 13px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .virtual-emulation-VE {
+  font-size: 13px;
+  white-space: nowrap;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .virtual-emulation-VE {
+  font-size: 13px;
+}
+
+.menu .menu-items-2.property-1-check-point .virtual-emulation-VE {
+  font-size: 15px;
+  white-space: nowrap;
+}
+
+.menu .menu-items-2.property-1-enforcement .VE-test-report-wrapper {
+  margin-right: -9px;
+  width: 91px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .VE-test-report-wrapper {
+  margin-right: -53px;
+  width: 135px;
+}
+
+.menu .menu-items-2.property-1-side-menu .VE-test-report-wrapper {
+  margin-right: -9px;
+  width: 91px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .VE-test-report-wrapper {
+  margin-right: -9px;
+  width: 91px;
+}
+
+.menu .menu-items-2.property-1-EOAR .VE-test-report-wrapper {
+  margin-right: -9px;
+  width: 91px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .VE-test-report-wrapper {
+  margin-right: -9px;
+  width: 91px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .VE-test-report-wrapper {
+  margin-right: -9px;
+  width: 91px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .VE-test-report-wrapper {
+  margin-right: -9px;
+  width: 91px;
+}
+
+.menu .menu-items-2.property-1-check-point .VE-test-report-wrapper {
+  margin-right: -9px;
+  width: 91px;
+}
+
+.menu .menu-items-2.property-1-enforcement .roles-6 {
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .roles-6 {
+  padding: 12px 83px;
+}
+
+.menu .menu-items-2.property-1-side-menu .roles-6 {
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .roles-6 {
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-EOAR .roles-6 {
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .roles-6 {
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .roles-6 {
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .roles-6 {
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-check-point .roles-6 {
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-enforcement .ethics-auto-testing-wrapper {
+  height: 17px;
+  width: 128px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .ethics-auto-testing-wrapper {
+  height: 15px;
+  margin-right: -20px;
+  width: 102px;
+}
+
+.menu .menu-items-2.property-1-side-menu .ethics-auto-testing-wrapper {
+  height: 17px;
+  width: 128px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .ethics-auto-testing-wrapper {
+  height: 17px;
+  width: 128px;
+}
+
+.menu .menu-items-2.property-1-EOAR .ethics-auto-testing-wrapper {
+  height: 17px;
+  width: 128px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .ethics-auto-testing-wrapper {
+  height: 17px;
+  width: 128px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .ethics-auto-testing-wrapper {
+  height: 17px;
+  width: 128px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .ethics-auto-testing-wrapper {
+  height: 17px;
+  width: 128px;
+}
+
+.menu .menu-items-2.property-1-check-point .ethics-auto-testing-wrapper {
+  height: 17px;
+  width: 128px;
+}
+
+.menu .menu-items-2.property-1-enforcement .ethics-auto-testing {
+  font-size: 14px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .ethics-auto-testing {
+  font-size: 13px;
+  white-space: nowrap;
+}
+
+.menu .menu-items-2.property-1-side-menu .ethics-auto-testing {
+  font-size: 14px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .ethics-auto-testing {
+  font-size: 14px;
+}
+
+.menu .menu-items-2.property-1-EOAR .ethics-auto-testing {
+  font-size: 14px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .ethics-auto-testing {
+  font-size: 14px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .ethics-auto-testing {
+  font-size: 14px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .ethics-auto-testing {
+  font-size: 14px;
+}
+
+.menu .menu-items-2.property-1-check-point .ethics-auto-testing {
+  font-size: 14px;
+}
+
+.menu .menu-items-2.property-1-enforcement .customer-6 {
+  padding: 15px 23px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .customer-6 {
+  background-color: #ffffff;
+  padding: 12px 53px;
+}
+
+.menu .menu-items-2.property-1-side-menu .customer-6 {
+  padding: 15px 23px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .customer-6 {
+  padding: 15px 23px;
+}
+
+.menu .menu-items-2.property-1-EOAR .customer-6 {
+  padding: 15px 23px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .customer-6 {
+  padding: 15px 23px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .customer-6 {
+  padding: 15px 23px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .customer-6 {
+  padding: 15px 23px;
+}
+
+.menu .menu-items-2.property-1-check-point .customer-6 {
+  padding: 15px 23px;
+}
+
+.menu .menu-items-2.property-1-enforcement .customer-7 {
+  gap: 10px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .customer-7 {
+  gap: 10px;
+}
+
+.menu .menu-items-2.property-1-side-menu .customer-7 {
+  gap: 10px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .customer-7 {
+  gap: 10px;
+}
+
+.menu .menu-items-2.property-1-EOAR .customer-7 {
+  gap: 68px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .customer-7 {
+  gap: 10px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .customer-7 {
+  gap: 10px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .customer-7 {
+  gap: 10px;
+}
+
+.menu .menu-items-2.property-1-check-point .customer-7 {
+  gap: 10px;
+}
+
+.menu .menu-items-2.property-1-enforcement .line-3 {
+  height: 165px;
+  top: 143px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .line-3 {
+  height: 243px;
+  top: 154px;
+}
+
+.menu .menu-items-2.property-1-side-menu .line-3 {
+  height: 70px;
+  top: 98px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .line-3 {
+  height: 70px;
+  top: 98px;
+}
+
+.menu .menu-items-2.property-1-EOAR .line-3 {
+  height: 223px;
+  top: 294px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .line-3 {
+  height: 70px;
+  top: 296px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .line-3 {
+  height: 270px;
+  top: 98px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .line-3 {
+  height: 70px;
+  top: 204px;
+}
+
+.menu .menu-items-2.property-1-check-point .line-3 {
+  height: 154px;
+  top: 98px;
+}
+
+.menu .menu-items-2.property-1-enforcement .line-4 {
+  height: 111px;
+  top: 222px;
+}
+
+.menu .menu-items-2.property-1-enforcement-2 .line-4 {
+  height: 111px;
+  top: 278px;
+}
+
+.menu .menu-items-2.property-1-side-menu .line-4 {
+  height: 111px;
+  top: 222px;
+}
+
+.menu .menu-items-2.property-1-policy-and-control .line-4 {
+  height: 111px;
+  top: 222px;
+}
+
+.menu .menu-items-2.property-1-EOAR .line-4 {
+  height: 136px;
+  top: 340px;
+}
+
+.menu .menu-items-2.property-1-incident-monitoring-expand .line-4 {
+  height: 111px;
+  top: 222px;
+}
+
+.menu .menu-items-2.property-1-checkpoint-2 .line-4 {
+  height: 111px;
+  top: 222px;
+}
+
+.menu .menu-items-2.property-1-compliance-moitoring .line-4 {
+  height: 111px;
+  top: 222px;
+}
+
+.menu .menu-items-2.property-1-check-point .line-4 {
+  height: 111px;
+  top: 222px;
+}

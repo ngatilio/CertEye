@@ -1,0 +1,1 @@
+export { ThreatMitigation } from "./ThreatMitigation";

@@ -1,0 +1,204 @@
+.enforcement-add {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.enforcement-add .overlap-wrapper {
+  height: 1390px;
+  width: 698px;
+}
+
+.enforcement-add .overlap {
+  height: 1390px;
+  position: relative;
+}
+
+.enforcement-add .overlap-group-wrapper {
+  background-color: #ffffff;
+  height: 1390px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 698px;
+}
+
+.enforcement-add .overlap-2 {
+  height: 1344px;
+  left: 23px;
+  position: relative;
+  top: 27px;
+  width: 643px;
+}
+
+.enforcement-add .group-2 {
+  height: 1344px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 637px;
+}
+
+.enforcement-add .add-a-new-company {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 22px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 318px;
+}
+
+.enforcement-add .button {
+  all: unset;
+  box-sizing: border-box;
+  height: 46px;
+  left: 312px;
+  position: absolute;
+  top: 1298px;
+  width: 166px;
+}
+
+.enforcement-add .cancel-wrapper {
+  background-image: url(../../../static/img/group.png);
+  background-size: 100% 100%;
+  height: 46px;
+  position: relative;
+  width: 164px;
+}
+
+.enforcement-add .cancel {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 600;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 87px;
+}
+
+.enforcement-add .button-2 {
+  all: unset;
+  box-sizing: border-box;
+  height: 46px;
+  left: 501px;
+  position: absolute;
+  top: 1298px;
+  width: 136px;
+}
+
+.enforcement-add .next-wrapper {
+  background-image: url(../../../static/img/rectangle-3.svg);
+  background-size: 100% 100%;
+  height: 46px;
+  position: relative;
+  width: 134px;
+}
+
+.enforcement-add .next {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 600;
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 47px;
+}
+
+.enforcement-add .x {
+  height: 18px;
+  left: 625px;
+  position: absolute;
+  top: 5px;
+  width: 18px;
+}
+
+.enforcement-add .group-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 22px;
+  left: 23px;
+  position: absolute;
+  top: 78px;
+}
+
+.enforcement-add .group-3 {
+  height: 75px;
+  margin-right: -2px;
+  position: relative;
+  width: 641px;
+}
+
+.enforcement-add .text-wrapper {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.enforcement-add .div-wrapper {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 641px;
+}
+
+.enforcement-add .overlap-group-2 {
+  background-image: url(../../../static/img/vector-1.svg);
+  background-size: 100% 100%;
+  height: 46px;
+  position: relative;
+  width: 639px;
+}
+
+.enforcement-add .vector {
+  height: 45px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 638px;
+}
+
+.enforcement-add .blinkbee-2 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  width: 80px;
+}
+
+.enforcement-add .python-instance {
+  left: 23px !important;
+  position: absolute !important;
+  top: 275px !important;
+  width: 638px !important;
+}
+
+.enforcement-add .type-wide-version {
+  left: 23px !important;
+  position: absolute !important;
+  top: 176px !important;
+}

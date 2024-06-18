@@ -1,0 +1,61 @@
+.dropdown {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 16px 48px 16px 12px;
+  position: relative;
+  width: 151px;
+}
+
+.dropdown .frame {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  margin-right: -43px;
+  position: relative;
+  width: 134px;
+}
+
+.dropdown .div {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+  width: 102px;
+}
+
+.dropdown .iconsax-linear-eye {
+  height: 17px;
+  position: relative;
+  width: 17px;
+}
+
+.dropdown .location {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.dropdown .edit {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.dropdown .trash {
+  height: 15px;
+  position: relative;
+  width: 15px;
+}

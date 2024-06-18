@@ -1,0 +1,482 @@
+.added-company {
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.added-company .div-5 {
+  background-color: #eeeeee;
+  height: 1140px;
+  position: relative;
+  width: 1440px;
+}
+
+.added-company .NRS-database-list {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 967px;
+  left: 272px;
+  position: absolute;
+  top: 94px;
+  width: 1144px;
+}
+
+.added-company .search {
+  height: 46px;
+  left: 24px;
+  position: absolute;
+  top: 78px;
+  width: 356px;
+}
+
+.added-company .overlap-group-2 {
+  border-radius: 8px;
+  height: 46px;
+  position: relative;
+}
+
+.added-company .start-and-end {
+  background: transparent;
+  border: none;
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: absolute;
+  top: 14px;
+  width: 295px;
+}
+
+.added-company .search-2 {
+  height: 17px;
+  left: 16px;
+  position: absolute;
+  top: 15px;
+  width: 17px;
+}
+
+.added-company .rectangle {
+  border: 1px solid;
+  border-color: #d6d9de;
+  border-radius: 8px;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 356px;
+}
+
+.added-company .add-new-button {
+  align-items: center;
+  background-color: var(--logo-color);
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 957px;
+  padding: 13px 16px 14px;
+  position: absolute;
+  top: 78px;
+}
+
+.added-company .content {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  position: relative;
+}
+
+.added-company .add-icon {
+  height: 14px;
+  margin-left: -1px;
+  position: relative;
+  width: 14px;
+}
+
+.added-company .start-and-end-2 {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.added-company .content-wrapper {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--logo-color);
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 777px;
+  padding: 13px 16px 14px;
+  position: absolute;
+  top: 78px;
+}
+
+.added-company .start-and-end-3 {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.added-company .overlap-wrapper {
+  height: 231px;
+  left: 24px;
+  position: absolute;
+  top: 154px;
+  width: 1116px;
+}
+
+.added-company .overlap-2 {
+  background-image: url(../../../static/img/vector.svg);
+  background-size: 100% 100%;
+  height: 232px;
+  position: relative;
+  width: 1096px;
+}
+
+.added-company .path {
+  height: 1px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 1066px;
+}
+
+.added-company .text-wrapper-4 {
+  color: #222222;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+}
+
+.added-company .text-wrapper-5 {
+  color: #777777;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 81px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+  white-space: nowrap;
+}
+
+.added-company .text-wrapper-6 {
+  color: #777777;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 861px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+  white-space: nowrap;
+}
+
+.added-company .text-wrapper-7 {
+  color: #777777;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 383px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+  white-space: nowrap;
+}
+
+.added-company .text-wrapper-8 {
+  color: #777777;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 81px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 137px;
+  white-space: nowrap;
+}
+
+.added-company .text-wrapper-9 {
+  color: #777777;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 862px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 137px;
+  white-space: nowrap;
+}
+
+.added-company .text-wrapper-10 {
+  color: #777777;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 384px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 137px;
+  white-space: nowrap;
+}
+
+.added-company .text-wrapper-11 {
+  color: #777777;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 81px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 181px;
+  white-space: nowrap;
+}
+
+.added-company .text-wrapper-12 {
+  color: #777777;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 862px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 181px;
+  white-space: nowrap;
+}
+
+.added-company .text-wrapper-13 {
+  color: #777777;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 384px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 181px;
+  white-space: nowrap;
+}
+
+.added-company .more-horizontal {
+  height: 4px;
+  left: 1054px;
+  position: absolute;
+  top: 188px;
+  width: 18px;
+}
+
+.added-company .more-horizontal-2 {
+  height: 4px;
+  left: 1054px;
+  position: absolute;
+  top: 144px;
+  width: 18px;
+}
+
+.added-company .more-horizontal-3 {
+  height: 4px;
+  left: 1054px;
+  position: absolute;
+  top: 100px;
+  width: 18px;
+}
+
+.added-company .more-horizontal-4 {
+  height: 4px;
+  left: 1054px;
+  position: absolute;
+  top: 36px;
+  width: 18px;
+}
+
+.added-company .component {
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 93px;
+  width: 24px;
+}
+
+.added-company .component-2 {
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 137px;
+  width: 24px;
+}
+
+.added-company .ellipse {
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 181px;
+  width: 24px;
+}
+
+.added-company .group-18 {
+  height: 231px;
+  left: 24px;
+  position: absolute;
+  top: 416px;
+  width: 1116px;
+}
+
+.added-company .component-3 {
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 91px;
+  width: 24px;
+}
+
+.added-company .component-4 {
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 135px;
+  width: 24px;
+}
+
+.added-company .ellipse-2 {
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 179px;
+  width: 24px;
+}
+
+.added-company .group-19 {
+  height: 231px;
+  left: 24px;
+  position: absolute;
+  top: 676px;
+  width: 1116px;
+}
+
+.added-company .component-5 {
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 92px;
+  width: 24px;
+}
+
+.added-company .component-6 {
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 136px;
+  width: 24px;
+}
+
+.added-company .ellipse-3 {
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 180px;
+  width: 24px;
+}
+
+.added-company .text-wrapper-14 {
+  color: var(--x222-text-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.added-company .toast-message {
+  background-image: url(../../../static/img/rectangle-28.svg);
+  background-size: 100% 100%;
+  height: 46px;
+  left: 778px;
+  position: absolute;
+  top: 13px;
+  width: 342px;
+}
+
+.added-company .group-20 {
+  height: 19px;
+  left: 24px;
+  position: relative;
+  top: 13px;
+  width: 295px;
+}
+
+.added-company .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 268px;
+}
+
+.added-company .icon-feather-check {
+  height: 16px;
+  left: -1px;
+  position: absolute;
+  top: 2px;
+  width: 16px;
+}
+
+.added-company .header-instance {
+  background-color: transparent !important;
+  left: 248px !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.added-company .menu-instance {
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}

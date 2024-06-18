@@ -1,0 +1,305 @@
+.light-line-chart {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 6px #0d0a2c14;
+  height: 384px;
+  position: relative;
+  width: 400px;
+}
+
+.light-line-chart .info {
+  height: 22px;
+  left: 280px;
+  position: absolute;
+  top: 45px;
+  width: 80px;
+}
+
+.light-line-chart .rectangle-5 {
+  background-color: #5388d899;
+  border-radius: 100px;
+  height: 11px;
+  left: -3px;
+  position: absolute;
+  top: 3px;
+  width: 20px;
+}
+
+.light-line-chart .text-wrapper-2 {
+  color: #00000061;
+  font-family: "Rubik", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.light-line-chart .chart {
+  height: 279px;
+  left: 15px;
+  position: absolute;
+  top: 73px;
+  width: 364px;
+}
+
+.light-line-chart .overlap {
+  height: 256px;
+  left: -8px;
+  position: absolute;
+  top: -1px;
+  width: 375px;
+}
+
+.light-line-chart .overlap-group-2 {
+  height: 256px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.light-line-chart .text-wrapper-3 {
+  color: #00000061;
+  font-family: "Rubik", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.light-line-chart .text-wrapper-4 {
+  color: #00000061;
+  font-family: "Rubik", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 77px;
+  width: 20px;
+}
+
+.light-line-chart .rectangle-6 {
+  background-color: #f3f3f3;
+  height: 1px;
+  left: 18px;
+  position: absolute;
+  top: 245px;
+  width: 354px;
+}
+
+.light-line-chart .rectangle-7 {
+  background-color: #f3f3f3;
+  height: 1px;
+  left: 18px;
+  position: absolute;
+  top: 166px;
+  width: 354px;
+}
+
+.light-line-chart .rectangle-8 {
+  background-color: #f3f3f3;
+  height: 1px;
+  left: 18px;
+  position: absolute;
+  top: 87px;
+  width: 354px;
+}
+
+.light-line-chart .rectangle-9 {
+  background-color: #f3f3f3;
+  height: 1px;
+  left: 18px;
+  position: absolute;
+  top: 8px;
+  width: 354px;
+}
+
+.light-line-chart .rectangle-10 {
+  border: 1px dashed;
+  border-color: #f3f3f3;
+  height: 248px;
+  left: 18px;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.light-line-chart .rectangle-11 {
+  border: 1px dashed;
+  border-color: #f3f3f3;
+  height: 248px;
+  left: 372px;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.light-line-chart .rectangle-12 {
+  background-color: #e3e3e3;
+  height: 248px;
+  left: 68px;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.light-line-chart .rectangle-13 {
+  background-color: #e3e3e3;
+  height: 248px;
+  left: 119px;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.light-line-chart .rectangle-14 {
+  background-color: #e3e3e3;
+  height: 248px;
+  left: 169px;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.light-line-chart .rectangle-15 {
+  background-color: #e3e3e3;
+  height: 248px;
+  left: 220px;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.light-line-chart .rectangle-16 {
+  background-color: #e3e3e3;
+  height: 248px;
+  left: 270px;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.light-line-chart .rectangle-17 {
+  background-color: #e3e3e3;
+  height: 248px;
+  left: 321px;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.light-line-chart .line {
+  height: 239px;
+  left: 16px;
+  position: absolute;
+  top: 9px;
+  width: 357px;
+}
+
+.light-line-chart .bullet-2 {
+  height: 5px;
+  left: 16px;
+  position: absolute;
+  top: 243px;
+  width: 5px;
+}
+
+.light-line-chart .bullet-3 {
+  height: 5px;
+  left: 370px;
+  position: absolute;
+  top: 7px;
+  width: 5px;
+}
+
+.light-line-chart .text-wrapper-5 {
+  color: #00000061;
+  font-family: "Rubik", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 230px;
+  width: 3px;
+}
+
+.light-line-chart .text-wrapper-6 {
+  color: #00000061;
+  font-family: "Rubik", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 152px;
+  width: 14px;
+}
+
+.light-line-chart .text-wrapper-7 {
+  color: #00000061;
+  font-family: var(--text-overline-overline1-roboto-medium-font-family);
+  font-size: var(--text-overline-overline1-roboto-medium-font-size);
+  font-style: var(--text-overline-overline1-roboto-medium-font-style);
+  font-weight: var(--text-overline-overline1-roboto-medium-font-weight);
+  left: 339px;
+  letter-spacing: var(--text-overline-overline1-roboto-medium-letter-spacing);
+  line-height: var(--text-overline-overline1-roboto-medium-line-height);
+  position: absolute;
+  text-align: right;
+  top: 261px;
+  width: 31px;
+}
+
+.light-line-chart .text-wrapper-8 {
+  color: #00000061;
+  font-family: var(--text-overline-overline1-roboto-medium-font-family);
+  font-size: var(--text-overline-overline1-roboto-medium-font-size);
+  font-style: var(--text-overline-overline1-roboto-medium-font-style);
+  font-weight: var(--text-overline-overline1-roboto-medium-font-weight);
+  left: 10px;
+  letter-spacing: var(--text-overline-overline1-roboto-medium-letter-spacing);
+  line-height: var(--text-overline-overline1-roboto-medium-line-height);
+  position: absolute;
+  top: 261px;
+  width: 31px;
+}
+
+.light-line-chart .text-wrapper-9 {
+  color: #00000061;
+  font-family: var(--text-overline-overline1-roboto-medium-font-family);
+  font-size: var(--text-overline-overline1-roboto-medium-font-size);
+  font-style: var(--text-overline-overline1-roboto-medium-font-style);
+  font-weight: var(--text-overline-overline1-roboto-medium-font-weight);
+  left: 170px;
+  letter-spacing: var(--text-overline-overline1-roboto-medium-letter-spacing);
+  line-height: var(--text-overline-overline1-roboto-medium-line-height);
+  position: absolute;
+  top: 261px;
+  width: 31px;
+}
+
+.light-line-chart .text-wrapper-10 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}

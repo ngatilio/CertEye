@@ -1,0 +1,801 @@
+.NRS-database {
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.NRS-database .div-8 {
+  background-color: #eeeeee;
+  height: 1019px;
+  position: relative;
+  width: 1440px;
+}
+
+.NRS-database .NRS-database-list {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 855px;
+  left: 272px;
+  position: absolute;
+  top: 134px;
+  width: 1144px;
+}
+
+.NRS-database .search-3 {
+  height: 46px;
+  left: 24px;
+  position: absolute;
+  top: 24px;
+  width: 356px;
+}
+
+.NRS-database .overlap-group-3 {
+  border-radius: 8px;
+  height: 46px;
+  position: relative;
+}
+
+.NRS-database .input {
+  background: transparent;
+  border: none;
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: absolute;
+  top: 14px;
+  width: 295px;
+}
+
+.NRS-database .search-4 {
+  height: 17px;
+  left: 16px;
+  position: absolute;
+  top: 15px;
+  width: 17px;
+}
+
+.NRS-database .rectangle {
+  border: 1px solid;
+  border-color: #d6d9de;
+  border-radius: 8px;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 356px;
+}
+
+.NRS-database .add-new-button {
+  align-items: center;
+  background-color: var(--logo-color);
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 995px;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 24px;
+}
+
+.NRS-database .content-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  position: relative;
+}
+
+.NRS-database .add-icon-2 {
+  height: 14px;
+  margin-left: -1px;
+  position: relative;
+  width: 14px;
+}
+
+.NRS-database .start-and-end-2 {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.NRS-database .content-wrapper {
+  all: unset;
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--logo-color);
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 723px;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 24px;
+}
+
+.NRS-database .vector {
+  height: 15px;
+  position: relative;
+  width: 13px;
+}
+
+.NRS-database .start-and-end-3 {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.NRS-database .line-5 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 153px;
+  width: 1096px;
+}
+
+.NRS-database .JC {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+  white-space: nowrap;
+}
+
+.NRS-database .JC-2 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 222px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+  white-space: nowrap;
+}
+
+.NRS-database .JC-3 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 349px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+  white-space: nowrap;
+}
+
+.NRS-database .JC-4 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 500px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+  white-space: nowrap;
+}
+
+.NRS-database .JC-5 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 717px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+  white-space: nowrap;
+}
+
+.NRS-database .JC-6 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 903px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+  white-space: nowrap;
+}
+
+.NRS-database .navbar {
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 164px;
+  width: 980px;
+}
+
+.NRS-database .JC-7 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.NRS-database .JC-8 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 325px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.NRS-database .JC-9 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 198px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.NRS-database .JC-10 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 476px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.NRS-database .JC-11 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 693px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.NRS-database .group-17 {
+  height: 37px;
+  left: 863px;
+  position: absolute;
+  top: 7px;
+  width: 89px;
+}
+
+.NRS-database .JC-wrapper {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #188835;
+  border-radius: 20px;
+  height: 37px;
+  position: relative;
+  width: 87px;
+}
+
+.NRS-database .JC-12 {
+  color: #188835;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.NRS-database .navbar-2 {
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 242px;
+  width: 980px;
+}
+
+.NRS-database .navbar-3 {
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 320px;
+  width: 980px;
+}
+
+.NRS-database .element {
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 398px;
+  width: 980px;
+}
+
+.NRS-database .overlap-group-4 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cccccc;
+  border-radius: 20px;
+  height: 37px;
+  position: relative;
+  width: 87px;
+}
+
+.NRS-database .JC-13 {
+  color: #cccccc;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.NRS-database .element-2 {
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 476px;
+  width: 980px;
+}
+
+.NRS-database .element-3 {
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 554px;
+  width: 980px;
+}
+
+.NRS-database .element-4 {
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 632px;
+  width: 980px;
+}
+
+.NRS-database .element-5 {
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 710px;
+  width: 980px;
+}
+
+.NRS-database .group-18 {
+  height: 36px;
+  left: 1020px;
+  position: absolute;
+  top: 171px;
+  width: 102px;
+}
+
+.NRS-database .overlap-3 {
+  background-color: var(--f2f2f2-line-color);
+  border-radius: 4px;
+  height: 36px;
+  position: relative;
+  width: 100px;
+}
+
+.NRS-database .text-wrapper-6 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+}
+
+.NRS-database .drop-down-arrow-10 {
+  height: 28px !important;
+  left: 61px !important;
+  position: absolute !important;
+  top: 4px !important;
+  width: 33px !important;
+}
+
+.NRS-database .group-19 {
+  height: 36px;
+  left: 1020px;
+  position: absolute;
+  top: 249px;
+  width: 102px;
+}
+
+.NRS-database .group-20 {
+  height: 36px;
+  left: 1020px;
+  position: absolute;
+  top: 327px;
+  width: 102px;
+}
+
+.NRS-database .group-21 {
+  height: 36px;
+  left: 1020px;
+  position: absolute;
+  top: 405px;
+  width: 102px;
+}
+
+.NRS-database .group-22 {
+  height: 36px;
+  left: 1020px;
+  position: absolute;
+  top: 483px;
+  width: 102px;
+}
+
+.NRS-database .group-23 {
+  height: 36px;
+  left: 1020px;
+  position: absolute;
+  top: 561px;
+  width: 102px;
+}
+
+.NRS-database .group-24 {
+  height: 36px;
+  left: 1020px;
+  position: absolute;
+  top: 639px;
+  width: 102px;
+}
+
+.NRS-database .group-25 {
+  height: 36px;
+  left: 1020px;
+  position: absolute;
+  top: 717px;
+  width: 102px;
+}
+
+.NRS-database .line-6 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 223px;
+  width: 1096px;
+}
+
+.NRS-database .line-7 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 301px;
+  width: 1096px;
+}
+
+.NRS-database .line-8 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 379px;
+  width: 1096px;
+}
+
+.NRS-database .line-9 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 457px;
+  width: 1096px;
+}
+
+.NRS-database .line-10 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 535px;
+  width: 1096px;
+}
+
+.NRS-database .line-11 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 613px;
+  width: 1096px;
+}
+
+.NRS-database .line-12 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 691px;
+  width: 1096px;
+}
+
+.NRS-database .NRS-DB-filter-instance {
+  left: 860px !important;
+  position: absolute !important;
+  top: 24px !important;
+}
+
+.NRS-database .design-component-instance-node {
+  left: 12908px !important;
+  top: -5111px !important;
+}
+
+.NRS-database .NRS-DB-filter-2 {
+  left: 12661px !important;
+  top: -5076px !important;
+}
+
+.NRS-database .NRS-DB-filter-3 {
+  left: 12662px !important;
+  top: -5149px !important;
+}
+
+.NRS-database .NRS-DB-filter-4 {
+  height: 33px !important;
+  left: 12894px !important;
+  top: -5240px !important;
+  transform: unset !important;
+  width: 28px !important;
+}
+
+.NRS-database .NRS-DB-filter-5 {
+  height: 33px !important;
+  left: 12894px !important;
+  top: -5323px !important;
+  transform: unset !important;
+  width: 28px !important;
+}
+
+.NRS-database .NRS-DB-filter-6 {
+  left: 12864px !important;
+  top: -5401px !important;
+}
+
+.NRS-database .pagination {
+  height: 18px;
+  left: 974px;
+  position: absolute;
+  top: 797px;
+  width: 146px;
+}
+
+.NRS-database .JC-14 {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.NRS-database .iconsax-linear-23 {
+  height: 15px;
+  left: 131px;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.NRS-database .iconsax-linear-24 {
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.NRS-database .JC-15 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.NRS-database .JC-16 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 81px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.NRS-database .JC-17 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 111px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.NRS-database .AI-policies-controls-3 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 272px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.NRS-database .text-wrapper-7 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 423px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.NRS-database .text-wrapper-8 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 436px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.NRS-database .toast-message-wrapper {
+  height: 46px;
+  left: 1059px;
+  position: absolute;
+  top: 79px;
+  width: 360px;
+}
+
+.NRS-database .toast-message {
+  background-image: url(../../../static/img/rectangle-28.svg);
+  background-size: 100% 100%;
+  height: 46px;
+}
+
+.NRS-database .group-26 {
+  height: 19px;
+  left: 24px;
+  position: relative;
+  top: 13px;
+  width: 293px;
+}
+
+.NRS-database .new-company-added {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.NRS-database .icon-feather-check {
+  height: 16px;
+  left: -1px;
+  position: absolute;
+  top: 2px;
+  width: 16px;
+}
+
+.NRS-database .menu-instance {
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.NRS-database .menu-2 {
+  background-color: var(--logo-color) !important;
+}
+
+.NRS-database .menu-3 {
+  color: #ffffff !important;
+}
+
+.NRS-database .menu-4 {
+  color: var(--logo-color) !important;
+}
+
+.NRS-database .header-instance {
+  left: 248px !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.NRS-database .header-3 {
+  background-image: url(../../../static/img/header-1.svg) !important;
+}

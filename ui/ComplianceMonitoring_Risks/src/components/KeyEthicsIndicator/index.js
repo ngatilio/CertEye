@@ -1,0 +1,1 @@
+export { KeyEthicsIndicator } from "./KeyEthicsIndicator";

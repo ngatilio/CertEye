@@ -1,0 +1,374 @@
+.comment .group {
+  height: 46px;
+  position: relative;
+}
+
+.comment .component {
+  background-image: url(../../../static/img/rectangle-2201-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.comment .chirinjivi {
+  height: 46px;
+  left: -10998px;
+  position: absolute;
+  top: -6037px;
+  width: 46px;
+}
+
+.comment .overlap-group-wrapper {
+  height: 46px;
+  left: 61px;
+  position: absolute;
+  top: 0;
+  width: 583px;
+}
+
+.comment .overlap-group {
+  background-image: url(../../../static/img/rectangle-2-2.png);
+  background-size: 100% 100%;
+  height: 46px;
+  position: relative;
+  width: 581px;
+}
+
+.comment .text-wrapper {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.comment .div {
+  background-image: url(../../../static/img/rectangle-2-1.png);
+  background-size: 100% 100%;
+  height: 266px;
+  left: 61px;
+  position: absolute;
+  top: 0;
+  width: 547px;
+}
+
+.comment .overlap-group-2 {
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 547px;
+}
+
+.comment .line {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 547px;
+}
+
+.comment .img {
+  height: 42px;
+  left: 176px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.comment .line-2 {
+  height: 42px;
+  left: 276px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.comment .line-3 {
+  height: 42px;
+  left: 374px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.comment .icon-feather-bold {
+  height: 14px;
+  left: 20px;
+  position: absolute;
+  top: 14px;
+  width: 12px;
+}
+
+.comment .icon-feather-italic {
+  height: 14px;
+  left: 60px;
+  position: absolute;
+  top: 14px;
+  width: 12px;
+}
+
+.comment .icon-feather {
+  height: 14px;
+  left: 100px;
+  position: absolute;
+  top: 14px;
+  width: 13px;
+}
+
+.comment .icon-material {
+  height: 12px;
+  left: 142px;
+  position: absolute;
+  top: 15px;
+  width: 14px;
+}
+
+.comment .icon-awesome-list-ul {
+  height: 12px;
+  left: 198px;
+  position: absolute;
+  top: 15px;
+  width: 15px;
+}
+
+.comment .icon-awesome-list-ol {
+  height: 12px;
+  left: 243px;
+  position: absolute;
+  top: 16px;
+  width: 14px;
+}
+
+.comment .icon-feather-image {
+  height: 14px;
+  left: 296px;
+  position: absolute;
+  top: 15px;
+  width: 14px;
+}
+
+.comment .icon-feather-link {
+  height: 9px;
+  left: 337px;
+  position: absolute;
+  top: 17px;
+  width: 18px;
+}
+
+.comment .icon-feather-code {
+  height: 12px;
+  left: 394px;
+  position: absolute;
+  top: 15px;
+  width: 18px;
+}
+
+.comment .double-quotes-r {
+  height: 12px;
+  left: 442px;
+  position: absolute;
+  top: 15px;
+  width: 16px;
+}
+
+.comment .element-research-and {
+  height: 67px;
+  left: 20px;
+  position: absolute;
+  top: 62px;
+  width: 505px;
+}
+
+.comment .p {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 27px;
+  width: 501px;
+}
+
+.comment .hi-everyone {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.comment .span {
+  color: #222222;
+}
+
+.comment .text-wrapper-2 {
+  color: #1a508e;
+}
+
+.comment .add-new-button {
+  align-items: center;
+  background-color: var(--logo-color);
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 393px;
+  padding: 12px;
+  position: absolute;
+  top: 206px;
+}
+
+.comment .content {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  position: relative;
+}
+
+.comment .start-and-end {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.comment .content-wrapper {
+  all: unset;
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--logo-color);
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 296px;
+  padding: 12px;
+  position: absolute;
+  top: 206px;
+}
+
+.comment .start-and-end-2 {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.comment .group-2 {
+  height: 63px;
+  left: 61px;
+  position: absolute;
+  top: 320px;
+  width: 173px;
+}
+
+.comment .text-wrapper-3 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.comment .overlap {
+  background-image: url(../../../static/img/rectangle-28.png);
+  background-size: 100% 100%;
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 27px;
+  width: 36px;
+}
+
+.comment .group-3 {
+  height: 13px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 13px;
+}
+
+.comment .text-wrapper-4 {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 38px;
+  white-space: nowrap;
+}
+
+.comment .attachments {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 62px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 285px;
+  white-space: nowrap;
+}
+
+.comment .chirinjivi-2 {
+  height: 46px;
+  left: -11692px;
+  position: absolute;
+  top: -6041px;
+  width: 46px;
+}
+
+.comment.group-1000001884 {
+  height: 395px;
+  position: relative;
+  width: 643px;
+}
+
+.comment.component-229 {
+  height: 46px;
+  width: 642px;
+}

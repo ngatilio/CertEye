@@ -1,0 +1,178 @@
+.light-doughnut-chart {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 6px #0d0a2c14;
+  height: 384px;
+  position: relative;
+  width: 319px;
+}
+
+.light-doughnut-chart .doughnut {
+  height: 202px;
+  left: 54px;
+  position: absolute;
+  top: 61px;
+  transform: rotate(-90deg);
+  width: 200px;
+}
+
+.light-doughnut-chart .overlap-group {
+  height: 202px;
+  position: relative;
+}
+
+.light-doughnut-chart .element {
+  height: 181px;
+  left: 59px;
+  position: absolute;
+  top: 61px;
+  transform: rotate(90deg);
+  width: 101px;
+}
+
+.light-doughnut-chart .img {
+  height: 55px;
+  left: 18px;
+  position: absolute;
+  top: 137px;
+  transform: rotate(90deg);
+  width: 56px;
+}
+
+.light-doughnut-chart .element-2 {
+  height: 131px;
+  left: 84px;
+  position: absolute;
+  top: -15px;
+  transform: rotate(90deg);
+  width: 101px;
+}
+
+.light-doughnut-chart .element-3 {
+  height: 81px;
+  left: -37px;
+  position: absolute;
+  top: 42px;
+  transform: rotate(90deg);
+  width: 156px;
+}
+
+.light-doughnut-chart .data {
+  align-items: center;
+  display: inline-flex;
+  gap: 9px;
+  justify-content: center;
+  left: 15px;
+  position: absolute;
+  top: 272px;
+}
+
+.light-doughnut-chart .bullet {
+  height: 16.4px;
+  position: relative;
+  width: 23.87px;
+}
+
+.light-doughnut-chart .rectangle {
+  background-color: #f43737;
+  border-radius: 100px;
+  height: 8px;
+  left: 6px;
+  position: relative;
+  top: 4px;
+  width: 12px;
+}
+
+.light-doughnut-chart .txt {
+  height: 21px;
+  position: relative;
+  width: 69px;
+}
+
+.light-doughnut-chart .text-wrapper {
+  color: #00000061;
+  font-family: var(--text-overline-overline1-roboto-medium-font-family);
+  font-size: var(--text-overline-overline1-roboto-medium-font-size);
+  font-style: var(--text-overline-overline1-roboto-medium-font-style);
+  font-weight: var(--text-overline-overline1-roboto-medium-font-weight);
+  height: 14px;
+  left: -1px;
+  letter-spacing: var(--text-overline-overline1-roboto-medium-letter-spacing);
+  line-height: var(--text-overline-overline1-roboto-medium-line-height);
+  position: absolute;
+  top: 3px;
+  width: 95px;
+}
+
+.light-doughnut-chart .div {
+  align-items: center;
+  display: inline-flex;
+  gap: 9px;
+  justify-content: center;
+  left: 15px;
+  position: absolute;
+  top: 299px;
+}
+
+.light-doughnut-chart .rectangle-2 {
+  background-color: #ff9f40;
+  border-radius: 100px;
+  height: 8px;
+  left: 6px;
+  position: relative;
+  top: 4px;
+  width: 12px;
+}
+
+.light-doughnut-chart .data-2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 9px;
+  justify-content: center;
+  left: 15px;
+  position: absolute;
+  top: 326px;
+}
+
+.light-doughnut-chart .rectangle-3 {
+  background-color: #6ae4ff;
+  border-radius: 100px;
+  height: 8px;
+  left: 6px;
+  position: relative;
+  top: 4px;
+  width: 12px;
+}
+
+.light-doughnut-chart .data-3 {
+  align-items: center;
+  display: inline-flex;
+  gap: 9px;
+  justify-content: center;
+  left: 15px;
+  position: absolute;
+  top: 353px;
+}
+
+.light-doughnut-chart .rectangle-4 {
+  background-color: #8ff651;
+  border-radius: 100px;
+  height: 8px;
+  left: 6px;
+  position: relative;
+  top: 4px;
+  width: 12px;
+}
+
+.light-doughnut-chart .card-title {
+  color: var(--neutral-colorsblack);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+}

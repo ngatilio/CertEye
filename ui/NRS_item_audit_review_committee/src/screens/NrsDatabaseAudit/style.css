@@ -1,0 +1,449 @@
+.NRS-database-audit {
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.NRS-database-audit .div-4 {
+  background-color: #eeeeee;
+  height: 960px;
+  position: relative;
+  width: 1440px;
+}
+
+.NRS-database-audit .overlap-2 {
+  height: 189px;
+  left: 272px;
+  position: absolute;
+  top: 134px;
+  width: 1150px;
+}
+
+.NRS-database-audit .group-16 {
+  height: 189px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1150px;
+}
+
+.NRS-database-audit .overlap-group-3 {
+  height: 189px;
+  position: relative;
+  width: 1144px;
+}
+
+.NRS-database-audit .rectangle {
+  height: 187px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1144px;
+}
+
+.NRS-database-audit .rectangle-2 {
+  height: 3px;
+  left: 824px;
+  position: absolute;
+  top: 186px;
+  width: 223px;
+}
+
+.NRS-database-audit .max-smith {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 138px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.NRS-database-audit .individual-account {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 138px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 64px;
+}
+
+.NRS-database-audit .span {
+  color: #777777;
+}
+
+.NRS-database-audit .text-wrapper-5 {
+  color: #686868;
+  font-size: 19px;
+  font-weight: 500;
+}
+
+.NRS-database-audit .text-wrapper-6 {
+  color: #222222;
+}
+
+.NRS-database-audit .profile-created-on {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 138px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 101px;
+}
+
+.NRS-database-audit .text-wrapper-7 {
+  color: #9e9fac;
+  font-size: 17px;
+}
+
+.NRS-database-audit .text-wrapper-8 {
+  color: #9e9fac;
+}
+
+.NRS-database-audit .navbar {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 80px;
+  left: 22px;
+  position: absolute;
+  top: 153px;
+}
+
+.NRS-database-audit .text-wrapper-9 {
+  color: #9e9fac;
+  font-family: "Rubik", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.NRS-database-audit .vehicles {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.NRS-database-audit .rectangle-3 {
+  height: 106px;
+  left: 22px;
+  position: absolute;
+  top: 22px;
+  width: 96px;
+}
+
+.NRS-database-audit .text-wrapper-10 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 272px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.NRS-database-audit .text-wrapper-11 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 377px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.NRS-database-audit .text-wrapper-12 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 390px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.NRS-database-audit .NRS-database-list {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 589px;
+  left: 272px;
+  position: absolute;
+  top: 343px;
+  width: 1144px;
+}
+
+.NRS-database-audit .add-new-button {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--logo-color);
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 964px;
+  padding: 13px 16px 14px;
+  position: absolute;
+  top: 24px;
+}
+
+.NRS-database-audit .content {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  position: relative;
+}
+
+.NRS-database-audit .add-icon {
+  height: 14px;
+  margin-left: -1px;
+  position: relative;
+  width: 14px;
+}
+
+.NRS-database-audit .start-and-end {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.NRS-database-audit .text-wrapper-13 {
+  color: var(--x222-text-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.NRS-database-audit .group-17 {
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 133px;
+  width: 185px;
+}
+
+.NRS-database-audit .group-18 {
+  height: 41px;
+  left: 74px;
+  position: absolute;
+  top: 5px;
+  width: 115px;
+}
+
+.NRS-database-audit .text-wrapper-14 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.NRS-database-audit .saranraj-c {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 24px;
+}
+
+.NRS-database-audit .vector {
+  height: 50px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.NRS-database-audit .group-19 {
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 340px;
+  width: 185px;
+}
+
+.NRS-database-audit .group-20 {
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 199px;
+  width: 226px;
+}
+
+.NRS-database-audit .group-21 {
+  height: 41px;
+  left: 74px;
+  position: absolute;
+  top: 4px;
+  width: 156px;
+}
+
+.NRS-database-audit .component {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.NRS-database-audit .group-22 {
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 481px;
+  width: 197px;
+}
+
+.NRS-database-audit .group-23 {
+  height: 41px;
+  left: 74px;
+  position: absolute;
+  top: 4px;
+  width: 127px;
+}
+
+.NRS-database-audit .path {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 118px;
+  width: 1066px;
+}
+
+.NRS-database-audit .path-2 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 316px;
+  width: 1066px;
+}
+
+.NRS-database-audit .path-3 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 456px;
+  width: 1066px;
+}
+
+.NRS-database-audit .text-wrapper-15 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 81px;
+  white-space: nowrap;
+}
+
+.NRS-database-audit .nextbrain {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 278px;
+  white-space: nowrap;
+}
+
+.NRS-database-audit .nextbrain-2 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 419px;
+  white-space: nowrap;
+}
+
+.NRS-database-audit .menu-instance {
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.NRS-database-audit .design-component-instance-node {
+  background-color: var(--logo-color) !important;
+}
+
+.NRS-database-audit .menu-2 {
+  color: #ffffff !important;
+}
+
+.NRS-database-audit .menu-3 {
+  color: var(--logo-color) !important;
+}
+
+.NRS-database-audit .header-instance {
+  background-color: transparent !important;
+  left: 248px !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.NRS-database-audit .header-2 {
+  background-image: url(../../../static/img/header-1.svg) !important;
+}

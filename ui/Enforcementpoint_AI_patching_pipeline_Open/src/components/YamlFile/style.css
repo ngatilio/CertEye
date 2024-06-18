@@ -1,0 +1,344 @@
+.YAML-file {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #d6d6d6;
+  border-radius: 6px;
+  height: 530px;
+  width: 736px;
+}
+
+.YAML-file .group {
+  height: 501px;
+  left: 15px;
+  position: relative;
+  top: 10px;
+  width: 404px;
+}
+
+.YAML-file .text-wrapper {
+  color: #2a3273;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.YAML-file .name {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.YAML-file .span {
+  color: #2a3273;
+}
+
+.YAML-file .text-wrapper-2 {
+  color: #3d3d3d;
+}
+
+.YAML-file .div {
+  color: #2a3273;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 34px;
+}
+
+.YAML-file .text-wrapper-3 {
+  color: #2a3273;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 51px;
+}
+
+.YAML-file .type-int {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 66px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 68px;
+}
+
+.YAML-file .text-wrapper-4 {
+  color: #2a3273;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 66px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 87px;
+}
+
+.YAML-file .text-wrapper-5 {
+  color: #2a3273;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 105px;
+}
+
+.YAML-file .text-wrapper-6 {
+  color: #2a3273;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 123px;
+}
+
+.YAML-file .datastore {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 58px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 142px;
+}
+
+.YAML-file .path-on-datastore {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 58px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 162px;
+}
+
+.YAML-file .text-wrapper-7 {
+  color: #000000;
+}
+
+.YAML-file .text-wrapper-8 {
+  color: #22a83e;
+}
+
+.YAML-file .text-wrapper-9 {
+  color: #2a3273;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 181px;
+}
+
+.YAML-file .fairness-checker {
+  color: #2a3273;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 200px;
+}
+
+.YAML-file .runconfig-yaml {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 71px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 219px;
+}
+
+.YAML-file .pool-id-fairnesspool {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 71px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 238px;
+}
+
+.YAML-file .text-wrapper-10 {
+  color: #2a3273;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 71px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 258px;
+}
+
+.YAML-file .executable-fairness {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 71px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 280px;
+}
+
+.YAML-file .source-directory {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 71px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 301px;
+}
+
+.YAML-file .allow-reuse-false {
+  color: #2a3273;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 71px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 322px;
+}
+
+.YAML-file .text-wrapper-11 {
+  color: #2a3273;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 71px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 340px;
+}
+
+.YAML-file .text-wrapper-12 {
+  color: #2a3273;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 95px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 362px;
+}
+
+.YAML-file .source-input {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 111px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 382px;
+}
+
+.YAML-file .text-wrapper-13 {
+  color: #2a3273;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 73px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 402px;
+}
+
+.YAML-file .text-wrapper-14 {
+  color: #2a3273;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 88px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 422px;
+}
+
+.YAML-file .destination-output {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 109px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 442px;
+}
+
+.YAML-file .p {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 109px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 462px;
+}
+
+.YAML-file .audit-checker {
+  color: #2a3273;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 484px;
+}

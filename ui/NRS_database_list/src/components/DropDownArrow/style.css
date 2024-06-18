@@ -1,0 +1,28 @@
+.drop-down-arrow {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.drop-down-arrow.down {
+  height: 28px;
+  transform: rotate(-90deg);
+  width: 1px;
+}
+
+.drop-down-arrow.up {
+  height: 28px;
+  transform: rotate(-90deg);
+  width: 1px;
+}
+
+.drop-down-arrow.left {
+  height: 30px;
+  width: 28px;
+}
+
+.drop-down-arrow.right {
+  height: 1px;
+  transform: rotate(-180deg);
+  width: 1px;
+}

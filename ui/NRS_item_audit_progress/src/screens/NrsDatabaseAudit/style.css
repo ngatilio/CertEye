@@ -1,0 +1,348 @@
+.NRS-database-audit {
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.NRS-database-audit .div-4 {
+  background-color: #eeeeee;
+  height: 960px;
+  position: relative;
+  width: 1440px;
+}
+
+.NRS-database-audit .overlap-2 {
+  height: 189px;
+  left: 272px;
+  position: absolute;
+  top: 134px;
+  width: 1150px;
+}
+
+.NRS-database-audit .group-16 {
+  height: 189px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1150px;
+}
+
+.NRS-database-audit .overlap-group-3 {
+  height: 189px;
+  position: relative;
+  width: 1144px;
+}
+
+.NRS-database-audit .rectangle {
+  height: 187px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1144px;
+}
+
+.NRS-database-audit .rectangle-2 {
+  height: 3px;
+  left: 420px;
+  position: absolute;
+  top: 186px;
+  width: 180px;
+}
+
+.NRS-database-audit .max-smith {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 138px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.NRS-database-audit .individual-account {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 138px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 64px;
+}
+
+.NRS-database-audit .span {
+  color: #777777;
+}
+
+.NRS-database-audit .text-wrapper-5 {
+  color: #686868;
+  font-size: 19px;
+  font-weight: 500;
+}
+
+.NRS-database-audit .text-wrapper-6 {
+  color: #222222;
+}
+
+.NRS-database-audit .profile-created-on {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 138px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 101px;
+}
+
+.NRS-database-audit .text-wrapper-7 {
+  color: #9e9fac;
+  font-size: 17px;
+}
+
+.NRS-database-audit .text-wrapper-8 {
+  color: #9e9fac;
+}
+
+.NRS-database-audit .navbar {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 80px;
+  left: 22px;
+  position: absolute;
+  top: 153px;
+}
+
+.NRS-database-audit .text-wrapper-9 {
+  color: #9e9fac;
+  font-family: "Rubik", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.NRS-database-audit .beneficieries {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.NRS-database-audit .rectangle-3 {
+  height: 106px;
+  left: 22px;
+  position: absolute;
+  top: 22px;
+  width: 96px;
+}
+
+.NRS-database-audit .text-wrapper-10 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 272px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.NRS-database-audit .text-wrapper-11 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 377px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.NRS-database-audit .text-wrapper-12 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 390px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.NRS-database-audit .overlap-3 {
+  background-image: url(../../../static/img/rectangle-2203.svg);
+  background-size: 100% 100%;
+  height: 591px;
+  left: 272px;
+  position: absolute;
+  top: 343px;
+  width: 1144px;
+}
+
+.NRS-database-audit .JC {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 107px;
+  white-space: nowrap;
+}
+
+.NRS-database-audit .UX-research-for {
+  color: #555555;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+  width: 1091px;
+}
+
+.NRS-database-audit .navbar-2 {
+  height: 75px;
+  left: 24px;
+  position: absolute;
+  top: 154px;
+  width: 1073px;
+}
+
+.NRS-database-audit .text-wrapper-13 {
+  color: #000000;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 57px;
+  white-space: nowrap;
+}
+
+.NRS-database-audit .text-wrapper-14 {
+  color: #000000;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 188px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 57px;
+  white-space: nowrap;
+}
+
+.NRS-database-audit .text-wrapper-15 {
+  color: #000000;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 378px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 57px;
+  white-space: nowrap;
+}
+
+.NRS-database-audit .text-wrapper-16 {
+  color: #000000;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 577px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 57px;
+  white-space: nowrap;
+}
+
+.NRS-database-audit .text-wrapper-17 {
+  color: #000000;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 795px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 57px;
+  white-space: nowrap;
+}
+
+.NRS-database-audit .text-wrapper-18 {
+  color: #000000;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 984px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 57px;
+  white-space: nowrap;
+}
+
+.NRS-database-audit .group-17 {
+  height: 40px;
+  left: 20px;
+  position: absolute;
+  top: 0;
+  width: 1020px;
+}
+
+.NRS-database-audit .menu-instance {
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.NRS-database-audit .design-component-instance-node {
+  background-color: var(--logo-color) !important;
+}
+
+.NRS-database-audit .menu-2 {
+  color: #ffffff !important;
+}
+
+.NRS-database-audit .menu-3 {
+  color: var(--logo-color) !important;
+}
+
+.NRS-database-audit .header-instance {
+  background-color: transparent !important;
+  left: 248px !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.NRS-database-audit .header-2 {
+  background-image: url(../../../static/img/header-1.svg) !important;
+}

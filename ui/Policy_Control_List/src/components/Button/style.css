@@ -1,0 +1,404 @@
+.button {
+  align-items: center;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.button .content {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  position: relative;
+}
+
+.button .start-and-end {
+  position: relative;
+}
+
+.button .add-icon {
+  position: relative;
+}
+
+.button .div {
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button.cancel {
+  background-color: var(--f2f2f2-line-color);
+  padding: 13px 24px 14px;
+}
+
+.button.export {
+  background-color: var(--f2f2f2-line-color);
+  padding: 13px 16px 14px;
+}
+
+.button.import {
+  background-color: var(--f2f2f2-line-color);
+  padding: 13px 16px 14px;
+}
+
+.button.forty {
+  height: 40px;
+}
+
+.button.save-clone {
+  background-color: var(--f2f2f2-line-color);
+  padding: 13px 24px 14px;
+}
+
+.button.filter-cancel {
+  background-color: var(--f2f2f2-line-color);
+  padding: 13px 24px 14px;
+}
+
+.button.save-secondary {
+  background-color: var(--f2f2f2-line-color);
+  padding: 13px 24px 14px;
+}
+
+.button.save {
+  background-color: var(--button-color);
+  padding: 13px 24px 14px;
+}
+
+.button.print {
+  background-color: var(--f2f2f2-line-color);
+  padding: 13px 20px 14px;
+}
+
+.button.delete {
+  background-color: var(--button-color);
+  padding: 13px 24px 14px;
+}
+
+.button.update {
+  background-color: var(--button-color);
+  padding: 13px 24px 14px;
+}
+
+.button.print-all {
+  background-color: var(--button-color);
+  padding: 13px 24px 14px;
+}
+
+.button.add {
+  background-color: var(--button-color);
+  padding: 13px 24px 14px;
+}
+
+.button.apply {
+  background-color: var(--button-color);
+  padding: 13px 24px 14px;
+}
+
+.button.save-new {
+  background-color: var(--button-color);
+  padding: 13px 24px 14px;
+}
+
+.button.forty .content {
+  margin-bottom: -3px;
+  margin-top: -3px;
+}
+
+.button.cancel .start-and-end {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button.export .start-and-end {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+}
+
+.button.import .start-and-end {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+}
+
+.button.save-clone .start-and-end {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button.filter-cancel .start-and-end {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button.save-secondary .start-and-end {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button.save .start-and-end {
+  color: var(--fff-white);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button.print .start-and-end {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+}
+
+.button.delete .start-and-end {
+  color: var(--fff-white);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button.update .start-and-end {
+  color: var(--fff-white);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button.print-all .start-and-end {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+}
+
+.button.add .start-and-end {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+}
+
+.button.apply .start-and-end {
+  color: var(--fff-white);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button.save-new .start-and-end {
+  color: var(--fff-white);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button.cancel .add-icon {
+  height: 15px;
+  width: 15px;
+}
+
+.button.export .add-icon {
+  height: 16px;
+  width: 16px;
+}
+
+.button.import .add-icon {
+  height: 16px;
+  width: 16px;
+}
+
+.button.save-clone .add-icon {
+  height: 15px;
+  width: 15px;
+}
+
+.button.filter-cancel .add-icon {
+  height: 15px;
+  width: 15px;
+}
+
+.button.save-secondary .add-icon {
+  height: 15px;
+  width: 15px;
+}
+
+.button.save .add-icon {
+  height: 15px;
+  width: 15px;
+}
+
+.button.print .add-icon {
+  height: 15px;
+  width: 15px;
+}
+
+.button.delete .add-icon {
+  height: 15px;
+  width: 15px;
+}
+
+.button.update .add-icon {
+  height: 15px;
+  width: 15px;
+}
+
+.button.print-all .add-icon {
+  height: 15px;
+  width: 15px;
+}
+
+.button.add .add-icon {
+  height: 14px;
+  margin-left: -1px;
+  width: 14px;
+}
+
+.button.apply .add-icon {
+  height: 15px;
+  width: 15px;
+}
+
+.button.save-new .add-icon {
+  height: 15px;
+  width: 15px;
+}
+
+.button.cancel .div {
+  color: var(--x777-body-text);
+  font-weight: 400;
+}
+
+.button.export .div {
+  color: var(--x777-body-text);
+  font-weight: 400;
+}
+
+.button.import .div {
+  color: var(--x777-body-text);
+  font-weight: 400;
+}
+
+.button.save-clone .div {
+  color: var(--x777-body-text);
+  font-weight: 400;
+}
+
+.button.filter-cancel .div {
+  color: var(--x777-body-text);
+  font-weight: 400;
+}
+
+.button.save-secondary .div {
+  color: var(--x777-body-text);
+  font-weight: 400;
+}
+
+.button.save .div {
+  color: var(--x777-body-text);
+  font-weight: 400;
+}
+
+.button.print .div {
+  color: var(--x777-body-text);
+  font-weight: 400;
+}
+
+.button.delete .div {
+  color: var(--x777-body-text);
+  font-weight: 400;
+}
+
+.button.update .div {
+  color: var(--x777-body-text);
+  font-weight: 400;
+}
+
+.button.print-all .div {
+  color: var(--fff-white);
+  font-weight: 600;
+}
+
+.button.add .div {
+  color: var(--fff-white);
+  font-weight: 600;
+}
+
+.button.apply .div {
+  color: var(--x777-body-text);
+  font-weight: 400;
+}
+
+.button.save-new .div {
+  color: var(--x777-body-text);
+  font-weight: 400;
+}

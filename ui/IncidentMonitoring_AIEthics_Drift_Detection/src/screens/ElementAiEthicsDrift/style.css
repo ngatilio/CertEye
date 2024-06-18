@@ -1,0 +1,1677 @@
+.element-AI-ethics-drift {
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.element-AI-ethics-drift .div-6 {
+  background-color: #eeeeee;
+  height: 1338px;
+  position: relative;
+  width: 1440px;
+}
+
+.element-AI-ethics-drift .overlap-2 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 1176px;
+  left: 272px;
+  position: absolute;
+  top: 134px;
+  width: 1144px;
+}
+
+.element-AI-ethics-drift .chart {
+  height: 328px;
+  left: 569px;
+  position: absolute;
+  top: 715px;
+  width: 538px;
+}
+
+.element-AI-ethics-drift .overlap-3 {
+  background-color: var(--neutral-colorswhite);
+  border-radius: 20px;
+  box-shadow: 0px 2px 8px #0d0a2c1a;
+  height: 328px;
+  position: relative;
+  width: 534px;
+}
+
+.element-AI-ethics-drift .overlap-4 {
+  height: 220px;
+  left: -46px;
+  position: absolute;
+  top: 97px;
+  width: 537px;
+}
+
+.element-AI-ethics-drift .days {
+  height: 12px;
+  left: 118px;
+  position: absolute;
+  top: 168px;
+  width: 419px;
+}
+
+.element-AI-ethics-drift .element-july {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-uppercase-200-regular-font-family);
+  font-size: var(--text-single-uppercase-200-regular-font-size);
+  font-style: var(--text-single-uppercase-200-regular-font-style);
+  font-weight: var(--text-single-uppercase-200-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--text-single-uppercase-200-regular-letter-spacing);
+  line-height: var(--text-single-uppercase-200-regular-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.element-AI-ethics-drift .element-p-m {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-uppercase-200-regular-font-family);
+  font-size: var(--text-single-uppercase-200-regular-font-size);
+  font-style: var(--text-single-uppercase-200-regular-font-style);
+  font-weight: var(--text-single-uppercase-200-regular-font-weight);
+  left: 350px;
+  letter-spacing: var(--text-single-uppercase-200-regular-letter-spacing);
+  line-height: var(--text-single-uppercase-200-regular-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.element-AI-ethics-drift .overlap-5 {
+  height: 193px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 536px;
+}
+
+.element-AI-ethics-drift .amounts {
+  height: 139px;
+  left: 92px;
+  position: absolute;
+  top: 2px;
+  width: 25px;
+}
+
+.element-AI-ethics-drift .text-wrapper-3 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-200-regular-font-family);
+  font-size: var(--text-single-200-regular-font-size);
+  font-style: var(--text-single-200-regular-font-style);
+  font-weight: var(--text-single-200-regular-font-weight);
+  left: 8px;
+  letter-spacing: var(--text-single-200-regular-letter-spacing);
+  line-height: var(--text-single-200-regular-line-height);
+  position: absolute;
+  text-align: right;
+  top: 127px;
+  white-space: nowrap;
+  width: 9px;
+}
+
+.element-AI-ethics-drift .text-wrapper-4 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-200-regular-font-family);
+  font-size: var(--text-single-200-regular-font-size);
+  font-style: var(--text-single-200-regular-font-style);
+  font-weight: var(--text-single-200-regular-font-weight);
+  left: 2px;
+  letter-spacing: var(--text-single-200-regular-letter-spacing);
+  line-height: var(--text-single-200-regular-line-height);
+  position: absolute;
+  text-align: right;
+  top: 84px;
+  white-space: nowrap;
+  width: 15px;
+}
+
+.element-AI-ethics-drift .text-wrapper-5 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-200-regular-font-family);
+  font-size: var(--text-single-200-regular-font-size);
+  font-style: var(--text-single-200-regular-font-style);
+  font-weight: var(--text-single-200-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--text-single-200-regular-letter-spacing);
+  line-height: var(--text-single-200-regular-line-height);
+  position: absolute;
+  text-align: right;
+  top: 42px;
+  white-space: nowrap;
+  width: 17px;
+}
+
+.element-AI-ethics-drift .text-wrapper-6 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-200-regular-font-family);
+  font-size: var(--text-single-200-regular-font-size);
+  font-style: var(--text-single-200-regular-font-style);
+  font-weight: var(--text-single-200-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--text-single-200-regular-letter-spacing);
+  line-height: var(--text-single-200-regular-line-height);
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+  width: 17px;
+}
+
+.element-AI-ethics-drift .chart-lines {
+  height: 150px;
+  left: 119px;
+  position: absolute;
+  top: 0;
+  width: 414px;
+}
+
+.element-AI-ethics-drift .overlap-group-3 {
+  height: 150px;
+  position: relative;
+}
+
+.element-AI-ethics-drift .horizontal-lines {
+  height: 149px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 414px;
+}
+
+.element-AI-ethics-drift .line-4 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: -2px;
+  width: 414px;
+}
+
+.element-AI-ethics-drift .line-5 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 35px;
+  width: 414px;
+}
+
+.element-AI-ethics-drift .line-6 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 71px;
+  width: 414px;
+}
+
+.element-AI-ethics-drift .line-7 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 107px;
+  width: 414px;
+}
+
+.element-AI-ethics-drift .line-8 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 148px;
+  width: 414px;
+}
+
+.element-AI-ethics-drift .vertical-lines {
+  height: 150px;
+  left: 84px;
+  position: absolute;
+  top: 0;
+  width: 251px;
+}
+
+.element-AI-ethics-drift .divider {
+  height: 150px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.element-AI-ethics-drift .divider-2 {
+  height: 150px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.element-AI-ethics-drift .divider-3 {
+  height: 150px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.element-AI-ethics-drift .divider-4 {
+  height: 150px;
+  left: 192px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.element-AI-ethics-drift .divider-5 {
+  height: 150px;
+  left: 251px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.element-AI-ethics-drift .chart-flow {
+  height: 136px;
+  left: 119px;
+  position: absolute;
+  top: 14px;
+  width: 416px;
+}
+
+.element-AI-ethics-drift .active-line-elements {
+  height: 12px;
+  left: 456px;
+  position: absolute;
+  top: 10px;
+  width: 12px;
+}
+
+.element-AI-ethics-drift .card-title {
+  color: var(--neutral-colorsblack);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 53px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.element-AI-ethics-drift .p {
+  color: var(--neutral-colorsblack);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 120px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 192px;
+  white-space: nowrap;
+}
+
+.element-AI-ethics-drift .divider-6 {
+  height: 1px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 84px;
+  width: 454px;
+}
+
+.element-AI-ethics-drift .card-info {
+  height: 50px;
+  left: 46px;
+  position: absolute;
+  top: 16px;
+  width: 249px;
+}
+
+.element-AI-ethics-drift .card-title-2 {
+  color: var(--neutral-colorsblack);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.element-AI-ethics-drift .type-card {
+  color: var(--neutral-colors400);
+  font-family: var(--text-single-400-regular-font-family);
+  font-size: var(--text-single-400-regular-font-size);
+  font-style: var(--text-single-400-regular-font-style);
+  font-weight: var(--text-single-400-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--text-single-400-regular-letter-spacing);
+  line-height: var(--text-single-400-regular-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 107px;
+}
+
+.element-AI-ethics-drift .chart-2 {
+  height: 328px;
+  left: 21px;
+  position: absolute;
+  top: 715px;
+  width: 532px;
+}
+
+.element-AI-ethics-drift .overlap-6 {
+  background-color: var(--neutral-colorswhite);
+  border-radius: 20px;
+  box-shadow: 0px 2px 8px #0d0a2c1a;
+  height: 328px;
+  position: relative;
+  width: 528px;
+}
+
+.element-AI-ethics-drift .overlap-7 {
+  height: 188px;
+  left: -47px;
+  position: absolute;
+  top: 101px;
+  width: 567px;
+}
+
+.element-AI-ethics-drift .months {
+  height: 12px;
+  left: 161px;
+  position: absolute;
+  top: 163px;
+  width: 406px;
+}
+
+.element-AI-ethics-drift .text-wrapper-7 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-200-regular-font-family);
+  font-size: var(--text-single-200-regular-font-size);
+  font-style: var(--text-single-200-regular-font-style);
+  font-weight: var(--text-single-200-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--text-single-200-regular-letter-spacing);
+  line-height: var(--text-single-200-regular-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.element-AI-ethics-drift .text-wrapper-8 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-200-regular-font-family);
+  font-size: var(--text-single-200-regular-font-size);
+  font-style: var(--text-single-200-regular-font-style);
+  font-weight: var(--text-single-200-regular-font-weight);
+  left: 73px;
+  letter-spacing: var(--text-single-200-regular-letter-spacing);
+  line-height: var(--text-single-200-regular-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 25px;
+}
+
+.element-AI-ethics-drift .text-wrapper-9 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-200-regular-font-family);
+  font-size: var(--text-single-200-regular-font-size);
+  font-style: var(--text-single-200-regular-font-style);
+  font-weight: var(--text-single-200-regular-font-weight);
+  left: 146px;
+  letter-spacing: var(--text-single-200-regular-letter-spacing);
+  line-height: var(--text-single-200-regular-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 26px;
+}
+
+.element-AI-ethics-drift .text-wrapper-10 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-200-regular-font-family);
+  font-size: var(--text-single-200-regular-font-size);
+  font-style: var(--text-single-200-regular-font-style);
+  font-weight: var(--text-single-200-regular-font-weight);
+  left: 221px;
+  letter-spacing: var(--text-single-200-regular-letter-spacing);
+  line-height: var(--text-single-200-regular-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.element-AI-ethics-drift .text-wrapper-11 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-200-regular-font-family);
+  font-size: var(--text-single-200-regular-font-size);
+  font-style: var(--text-single-200-regular-font-style);
+  font-weight: var(--text-single-200-regular-font-weight);
+  left: 293px;
+  letter-spacing: var(--text-single-200-regular-letter-spacing);
+  line-height: var(--text-single-200-regular-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 28px;
+}
+
+.element-AI-ethics-drift .text-wrapper-12 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-200-regular-font-family);
+  font-size: var(--text-single-200-regular-font-size);
+  font-style: var(--text-single-200-regular-font-style);
+  font-weight: var(--text-single-200-regular-font-weight);
+  left: 370px;
+  letter-spacing: var(--text-single-200-regular-letter-spacing);
+  line-height: var(--text-single-200-regular-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.element-AI-ethics-drift .overlap-8 {
+  height: 188px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 555px;
+}
+
+.element-AI-ethics-drift .amount {
+  height: 149px;
+  left: 110px;
+  position: absolute;
+  top: 0;
+  width: 59px;
+}
+
+.element-AI-ethics-drift .text-wrapper-13 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-300-regular-font-family);
+  font-size: var(--text-single-300-regular-font-size);
+  font-style: var(--text-single-300-regular-font-style);
+  font-weight: var(--text-single-300-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--text-single-300-regular-letter-spacing);
+  line-height: var(--text-single-300-regular-line-height);
+  position: absolute;
+  top: 136px;
+  white-space: nowrap;
+  width: 13px;
+}
+
+.element-AI-ethics-drift .text-wrapper-14 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-300-regular-font-family);
+  font-size: var(--text-single-300-regular-font-size);
+  font-style: var(--text-single-300-regular-font-style);
+  font-weight: var(--text-single-300-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--text-single-300-regular-letter-spacing);
+  line-height: var(--text-single-300-regular-line-height);
+  position: absolute;
+  top: 89px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.element-AI-ethics-drift .text-wrapper-15 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-300-regular-font-family);
+  font-size: var(--text-single-300-regular-font-size);
+  font-style: var(--text-single-300-regular-font-style);
+  font-weight: var(--text-single-300-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--text-single-300-regular-letter-spacing);
+  line-height: var(--text-single-300-regular-line-height);
+  position: absolute;
+  top: 45px;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.element-AI-ethics-drift .text-wrapper-16 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-300-regular-font-family);
+  font-size: var(--text-single-300-regular-font-size);
+  font-style: var(--text-single-300-regular-font-style);
+  font-weight: var(--text-single-300-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--text-single-300-regular-letter-spacing);
+  line-height: var(--text-single-300-regular-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.element-AI-ethics-drift .lines {
+  height: 72px;
+  left: 166px;
+  position: absolute;
+  top: 29px;
+  width: 390px;
+}
+
+.element-AI-ethics-drift .chart-lines-2 {
+  height: 140px;
+  left: 167px;
+  position: absolute;
+  top: 6px;
+  width: 388px;
+}
+
+.element-AI-ethics-drift .line-9 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 388px;
+}
+
+.element-AI-ethics-drift .line-10 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 388px;
+}
+
+.element-AI-ethics-drift .line-11 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 92px;
+  width: 388px;
+}
+
+.element-AI-ethics-drift .line-12 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 139px;
+  width: 388px;
+}
+
+.element-AI-ethics-drift .active-line-elements-2 {
+  height: 140px;
+  left: 386px;
+  position: absolute;
+  top: 6px;
+  width: 14px;
+}
+
+.element-AI-ethics-drift .overlap-group-4 {
+  height: 140px;
+  position: relative;
+}
+
+.element-AI-ethics-drift .indicator-line {
+  height: 140px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.element-AI-ethics-drift .indicator-dot {
+  background-color: var(--system-colorsred-400);
+  border: 2px solid;
+  border-color: var(--neutral-colorswhite);
+  border-radius: 7px;
+  box-shadow: var(--general-shadows-button-shadows-button-default-01);
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  width: 14px;
+}
+
+.element-AI-ethics-drift .card-title-3 {
+  color: var(--neutral-colorsblack);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 48px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.element-AI-ethics-drift .divider-7 {
+  height: 1px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 76px;
+  width: 444px;
+}
+
+.element-AI-ethics-drift .identifiers {
+  height: 16px;
+  left: 327px;
+  position: absolute;
+  top: 48px;
+  width: 180px;
+}
+
+.element-AI-ethics-drift .label {
+  align-items: center;
+  border-radius: 10px;
+  display: inline-flex;
+  gap: 9px;
+  justify-content: flex-end;
+  left: 110px;
+  position: absolute;
+  top: 0;
+}
+
+.element-AI-ethics-drift .identifier {
+  background-color: var(--primary-colorspurple);
+  border-radius: 10px;
+  height: 8px;
+  position: relative;
+  width: 8px;
+}
+
+.element-AI-ethics-drift .name {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-200-regular-font-family);
+  font-size: var(--text-single-200-regular-font-size);
+  font-style: var(--text-single-200-regular-font-style);
+  font-weight: var(--text-single-200-regular-font-weight);
+  letter-spacing: var(--text-single-200-regular-letter-spacing);
+  line-height: var(--text-single-200-regular-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element-AI-ethics-drift .label-2 {
+  align-items: center;
+  border-radius: 10px;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: flex-end;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.element-AI-ethics-drift .identifier-2 {
+  background-color: var(--system-colorsred-400);
+  border-radius: 10px;
+  height: 8px;
+  position: relative;
+  width: 8px;
+}
+
+.element-AI-ethics-drift .card-info-2 {
+  height: 49px;
+  left: 57px;
+  position: absolute;
+  top: 16px;
+  width: 159px;
+}
+
+.element-AI-ethics-drift .card-title-4 {
+  color: var(--neutral-colorsblack);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.element-AI-ethics-drift .type-card-2 {
+  color: var(--neutral-colors400);
+  font-family: var(--text-single-400-regular-font-family);
+  font-size: var(--text-single-400-regular-font-size);
+  font-style: var(--text-single-400-regular-font-style);
+  font-weight: var(--text-single-400-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--text-single-400-regular-letter-spacing);
+  line-height: var(--text-single-400-regular-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 79px;
+}
+
+.element-AI-ethics-drift .card-title-5 {
+  color: var(--neutral-colorsblack);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 71px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 289px;
+  white-space: nowrap;
+}
+
+.element-AI-ethics-drift .frame-6 {
+  align-items: flex-start;
+  background-color: #0000000d;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 33px;
+  left: 15px;
+  position: absolute;
+  top: 644px;
+  width: 1101px;
+}
+
+.element-AI-ethics-drift .element {
+  height: 33px;
+  position: relative;
+  width: 1096px;
+}
+
+.element-AI-ethics-drift .JC {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.element-AI-ethics-drift .JC-2 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 294px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.element-AI-ethics-drift .JC-3 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 918px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.element-AI-ethics-drift .JC-4 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 600px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.element-AI-ethics-drift .ph-triangle-fill {
+  height: 20px;
+  left: 5px;
+  position: absolute;
+  top: 4px;
+  width: 20px;
+}
+
+.element-AI-ethics-drift .line-13 {
+  height: 1px;
+  margin-bottom: -10px;
+  object-fit: cover;
+  position: relative;
+  width: 1096px;
+}
+
+.element-AI-ethics-drift .frame-7 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 33px;
+  left: 20px;
+  position: absolute;
+  top: 1067px;
+}
+
+.element-AI-ethics-drift .JC-5 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.element-AI-ethics-drift .JC-6 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 289px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.element-AI-ethics-drift .JC-7 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 913px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.element-AI-ethics-drift .JC-8 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 595px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.element-AI-ethics-drift .ph-triangle-fill-2 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 20px;
+}
+
+.element-AI-ethics-drift .line-14 {
+  height: 1px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 628px;
+  width: 1096px;
+}
+
+.element-AI-ethics-drift .JC-9 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 590px;
+  white-space: nowrap;
+}
+
+.element-AI-ethics-drift .JC-10 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 611px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 590px;
+  white-space: nowrap;
+}
+
+.element-AI-ethics-drift .JC-11 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 304px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 590px;
+  white-space: nowrap;
+}
+
+.element-AI-ethics-drift .JC-12 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 924px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 590px;
+  white-space: nowrap;
+}
+
+.element-AI-ethics-drift .chart-3 {
+  height: 517px;
+  left: 20px;
+  position: absolute;
+  top: 24px;
+  width: 1108px;
+}
+
+.element-AI-ethics-drift .overlap-9 {
+  background-color: var(--neutral-colorswhite);
+  border-radius: 20px;
+  box-shadow: 0px 2px 8px #0d0a2c1a;
+  height: 517px;
+  position: relative;
+  width: 1104px;
+}
+
+.element-AI-ethics-drift .days-2 {
+  height: 18px;
+  left: 132px;
+  position: absolute;
+  top: 419px;
+  width: 71px;
+}
+
+.element-AI-ethics-drift .text-wrapper-17 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-300-regular-font-family);
+  font-size: var(--text-single-300-regular-font-size);
+  font-style: var(--text-single-300-regular-font-style);
+  font-weight: var(--text-single-300-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--text-single-300-regular-letter-spacing);
+  line-height: var(--text-single-300-regular-line-height);
+  position: absolute;
+  top: 0;
+  width: 69px;
+}
+
+.element-AI-ethics-drift .overlap-10 {
+  height: 281px;
+  left: 140px;
+  position: absolute;
+  top: 106px;
+  width: 942px;
+}
+
+.element-AI-ethics-drift .rectangle {
+  background-color: #d9d9d9;
+  height: 281px;
+  left: 658px;
+  position: absolute;
+  top: 0;
+  width: 78px;
+}
+
+.element-AI-ethics-drift .chart-lines-3 {
+  height: 240px;
+  left: 0;
+  position: absolute;
+  top: 41px;
+  width: 942px;
+}
+
+.element-AI-ethics-drift .line-15 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 940px;
+}
+
+.element-AI-ethics-drift .line-16 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  width: 940px;
+}
+
+.element-AI-ethics-drift .line-17 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 119px;
+  width: 940px;
+}
+
+.element-AI-ethics-drift .line-18 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 179px;
+  width: 940px;
+}
+
+.element-AI-ethics-drift .line-19 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 239px;
+  width: 940px;
+}
+
+.element-AI-ethics-drift .flow-lines {
+  height: 237px;
+  left: 2px;
+  position: absolute;
+  top: 44px;
+  width: 938px;
+}
+
+.element-AI-ethics-drift .overlap-11 {
+  height: 239px;
+  left: -2px;
+  position: relative;
+  width: 940px;
+}
+
+.element-AI-ethics-drift .line-20 {
+  height: 234px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 940px;
+}
+
+.element-AI-ethics-drift .line-21 {
+  height: 212px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 937px;
+}
+
+.element-AI-ethics-drift .overlap-group-5 {
+  height: 216px;
+  left: -2px;
+  position: relative;
+  top: -2px;
+  width: 941px;
+}
+
+.element-AI-ethics-drift .line-22 {
+  height: 201px;
+  left: 7px;
+  position: absolute;
+  top: 8px;
+  width: 926px;
+}
+
+.element-AI-ethics-drift .flow-indicator {
+  background-color: var(--neutral-colorswhite);
+  border: 2px solid;
+  border-color: var(--primary-colorspurple);
+  border-radius: 9.12px/9.13px;
+  height: 18px;
+  left: 110px;
+  position: absolute;
+  top: 76px;
+  width: 18px;
+}
+
+.element-AI-ethics-drift .flow-indicator-2 {
+  background-color: var(--neutral-colorswhite);
+  border: 2px solid;
+  border-color: var(--primary-colorspurple);
+  border-radius: 9.12px/9.13px;
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 127px;
+  width: 18px;
+}
+
+.element-AI-ethics-drift .flow-indicator-3 {
+  background-color: var(--neutral-colorswhite);
+  border: 2px solid;
+  border-color: var(--primary-colorspurple);
+  border-radius: 9.12px/9.13px;
+  height: 18px;
+  left: 226px;
+  position: absolute;
+  top: 113px;
+  width: 18px;
+}
+
+.element-AI-ethics-drift .flow-indicator-4 {
+  background-color: var(--neutral-colorswhite);
+  border: 2px solid;
+  border-color: var(--primary-colorspurple);
+  border-radius: 9.12px/9.13px;
+  height: 18px;
+  left: 455px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.element-AI-ethics-drift .flow-indicator-5 {
+  background-color: var(--neutral-colorswhite);
+  border: 2px solid;
+  border-color: var(--primary-colorspurple);
+  border-radius: 9.12px/9.13px;
+  height: 18px;
+  left: 566px;
+  position: absolute;
+  top: 138px;
+  width: 18px;
+}
+
+.element-AI-ethics-drift .flow-indicator-6 {
+  background-color: var(--neutral-colorswhite);
+  border: 2px solid;
+  border-color: var(--primary-colorspurple);
+  border-radius: 9.12px/9.13px;
+  height: 18px;
+  left: 685px;
+  position: absolute;
+  top: 198px;
+  width: 18px;
+}
+
+.element-AI-ethics-drift .flow-indicator-7 {
+  background-color: var(--neutral-colorswhite);
+  border: 2px solid;
+  border-color: var(--primary-colorspurple);
+  border-radius: 9.12px/9.13px;
+  height: 18px;
+  left: 811px;
+  position: absolute;
+  top: 123px;
+  width: 18px;
+}
+
+.element-AI-ethics-drift .flow-indicator-8 {
+  background-color: var(--neutral-colorswhite);
+  border: 2px solid;
+  border-color: var(--primary-colorspurple);
+  border-radius: 9.12px/9.13px;
+  height: 18px;
+  left: 922px;
+  position: absolute;
+  top: 7px;
+  width: 18px;
+}
+
+.element-AI-ethics-drift .days-3 {
+  height: 18px;
+  left: 245px;
+  position: absolute;
+  top: 419px;
+  width: 71px;
+}
+
+.element-AI-ethics-drift .days-4 {
+  height: 18px;
+  left: 358px;
+  position: absolute;
+  top: 419px;
+  width: 71px;
+}
+
+.element-AI-ethics-drift .days-5 {
+  height: 18px;
+  left: 472px;
+  position: absolute;
+  top: 419px;
+  width: 71px;
+}
+
+.element-AI-ethics-drift .days-6 {
+  height: 18px;
+  left: 585px;
+  position: absolute;
+  top: 419px;
+  width: 71px;
+}
+
+.element-AI-ethics-drift .days-7 {
+  height: 18px;
+  left: 698px;
+  position: absolute;
+  top: 419px;
+  width: 71px;
+}
+
+.element-AI-ethics-drift .days-8 {
+  height: 18px;
+  left: 804px;
+  position: absolute;
+  top: 419px;
+  width: 79px;
+}
+
+.element-AI-ethics-drift .text-wrapper-18 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-300-regular-font-family);
+  font-size: var(--text-single-300-regular-font-size);
+  font-style: var(--text-single-300-regular-font-style);
+  font-weight: var(--text-single-300-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--text-single-300-regular-letter-spacing);
+  line-height: var(--text-single-300-regular-line-height);
+  position: absolute;
+  top: 0;
+  width: 77px;
+}
+
+.element-AI-ethics-drift .days-9 {
+  height: 18px;
+  left: 925px;
+  position: absolute;
+  top: 419px;
+  width: 173px;
+}
+
+.element-AI-ethics-drift .text-wrapper-19 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-300-regular-font-family);
+  font-size: var(--text-single-300-regular-font-size);
+  font-style: var(--text-single-300-regular-font-style);
+  font-weight: var(--text-single-300-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--text-single-300-regular-letter-spacing);
+  line-height: var(--text-single-300-regular-line-height);
+  position: absolute;
+  top: 0;
+  width: 75px;
+}
+
+.element-AI-ethics-drift .text-wrapper-20 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-300-regular-font-family);
+  font-size: var(--text-single-300-regular-font-size);
+  font-style: var(--text-single-300-regular-font-style);
+  font-weight: var(--text-single-300-regular-font-weight);
+  left: 94px;
+  letter-spacing: var(--text-single-300-regular-letter-spacing);
+  line-height: var(--text-single-300-regular-line-height);
+  position: absolute;
+  top: 0;
+  width: 75px;
+}
+
+.element-AI-ethics-drift .overlap-12 {
+  height: 266px;
+  left: -46px;
+  position: absolute;
+  top: 138px;
+  width: 181px;
+}
+
+.element-AI-ethics-drift .amounts-2 {
+  height: 258px;
+  left: 132px;
+  position: absolute;
+  top: 0;
+  width: 49px;
+}
+
+.element-AI-ethics-drift .text-wrapper-21 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-300-regular-font-family);
+  font-size: var(--text-single-300-regular-font-size);
+  font-style: var(--text-single-300-regular-font-style);
+  font-weight: var(--text-single-300-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--text-single-300-regular-letter-spacing);
+  line-height: var(--text-single-300-regular-line-height);
+  position: absolute;
+  top: 240px;
+  width: 12px;
+}
+
+.element-AI-ethics-drift .text-wrapper-22 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-300-regular-font-family);
+  font-size: var(--text-single-300-regular-font-size);
+  font-style: var(--text-single-300-regular-font-style);
+  font-weight: var(--text-single-300-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--text-single-300-regular-letter-spacing);
+  line-height: var(--text-single-300-regular-line-height);
+  position: absolute;
+  top: 180px;
+  width: 28px;
+}
+
+.element-AI-ethics-drift .text-wrapper-23 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-300-regular-font-family);
+  font-size: var(--text-single-300-regular-font-size);
+  font-style: var(--text-single-300-regular-font-style);
+  font-weight: var(--text-single-300-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--text-single-300-regular-letter-spacing);
+  line-height: var(--text-single-300-regular-line-height);
+  position: absolute;
+  top: 120px;
+  width: 39px;
+}
+
+.element-AI-ethics-drift .text-wrapper-24 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-300-regular-font-family);
+  font-size: var(--text-single-300-regular-font-size);
+  font-style: var(--text-single-300-regular-font-style);
+  font-weight: var(--text-single-300-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--text-single-300-regular-letter-spacing);
+  line-height: var(--text-single-300-regular-line-height);
+  position: absolute;
+  top: 60px;
+  width: 39px;
+}
+
+.element-AI-ethics-drift .text-wrapper-25 {
+  color: var(--neutral-colorstext-gray);
+  font-family: var(--text-single-300-regular-font-family);
+  font-size: var(--text-single-300-regular-font-size);
+  font-style: var(--text-single-300-regular-font-style);
+  font-weight: var(--text-single-300-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--text-single-300-regular-letter-spacing);
+  line-height: var(--text-single-300-regular-line-height);
+  position: absolute;
+  top: 0;
+  width: 39px;
+}
+
+.element-AI-ethics-drift .card-title-6 {
+  color: var(--neutral-colorsblack);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 106px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.element-AI-ethics-drift .divider-8 {
+  height: 1px;
+  left: 106px;
+  object-fit: cover;
+  position: absolute;
+  top: 105px;
+  width: 975px;
+}
+
+.element-AI-ethics-drift .identifiers-2 {
+  height: 16px;
+  left: 551px;
+  position: absolute;
+  top: 60px;
+  width: 523px;
+}
+
+.element-AI-ethics-drift .label-3 {
+  align-items: center;
+  border-radius: 10px;
+  display: flex;
+  gap: 8px;
+  justify-content: flex-end;
+  left: 279px;
+  position: absolute;
+  top: 0;
+  width: 244px;
+}
+
+.element-AI-ethics-drift .identifier-3 {
+  background-color: var(--system-colorsmagenta-300);
+  border-radius: 4.14px;
+  height: 8.28px;
+  margin-left: -0.28px;
+  position: relative;
+  width: 8.28px;
+}
+
+.element-AI-ethics-drift .input {
+  background: transparent;
+  border: none;
+  color: var(--neutral-colorstext-gray);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1px;
+  padding: 0;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element-AI-ethics-drift .label-4 {
+  align-items: center;
+  border-radius: 10px;
+  display: flex;
+  gap: 8px;
+  justify-content: flex-end;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 220px;
+}
+
+.element-AI-ethics-drift .identifier-4 {
+  background: linear-gradient(180deg, rgb(74, 58, 255) 0%, rgb(109, 58, 255) 100%);
+  border-radius: 4.14px;
+  height: 8.28px;
+  position: relative;
+  width: 8.28px;
+}
+
+.element-AI-ethics-drift .name-2 {
+  color: var(--neutral-colorstext-gray);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element-AI-ethics-drift .card-info-3 {
+  height: 52px;
+  left: 24px;
+  position: absolute;
+  top: 24px;
+  width: 204px;
+}
+
+.element-AI-ethics-drift .card-title-7 {
+  color: var(--neutral-colorsblack);
+  font-family: "Rubik", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 24px;
+  width: 200px;
+}
+
+.element-AI-ethics-drift .type-card-3 {
+  color: var(--neutral-colors400);
+  font-family: "Rubik", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.element-AI-ethics-drift .card-title-8 {
+  color: var(--neutral-colorsblack);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 332px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 469px;
+  white-space: nowrap;
+}
+
+.element-AI-ethics-drift .group-16 {
+  height: 17px;
+  left: 272px;
+  position: absolute;
+  top: 94px;
+  width: 325px;
+}
+
+.element-AI-ethics-drift .text-wrapper-26 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.element-AI-ethics-drift .text-wrapper-27 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 147px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.element-AI-ethics-drift .text-wrapper-28 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 164px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.element-AI-ethics-drift .menu-instance {
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.element-AI-ethics-drift .design-component-instance-node {
+  background-color: #ffffff !important;
+}
+
+.element-AI-ethics-drift .menu-2 {
+  background-color: var(--logo-color) !important;
+}
+
+.element-AI-ethics-drift .menu-3 {
+  color: #ffffff !important;
+}
+
+.element-AI-ethics-drift .menu-4 {
+  color: var(--logo-color) !important;
+}
+
+.element-AI-ethics-drift .header-instance {
+  background-color: transparent !important;
+  left: 248px !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.element-AI-ethics-drift .header-2 {
+  background-image: url(../../../static/img/header-1.svg) !important;
+}

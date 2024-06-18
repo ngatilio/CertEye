@@ -1,0 +1,220 @@
+.reset-password {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.reset-password .div {
+  background-color: #ffffff;
+  height: 960px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.reset-password .iconsax-linear-2 {
+  height: 24px;
+  left: 10981px;
+  position: absolute;
+  top: 3106px;
+  width: 24px;
+}
+
+.reset-password .reset {
+  height: 537px;
+  left: 819px;
+  position: absolute;
+  top: 211px;
+  width: 500px;
+}
+
+.reset-password .heading {
+  height: 87px;
+  left: 33px;
+  position: absolute;
+  top: 0;
+  width: 435px;
+}
+
+.reset-password .sign-in {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  left: 54px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.reset-password .text-wrapper {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.reset-password .enter-your-email-and-2 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 364px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.reset-password .new-password-variant5 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 143px !important;
+}
+
+.reset-password .p {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 425px;
+}
+
+.reset-password .span {
+  color: #777777;
+}
+
+.reset-password .text-wrapper-2 {
+  color: #222222;
+}
+
+.reset-password .state-checked {
+  height: 18px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 425px !important;
+  width: 18px !important;
+}
+
+.reset-password .button {
+  all: unset;
+  align-items: center;
+  background-color: var(--logo-color);
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  left: 0;
+  padding: 18px 268px;
+  position: absolute;
+  top: 477px;
+  width: 500px;
+}
+
+.reset-password .login {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -95px;
+  margin-right: -95px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.reset-password .new-password-2 {
+  height: 87px;
+  left: 0;
+  position: absolute;
+  top: 320px;
+  width: 500px;
+}
+
+.reset-password .enter-your-email-and-3 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.reset-password .img-wrapper {
+  border: 1px solid;
+  border-color: #d6d9de;
+  border-radius: 8px;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 27px;
+  width: 500px;
+}
+
+.reset-password .img-2 {
+  height: 6px;
+  left: 23px;
+  position: absolute;
+  top: 26px;
+  width: 78px;
+}
+
+.reset-password .overlap-group-wrapper {
+  background-color: #dee3e9;
+  height: 960px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 700px;
+}
+
+.reset-password .overlap-group {
+  background-image: url(../../../static/img/rectangle.png);
+  background-size: 100% 100%;
+  height: 959px;
+  left: 1px;
+  position: relative;
+  width: 698px;
+}
+
+.reset-password .rectangle-2 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.89) 0%, rgba(0, 0, 0, 0) 100%);
+  height: 959px;
+}
+
+.reset-password .text-wrapper-3 {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 940px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 132px;
+  white-space: nowrap;
+}

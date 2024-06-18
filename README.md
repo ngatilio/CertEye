@@ -1,73 +1,206 @@
-# CertEye
+<p align="center">
+  <img src="logo_certeye.png" alt="Sublime's custom image"/>
+</p>
 
-CertEye is a Zero-trust AI SaaS platform for governance, risk, compliance and quality management 
-of enterprise-wide AI solutions.
+<div align="center">
 
-## Architecture
+![](https://img.shields.io/badge/version-v0.1.0%20-%23EC591A)
+![](https://img.shields.io/static/v1?label=license&message=BSD-3&color=%23385177)
+![](https://img.shields.io/discord/762976922531528725.svg?label=discord&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
+[![](https://img.shields.io/github/contributors/ngatilio/certeye)](https://github.com/unikraft/unikraft/graphs/contributors)
 
-![architecture](https://github.com/ngatilio/CertEye/assets/17088165/ddf739ae-d80c-434c-865d-94552a8f4190)
+</div>
+
+<h1 align="center">The fast, secure, transparent, and scalable <br /> AI regulation sandbox platform</h1>
+
+<div align="center">
+	CertEye sandbox evaluates your AI/LLM apps, inference APIs, and pipelines based on regulation policies in your region and generates compliance reports with repairing suggestions (code linting, model patching); enabling you to anticipate incidents and legal fines.
+</div>
+<br />
+
+## Features
+
+- **AI Policy As Code (AIPaC) Language** ⚡
+   - A specification language that turn AI policies into code with a syntax similar to `Go` and `Drools`.
+   - The code is translated and compiled with `gc` to be used at runtime on the operating system during the sandbox analysis
+
+- **Licy** 🧩
+   - Licy is a `policy rule management system` that enables AI community to validate, commit, push, pull, delete, and audit AIPaC policy rules.
+   - Licy supports a `AIPaC registry` to get and publish `policy packages`. A policy package contains rules and a manifest file describing policy scenarios, a mapping between attributes (e.g., fairness, sustainability, privacy) and rule sets.
+   - Licy uses `Agentic RAG` approach to mine regulation databases and extract step-by-step policies, automatically transformed as `AIPaC policy templates`.
+   - AI community uses AIPaC policy templates to create custom policies for their organization. An AIPaC policy template essentialy consists of rule skeletons with metadata based on policies (e.g., description, references) but without the code.
+
+- **Sandboxing** 📚
+   - CertEye sandbox analyzes `samples`, containing a `twin` of the initial artifact (app, api url, pipeline), libraries, and auto-generated configuration files. Libraries include pre-compiled policy rules and dependencies (e.g., libtensorflow.so, libtorch.so).
+   - The sandbox uses an agnostic GPU acceleration engine (`vAccel`, `CUDA`) and virtualization ([`VirtIO`](https://github.com/oasis-tcs/virtio-spec), `libvrt`) based on security-oriented OS (e.g., `Qubes`) and unikernels (e.g., `Unikraft`) on top of secure microkernels such as `seL4` and `hardened Xen`.
+   - The sandbox distributes twin instance workloads accross multiple machines (nodes) and monitors the executing services on the network using the `gRPC` protocol.
+   - Sandbox results (i.e., compliance reports) is automatically pushed as PDF to your cloud storage (S3, Azure, GCP) or as open issues in your repository (Git, DVC, Azure DevOps, AWS).
+
+- **Repairing (Linting)** ☀️ 
+   - Based on the results, non-compliance part of your code, api or app  is highlighted in red with the specific policy violated and a fix recommendation
+   - The `Responsible AI (RAI) Pair Assistant` suggests appropriate fixes to you based on the violated policies.
+
+- **Metrics** 📈
+   - A prometheus wrapper can be added in AIPaC rules as library to collect and push metrics to the Prometheus server. Metric formats are fully customizable into standard formats such as `Common Event Format (CEF)`
+   - Prometheus data can sent to a dashboard for monitoring (e.g., Kibana or Grafana)
+
+- **Optimized for Performance** 🚀
+   - Unikernels minimizes overheads and leverages platform-specific optimizations, ensuring applications achieve peak performance levels.
+   - Microkernels such as `seL4` is very performant and the world's most highly assured OS kernel
+
+- **Reduced Attack Surface** 🛡️
+   - Policy rules uses a Go-like syntax making more robust
+   - Unikraft reduces the attack surface, enhancing security in deployment scenarios.
+   - Secure microkernels such as `seL4` and security-oriented OS such as `Qubes` and `unikraft` make the sandbox more secure
 
 
-CertEye has 5 core features:
+## AI Policy As Code 
 
-`certeye-governance`: choose, prioritize, time, implement, track, and review AI ethics policies and controls suitable for your organization (https://doi.org/10.1109/TAI.2022.3225132).
+### Language 
 
-
-`certeye-pcp`: continuously identify AI ethics issues in your AI pipelines using CI/CDs, playbooks, and testing sandboxes (https://arxiv.org/abs/2206.11981). Testing sandboxes use the concept of ethical twins to run multiple tests on AI components using a virtual emulator to identify failing scenarios. 
-
-
-`certeye-pep`: continuously fix AI ethics issues in your AI pipelines using CI/CDs, playbooks, and patching sandboxes. Patching sandboxes use the
-concept of ethical twins to run and validate multiple patches on AI components using a virtual emulator to correct AI models and data. 
+An example of `PII Exposure Policy Rule` is described. The rule checks PII information using different popular tools such as `detect-secrets`, `presidio analyzer`, `trivy secret scanner`, and custom regex. The average of the output risk scores from the tools is computed and must be greater or equal to 0.5.
 
 
-`certeye-observability`: monitor various metrics such as fairness loss, PII exposure, carbon footprint per unit, audit traces, and well-know metrics (e.g., response time, peak load, cache hit rate) during the execution of AI models in deployment and post-deployment stages (https://arxiv.org/abs/2306.01788). Compliance reports are generated to help organizations having a 360 view on AI trustworthy postures on
-their AI products. Automatic suggestions are also proposed to fix these issues through the `certeye-pep` feature.
+```go
+package pii_exposure_101
+import (
+    "secret_checker",
+    "net/http",
+    "prometheus_wrapper"
+)
 
+rule pii_exposure {
 
-`certeye-eoar`: prevent and mitigate threats on AI assets using a custom Threat Mitigation Matrix based on MITRE ATLAS and D3FEND (https://arxiv.org/pdf/2207.00091.pdf, https://doi.org/10.1109/COMST.2019.2922584).
+include 
+    "pii_exposure_120"
+    "secret_detection_230"
+metadata 
+    gid:= "002"
+    author := "Lionel Tidjon"
+    date := "2016-06-26"
+    description := "PII Exposure"
+    targets := {"input", "output", "model", "pipeline"}
+    models := {
+        "gpt-3.5-turbo", "mixtral-8x7b-32768", "gemini-1.0-pro",
+        "llama3-8b-8192", "claude-instant-1.2"
+    }
+    tools:= {
+        "detect_secrets", "regex", 
+        "presidio_analyzer", "trivy"
+    }
+    references := {
+        "OWASP TOP 10 LLM (LLM06, LLM02)", "GDPR", 
+        "ISO 42001:2023", "EU AI Act"
+    }
+when 
+    results:= secret_checker.PolicyEngine(metadata.tools, metadata.targets).Check();
+    results != nil && (Average(results.RiskScore) >= 0.5 || results.PIIFound)
+then 
+    // riskScore and piiCount metrics are already registered in the prometheus wrapper
+    prometheus_wrapper.riskScore.Set(Average(results.RiskScore));
+    prometheus_wrapper.piiCount.Set(results.UniqueCount);
+    http.Handle("/metrics", prometheus_wrapper.Handler());
+    http.ListenAndServe(":9094", nil);
+}
+```
 
+### Package
 
-https://github.com/ngatilio/CertEye/assets/17088165/c3334a61-cfbd-4083-a8ca-fc5922191bee
+The package consists of AIPaC rules and a manifest file. The manifest file is written in YAML. It describes input, feature, model, and output scenarios by mapping policy attributes to rule sets.
 
+```yaml
+Version: 1.0
+Authors: Lionel Tidjon 
+Date: "2024-06-02 12:45:00PM EST" 
+Description: "An example of scenarios following ISO 42001:2023"
+Input scenario:
+    privacy: 
+        rules:  ["~/iso42001/privacy/pii_exposure_101.aipac"]
+    fairness: 
+        rules: ["~/iso42001/fairness/bais_detection_98.aipac",
+                "~/iso4200/fairness/toxicity_output_156.aipac"]
+Model scenario:
+    sustainability: 
+        rules: ["~/iso42001/sust/train_carbonfootprint_274.aipac",
+                "~/iso42001/sust/gpu_optimization_145.aipac"]
+Output scenario:
+    fairness: 
+        rules: ["~/iso4200/fairness/toxicity_output_156.aipac"]
+    privacy: 
+        rules:  ["~/iso42001/privacy/pii_exposure_101.aipac"]
+```
 
+## Licy
 
-## CertEye-Admin Prerequisites
+```console
+licy registry login
+licy registry add helloworld-rule@V1
+licy registry validate
+licy registry commit -m <message> -c <changes>
+licy registry commit c3f279d17e0a  test/helloworld-rule:v1
+licy registry commit --change "rule name" c3f279d17e0a  test/helloworld-rule:v1
+licy registry push
+licy registry pull
+licy registry delete --id 5ec45d
+licy registry audit
+licy registry logout
+```
 
-You can either work with this project locally (directly on your machine) or use
-a pre-configured Docker environment. We'll differentiate this in the README with
-a table like this one:
+# Sandbox CLI
 
-| Local mode                      | OR  | Docker mode                              |
-| ------------------------------- | :-: | ---------------------------------------- |
-| _command for local development_ | or  | _command for docker-compose development_ |
+SPDX (ISO/IEC 5962:2021) tools extract metadata from AI/LLM app packages, API URLs, and pipelines.
 
-**Be careful not to mix and match Docker-mode vs local-mode for development.**
-You should make a choice and stick to it. (Developing locally but deploying with
-`production.Docker` is absolutely fine.)
+```console
+certeye sample verify --spdx v3.0 hello-world-app@v0.1
 
-**IMPORTANT**: If you choose the Docker mode, be sure to read
-[docker/README.md](docker/README.md).
+certeye sandbox submit --help
+Usage: certeye sandbox submit [OPTIONS] [TARGET]...
 
-For users of Visual Studio Code (VSCode), a `.vscode` folder is included with
-editor settings and debugger settings provided, plus a list of recommended
-extensions. Should you need it, there is also a `.devcontainer` folder which
-enables you to use
-[VSCode's remote containers](https://code.visualstudio.com/docs/remote/containers)
-giving you a local-like development experience whilst still using docker
-containers.
+  Submit one or more AI/LLM app packages, API URLs, and pipelines to certeye sandbox.
 
-### Local development
+Options:
+  -u, --url           Submitting URLs instead of samples
+  -o, --options TEXT  Options for these tasks
+  --package TEXT      Analysis package to use
+  --custom TEXT       Custom information to pass along this task
+  --owner TEXT        Owner of this task
+  --timeout INTEGER   Analysis time in seconds
+  --priority INTEGER  Priority of this task
+  --machine TEXT      virtual machine to analyze these tasks on
+  --platform TEXT     Analysis platform (qube os, unikraft)
+  --memory            Enable memory dumping
+  --enforce-timeout   Don't terminate the analysis early
+  --clock TEXT        Set the system clock
+  --tags TEXT         Analysis tags
+  --baseline          Create baseline task
+  --remote TEXT       Submit to a remote Cuckoo instance
+  --shuffle           Shuffle the submitted tasks
+  --pattern TEXT      Provide a glob-pattern when submitting a
+                      directory
+  --max INTEGER       Submit up to X tasks at once
+  --unique            Only submit samples that have not been
+                      analyzed before
+  -d, --debug         Enable verbose logging
+  -q, --quiet         Only log warnings and critical messages
+  --help              Show this message and exit.
+```
 
-Requires:
+# CI/CD integration
 
-- Node.js v16+ must be installed
-- PostgreSQL v10+ server must be available
-- `pg_dump` command must be available (or you can remove this functionality)
-- VSCode is recommended, but any editor will do
+GitHub Actions
 
-This software has been developed under Mac and Linux, and should work in a
-`bash` environment.
+```\h*yaml
+```
 
+Azure Pipelines
+
+```\h*yaml
+```
+
+Circle CI
+
+```\h*yaml
+```
 
 ### Docker development
 
@@ -80,73 +213,6 @@ Requires:
   - (Development only, production is much more efficient)
 
 Has been tested on Windows and Linux (Ubuntu 18.04LTS).
-
-## Getting started
-
-This project is designed to work with `yarn`. If you don't have `yarn`
-installed, you can install it with `npm install -g yarn`. The Docker setup
-already has `yarn` & `npm` installed and configured.
-
-To get started, please run `yarn`, followed by:
-
-| Local mode   | OR  | Docker mode                     |
-| ------------ | :-: | ------------------------------- |
-| `yarn setup` | or  | `export UID; yarn docker setup` |
-
-This command will lead you through the necessary steps, and create a `.env` file
-for you containing your secrets.
-
-**NOTE:** `export UID` is really important on Linux Docker hosts, otherwise the
-files and folders created by Docker will end up owned by root, which is
-non-optimal. We recommend adding `export UID` to your `~/.profile` or
-`~/.bashrc` or similar so you don't have to remember it.
-
-**Do not commit `.env` to version control!**
-
-## Running
-
-You can bring up the stack with:
-
-| Local mode   | OR  | Docker mode                     |
-| ------------ | :-: | ------------------------------- |
-| `yarn start` | or  | `export UID; yarn docker start` |
-
-After a short period you should be able to load the application at
-http://localhost:5678
-
-This main command runs a number of tasks:
-
-- uses [`certeye-migrate`] to watch
-  the`migrations/current.sql` file for changes, and automatically runs it
-  against your database when it changes
-- watches the TypeScript source code of the server, and compiles it from
-  `@app/*/src` to `@app/*/dist` so node/`graphile-worker`/etc. can run the
-  compiled code directly
-- runs the node server (includes PostGraphile and Next.js middleware)
-- runs `certeye-worker` to execute your tasks (e.g. sending emails)
-- watches your GraphQL files and your PostGraphile schema for changes and
-  generates your TypeScript React hooks for you automatically, leading to
-  strongly typed code with minimal effort
-- runs the `jest` tests in watch mode, automatically re-running as the database
-  or test files change
-
-**NOTE**: `docker-compose up server` also runs the PostgreSQL server that the
-system connects to.
-
-You may also choose to develop locally, but use the PostgreSQL server via
-`docker-compose up -d db`.
-
-Then for development you may need a console; you can open one with:
-
-| Local mode | OR  | Docker mode                    |
-| ---------- | :-: | ------------------------------ |
-| `bash`     | or  | `export UID; yarn docker bash` |
-
-To shut everything down:
-
-| Local mode | OR  | Docker mode                    |
-| ---------- | :-: | ------------------------------ |
-| Ctrl-c     | or  | `export UID; yarn docker down` |
 
 
 ## Docker development
@@ -170,38 +236,6 @@ docker build \
   --build-arg TARGET="server" \
   .
 ```
-
-When you run the image you must pass it the relevant environmental variables,
-for example:
-
-```sh
-docker run --rm -it --init -p 5678:5678 \
-  -e GRAPHILE_LICENSE="$GRAPHILE_LICENSE" \
-  -e SECRET="$SECRET" \
-  -e JWT_SECRET="$JWT_SECRET" \
-  -e DATABASE_VISITOR="$DATABASE_VISITOR" \
-  -e DATABASE_URL="$DATABASE_URL" \
-  -e AUTH_DATABASE_URL="$AUTH_DATABASE_URL" \
-  -e GITHUB_KEY="$GITHUB_KEY" \
-  -e GITHUB_SECRET="$GITHUB_SECRET" \
-  docker-image-id-here
-```
-
-Currently if you miss required envvars weird things will happen; we don't
-currently have environment validation (PRs welcome!).
-
-Note: If you are using the `production.Dockerfile` to run graphile/starter in a
-Docker container on eg. Kubernetes, AWS ECS, DigitalOcean App Platform (or
-similar) and you are trying to connect to Amazon RDS or DigitalOcean databases
-(or probably other managed databases), make sure to replace
-`/data/amazon-rds-ca-cert.pem` with the CA certificate of your own database.
-This file is copied into your Docker image during build time and can therefore
-be referenced in your env variables `DATABASE_URL` and `AUTH_DATABASE_URL`:  
-`DATABASE_URL="postgres://name:password@host:port/dbname?ssl=true&sslrootcert=/app/data/amazon-rds-ca-cert.pem"`
-
-## Production build for local mode
-
-Use `yarn run build` to generate a production build of the project
 
 ## CertEye License
 

@@ -1,0 +1,45 @@
+.cxa {
+  height: 75px;
+  width: 547px;
+}
+
+.cxa .group {
+  height: 75px;
+  position: relative;
+  width: 551px;
+}
+
+.cxa .name-of-the-company {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.cxa .overlap-group {
+  background-image: url(../../../static/img/rectangle-2.png);
+  background-size: 100% 100%;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 547px;
+}
+
+.cxa .blinkbee {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}

@@ -1,0 +1,402 @@
+.config-yaml {
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.config-yaml .div-6 {
+  background-color: #eeeeee;
+  height: 809px;
+  position: relative;
+  width: 1440px;
+}
+
+.config-yaml .NRS-database-list {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 637px;
+  left: 272px;
+  position: absolute;
+  top: 134px;
+  width: 1144px;
+}
+
+.config-yaml .line-4 {
+  height: 427px;
+  left: 294px;
+  object-fit: cover;
+  position: absolute;
+  top: 67px;
+  width: 1px;
+}
+
+.config-yaml .add-a-new-company {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.config-yaml .group-19 {
+  height: 24px;
+  left: 22px;
+  position: absolute;
+  top: 83px;
+  width: 257px;
+}
+
+.config-yaml .group-20 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 166px;
+}
+
+.config-yaml .add-a-new-company-2 {
+  -webkit-text-stroke: 1px #222222fc;
+  color: #222222fc;
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.config-yaml .ic-sharp-add {
+  height: 24px;
+  left: 233px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.config-yaml .group-21 {
+  height: 40px;
+  left: 30px;
+  position: absolute;
+  top: 201px;
+  width: 76px;
+}
+
+.config-yaml .text-wrapper-20 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.config-yaml .line-5 {
+  height: 40px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.config-yaml .group-22 {
+  height: 40px;
+  left: 30px;
+  position: absolute;
+  top: 241px;
+  width: 66px;
+}
+
+.config-yaml .group-23 {
+  height: 40px;
+  left: 30px;
+  position: absolute;
+  top: 117px;
+  width: 87px;
+}
+
+.config-yaml .group-24 {
+  height: 24px;
+  left: 22px;
+  position: absolute;
+  top: 167px;
+  width: 259px;
+}
+
+.config-yaml .overlap-group-3 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 64px;
+}
+
+.config-yaml .add-a-new-company-3 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.config-yaml .line-6 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 49px;
+}
+
+.config-yaml .group-25 {
+  height: 24px;
+  left: 22px;
+  position: absolute;
+  top: 291px;
+  width: 259px;
+}
+
+.config-yaml .add-a-new-company-4 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.config-yaml .overlap-2 {
+  height: 61px;
+  left: 22px;
+  position: absolute;
+  top: 315px;
+  width: 90px;
+}
+
+.config-yaml .add-a-new-company-5 {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 41px;
+  white-space: nowrap;
+}
+
+.config-yaml .line-7 {
+  height: 42px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.config-yaml .add-new-button {
+  all: unset;
+  align-items: center;
+  background-color: var(--logo-color);
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 195px;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 450px;
+}
+
+.config-yaml .content {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  position: relative;
+}
+
+.config-yaml .start-and-end {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.config-yaml .content-wrapper {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #288efc;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 22px;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 450px;
+}
+
+.config-yaml .start-and-end-2 {
+  color: #288efc;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.config-yaml .add-new-button-2 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #288efc;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 103px;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 450px;
+}
+
+.config-yaml .YAML-file-instance {
+  left: 335px !important;
+  position: absolute !important;
+  top: 64px !important;
+}
+
+.config-yaml .navbar {
+  height: 17px;
+  left: 272px;
+  position: absolute;
+  top: 94px;
+  width: 377px;
+}
+
+.config-yaml .text-wrapper-21 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.config-yaml .text-wrapper-22 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 128px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.config-yaml .text-wrapper-23 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 111px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.config-yaml .text-wrapper-24 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 212px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.config-yaml .text-wrapper-25 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 229px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.config-yaml .menu-instance {
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.config-yaml .design-component-instance-node {
+  background-color: var(--logo-color) !important;
+}
+
+.config-yaml .menu-2 {
+  color: #ffffff !important;
+}
+
+.config-yaml .menu-3 {
+  color: var(--logo-color) !important;
+}
+
+.config-yaml .header-instance {
+  background-color: transparent !important;
+  left: 248px !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.config-yaml .header-2 {
+  background-image: url(../../../static/img/header-1.svg) !important;
+}

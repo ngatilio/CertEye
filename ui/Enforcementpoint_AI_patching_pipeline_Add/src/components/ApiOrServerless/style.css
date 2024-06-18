@@ -1,0 +1,12 @@
+.API-or-serverless {
+  height: 75px;
+  width: 547px;
+}
+
+.API-or-serverless .cxa-instance {
+  background-image: url(../../../static/img/rectangle-2-1.png) !important;
+}
+
+.API-or-serverless .instance-node {
+  width: unset !important;
+}

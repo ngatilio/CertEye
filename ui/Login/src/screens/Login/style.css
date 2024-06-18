@@ -1,0 +1,249 @@
+.login {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.login .div {
+  background-color: #ffffff;
+  height: 960px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.login .iconsax-linear {
+  height: 24px;
+  left: 13941px;
+  position: absolute;
+  top: 3106px;
+  width: 24px;
+}
+
+.login .frame {
+  height: 445px;
+  left: 820px;
+  position: absolute;
+  top: 257px;
+  width: 500px;
+}
+
+.login .text-wrapper {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  left: 184px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.login .enter-your-email-and {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 91px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.login .enter-your-email-and-2 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 142px;
+  white-space: nowrap;
+}
+
+.login .enter-your-email-and-3 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 261px;
+  white-space: nowrap;
+}
+
+.login .overlap {
+  border: 1px solid;
+  border-color: var(--line-color);
+  border-radius: 8px;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 170px;
+  width: 500px;
+}
+
+.login .mufaddal-rangwala {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.login .overlap-group {
+  border: 1px solid;
+  border-color: #d6d9de;
+  border-radius: 8px;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 289px;
+  width: 500px;
+}
+
+.login .img {
+  height: 24px;
+  left: 451px;
+  position: absolute;
+  top: 17px;
+  width: 24px;
+}
+
+.login .img-2 {
+  height: 6px;
+  left: 23px;
+  position: absolute;
+  top: 26px;
+  width: 78px;
+}
+
+.login .text-wrapper-2 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 356px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 261px;
+  white-space: nowrap;
+}
+
+.login .button {
+  all: unset;
+  align-items: center;
+  background-color: var(--logo-color);
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  left: 0;
+  padding: 18px 268px;
+  position: absolute;
+  top: 385px;
+  width: 500px;
+}
+
+.login .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -51px;
+  margin-right: -51px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.login .group {
+  height: 24px;
+  left: 94px;
+  position: absolute;
+  top: 473px;
+  width: 316px;
+}
+
+.login .enter-your-email-and-4 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.login .enter-your-email-and-5 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 239px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.login .overlap-wrapper {
+  background-color: #dee3e9;
+  height: 960px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 700px;
+}
+
+.login .rectangle-wrapper {
+  background-image: url(../../../static/img/rectangle.png);
+  background-size: 100% 100%;
+  height: 959px;
+  left: 1px;
+  position: relative;
+  width: 698px;
+}
+
+.login .rectangle {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.89) 0%, rgba(0, 0, 0, 0) 100%);
+  height: 959px;
+}
+
+.login .text-wrapper-4 {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 940px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 132px;
+  white-space: nowrap;
+}

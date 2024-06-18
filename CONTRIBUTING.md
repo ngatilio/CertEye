@@ -1,6 +1,6 @@
 ## Clone this repo
 
-`https://github.com/ngatilio/ZTAI360`
+`https://github.com/ngatilio/CertEye`
 
 ## Move to the test branch (DON'T USE the master branch)
 
@@ -18,9 +18,9 @@ N.B: Never push without pulling the code, it will create a merge conflict
 
 ## Commit your changes
 
-`git commit -m "ZT-XX <your message>`
+`git commit -m "#ISSUE_ID <your message>`
 
-This will link the changes to the JIRA issue `ZT-XX`
+This will link the changes to the Git issue `ISSUE_ID`
 
 ## Push code
 

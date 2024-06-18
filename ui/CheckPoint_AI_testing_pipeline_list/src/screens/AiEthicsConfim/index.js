@@ -1,0 +1,1 @@
+export { AiEthicsConfim } from "./AiEthicsConfim";

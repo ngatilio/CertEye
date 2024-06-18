@@ -1,0 +1,744 @@
+.AI-EOAR {
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.AI-EOAR .div-4 {
+  background-color: #eeeeee;
+  height: 1059px;
+  position: relative;
+  width: 1440px;
+}
+
+.AI-EOAR .overlap-2 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 904px;
+  left: 272px;
+  position: absolute;
+  top: 134px;
+  width: 1144px;
+}
+
+.AI-EOAR .frame-7 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 152px;
+  left: 24px;
+  position: absolute;
+  top: 555px;
+}
+
+.AI-EOAR .element {
+  height: 152px;
+  position: relative;
+  width: 1096px;
+}
+
+.AI-EOAR .JC {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.AI-EOAR .p {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 161px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+  width: 140px;
+}
+
+.AI-EOAR .JC-2 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 903px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+  width: 186px;
+}
+
+.AI-EOAR .JC-3 {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 345px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 2px;
+  width: 483px;
+}
+
+.AI-EOAR .span {
+  color: #777777;
+}
+
+.AI-EOAR .text-wrapper-5 {
+  color: #288efc;
+  text-decoration: underline;
+}
+
+.AI-EOAR .line-4 {
+  height: 1px;
+  margin-bottom: -10px;
+  object-fit: cover;
+  position: relative;
+  width: 1096px;
+}
+
+.AI-EOAR .frame-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 152px;
+  left: 24px;
+  position: absolute;
+  top: 727px;
+}
+
+.AI-EOAR .line-5 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 539px;
+  width: 1096px;
+}
+
+.AI-EOAR .JC-4 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 501px;
+  white-space: nowrap;
+}
+
+.AI-EOAR .JC-5 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 370px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 501px;
+  white-space: nowrap;
+}
+
+.AI-EOAR .JC-6 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 187px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 501px;
+  white-space: nowrap;
+}
+
+.AI-EOAR .JC-7 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 927px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 501px;
+  white-space: nowrap;
+}
+
+.AI-EOAR .add-a-new-company {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.AI-EOAR .chart {
+  background-color: var(--neutral-colorswhite);
+  border: 1px solid;
+  border-color: #e6e6e6;
+  border-radius: 20px;
+  box-shadow: 0px 2px 8px #0d0a2c14;
+  height: 372px;
+  left: 24px;
+  position: absolute;
+  top: 74px;
+  width: 532px;
+}
+
+.AI-EOAR .divider {
+  height: 1px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 104px;
+  width: 444px;
+}
+
+.AI-EOAR .identifiers {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 20px;
+  left: 304px;
+  position: absolute;
+  top: 130px;
+}
+
+.AI-EOAR .label {
+  height: 16px;
+  position: relative;
+  width: 128px;
+}
+
+.AI-EOAR .name {
+  color: var(--neutral-colorsblack);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.AI-EOAR .identifier {
+  background-color: #4a3aff;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.AI-EOAR .label-2 {
+  height: 16px;
+  margin-right: -2px;
+  position: relative;
+  width: 172px;
+}
+
+.AI-EOAR .identifier-2 {
+  background-color: #2d5bff;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.AI-EOAR .label-3 {
+  height: 16px;
+  position: relative;
+  width: 107px;
+}
+
+.AI-EOAR .identifier-3 {
+  background-color: #5f81fc;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.AI-EOAR .label-4 {
+  height: 16px;
+  position: relative;
+  width: 130px;
+}
+
+.AI-EOAR .identifier-4 {
+  background-color: #93aafd;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.AI-EOAR .label-5 {
+  height: 16px;
+  position: relative;
+  width: 134px;
+}
+
+.AI-EOAR .identifier-5 {
+  background-color: #c6d2fd;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.AI-EOAR .label-6 {
+  height: 16px;
+  position: relative;
+  width: 75px;
+}
+
+.AI-EOAR .identifier-6 {
+  background-color: #e5eafc;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.AI-EOAR .pie {
+  height: 201px;
+  left: 32px;
+  position: absolute;
+  top: 130px;
+  width: 201px;
+}
+
+.AI-EOAR .overlap-group-3 {
+  height: 201px;
+  position: relative;
+}
+
+.AI-EOAR .section {
+  height: 133px;
+  left: 0;
+  position: absolute;
+  top: 38px;
+  width: 100px;
+}
+
+.AI-EOAR .section-2 {
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 84px;
+  width: 100px;
+}
+
+.AI-EOAR .section-3 {
+  height: 100px;
+  left: 61px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.AI-EOAR .section-4 {
+  height: 93px;
+  left: 21px;
+  position: absolute;
+  top: 8px;
+  width: 80px;
+}
+
+.AI-EOAR .section-5 {
+  height: 100px;
+  left: 29px;
+  position: absolute;
+  top: 100px;
+  width: 142px;
+}
+
+.AI-EOAR .section-6 {
+  height: 172px;
+  left: 100px;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.AI-EOAR .card-info {
+  height: 58px;
+  left: 32px;
+  position: absolute;
+  top: 27px;
+  width: 313px;
+}
+
+.AI-EOAR .type-card {
+  color: var(--neutral-colors400);
+  font-family: var(--text-single-400-regular-font-family);
+  font-size: var(--text-single-400-regular-font-size);
+  font-style: var(--text-single-400-regular-font-style);
+  font-weight: var(--text-single-400-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--text-single-400-regular-letter-spacing);
+  line-height: var(--text-single-400-regular-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.AI-EOAR .card-title {
+  color: var(--neutral-colorsblack);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.AI-EOAR .chart-2 {
+  background-color: var(--neutral-colorswhite);
+  border: 1px solid;
+  border-color: #e7e7e7ee;
+  border-radius: 20px;
+  box-shadow: 0px 2px 8px #0d0a2c14;
+  height: 372px;
+  left: 589px;
+  position: absolute;
+  top: 74px;
+  width: 525px;
+}
+
+.AI-EOAR .divider-2 {
+  height: 1px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 104px;
+  width: 444px;
+}
+
+.AI-EOAR .identifiers-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 14px;
+  left: 289px;
+  position: absolute;
+  top: 130px;
+}
+
+.AI-EOAR .label-7 {
+  height: 16px;
+  margin-right: -2px;
+  position: relative;
+  width: 223px;
+}
+
+.AI-EOAR .name-2 {
+  color: var(--neutral-colorsblack);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.AI-EOAR .identifier-7 {
+  background-color: #0b1d78;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.AI-EOAR .label-8 {
+  height: 16px;
+  position: relative;
+  width: 200px;
+}
+
+.AI-EOAR .identifier-8 {
+  background-color: #0045a5;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.AI-EOAR .label-9 {
+  height: 16px;
+  position: relative;
+  width: 199px;
+}
+
+.AI-EOAR .identifier-9 {
+  background-color: #0069c0;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.AI-EOAR .identifier-10 {
+  background-color: #008ac5;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.AI-EOAR .label-10 {
+  height: 16px;
+  position: relative;
+  width: 112px;
+}
+
+.AI-EOAR .identifier-11 {
+  background-color: #00a9b5;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.AI-EOAR .label-11 {
+  height: 16px;
+  position: relative;
+  width: 214px;
+}
+
+.AI-EOAR .identifier-12 {
+  background-color: #00c698;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.AI-EOAR .label-12 {
+  height: 16px;
+  position: relative;
+  width: 159px;
+}
+
+.AI-EOAR .identifier-13 {
+  background-color: #1fe074;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.AI-EOAR .label-13 {
+  height: 16px;
+  position: relative;
+  width: 218px;
+}
+
+.AI-EOAR .pie-2 {
+  height: 201px;
+  left: 47px;
+  position: absolute;
+  top: 130px;
+  width: 201px;
+}
+
+.AI-EOAR .section-7 {
+  height: 74px;
+  left: 1px;
+  position: absolute;
+  top: 27px;
+  width: 100px;
+}
+
+.AI-EOAR .section-8 {
+  height: 100px;
+  left: 29px;
+  position: absolute;
+  top: 1px;
+  width: 71px;
+}
+
+.AI-EOAR .section-9 {
+  height: 100px;
+  left: 64px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.AI-EOAR .section-10 {
+  height: 77px;
+  left: 100px;
+  position: absolute;
+  top: 23px;
+  width: 97px;
+}
+
+.AI-EOAR .section-11 {
+  height: 99px;
+  left: 100px;
+  position: absolute;
+  top: 2px;
+  width: 65px;
+}
+
+.AI-EOAR .section-12 {
+  height: 98px;
+  left: 100px;
+  position: absolute;
+  top: 73px;
+  width: 100px;
+}
+
+.AI-EOAR .card-info-2 {
+  height: 58px;
+  left: 47px;
+  position: absolute;
+  top: 27px;
+  width: 347px;
+}
+
+.AI-EOAR .navbar {
+  height: 17px;
+  left: 272px;
+  position: absolute;
+  top: 94px;
+  width: 388px;
+}
+
+.AI-EOAR .text-wrapper-6 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.AI-EOAR .text-wrapper-7 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.AI-EOAR .text-wrapper-8 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.AI-EOAR .text-wrapper-9 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 150px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.AI-EOAR .text-wrapper-10 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 244px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.AI-EOAR .menu-instance {
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.AI-EOAR .design-component-instance-node {
+  background-color: #ffffff !important;
+}
+
+.AI-EOAR .menu-2 {
+  background-color: var(--logo-color) !important;
+}
+
+.AI-EOAR .menu-3 {
+  color: #ffffff !important;
+}
+
+.AI-EOAR .menu-4 {
+  color: var(--logo-color) !important;
+}
+
+.AI-EOAR .header-instance {
+  background-color: transparent !important;
+  left: 248px !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.AI-EOAR .header-2 {
+  background-image: url(../../../static/img/header-1.svg) !important;
+}

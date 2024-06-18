@@ -1,0 +1,1588 @@
+.threat-mitigation {
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.threat-mitigation .div-4 {
+  background-color: #eeeeee;
+  height: 829px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.threat-mitigation .rectangle {
+  height: 1018px;
+  left: 12383px;
+  position: absolute;
+  top: -29536px;
+  width: 1144px;
+}
+
+.threat-mitigation .navbar {
+  height: 17px;
+  left: 272px;
+  position: absolute;
+  top: 94px;
+  width: 425px;
+}
+
+.threat-mitigation .text-wrapper-5 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.threat-mitigation .text-wrapper-6 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.threat-mitigation .text-wrapper-7 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.threat-mitigation .text-wrapper-8 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 150px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.threat-mitigation .text-wrapper-9 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 244px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.threat-mitigation .frame-7 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 674px;
+  left: 272px;
+  position: absolute;
+  top: 134px;
+  width: 1154px;
+}
+
+.threat-mitigation .overlap-2 {
+  height: 563px;
+  left: 56px;
+  position: absolute;
+  top: 80px;
+  width: 1084px;
+}
+
+.threat-mitigation .services-apps-wrapper {
+  background-color: #e7f2ff;
+  border: 1px solid;
+  border-color: #757bff;
+  height: 66px;
+  left: 7px;
+  position: absolute;
+  top: 124px;
+  width: 127px;
+}
+
+.threat-mitigation .services-apps {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+}
+
+.threat-mitigation .databases-objects-wrapper {
+  background-color: #e7f2ff;
+  border: 1px solid;
+  border-color: #757bff;
+  height: 66px;
+  left: 7px;
+  position: absolute;
+  top: 204px;
+  width: 127px;
+}
+
+.threat-mitigation .text-wrapper-10 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+}
+
+.threat-mitigation .servers-racks-data-wrapper {
+  background-color: #e7f2ff;
+  border: 1px solid;
+  border-color: #757bff;
+  height: 66px;
+  left: 7px;
+  position: absolute;
+  top: 284px;
+  width: 127px;
+}
+
+.threat-mitigation .servers-racks-data {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+}
+
+.threat-mitigation .firewalls-routers-wrapper {
+  background-color: #e7f2ff;
+  border: 1px solid;
+  border-color: #757bff;
+  height: 66px;
+  left: 7px;
+  position: absolute;
+  top: 367px;
+  width: 127px;
+}
+
+.threat-mitigation .firewalls-routers {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 116px;
+}
+
+.threat-mitigation .overlap-3 {
+  background-color: #e7f2ff;
+  border: 1px solid;
+  border-color: #757bff;
+  height: 66px;
+  left: 7px;
+  position: absolute;
+  top: 449px;
+  width: 127px;
+}
+
+.threat-mitigation .firewalls-routers-2 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+}
+
+.threat-mitigation .zero-trust-cloud-wrapper {
+  background-color: #9aff60;
+  border: 1px dashed;
+  border-color: #369300;
+  height: 66px;
+  left: 144px;
+  position: absolute;
+  top: 449px;
+  width: 127px;
+}
+
+.threat-mitigation .text-wrapper-11 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+}
+
+.threat-mitigation .firewall-IPS-VPN-wrapper {
+  background-color: #dbffc5;
+  border: 1px dashed;
+  border-color: #4bcd00;
+  height: 66px;
+  left: 144px;
+  position: absolute;
+  top: 367px;
+  width: 127px;
+}
+
+.threat-mitigation .firewall-IPS-VPN {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+}
+
+.threat-mitigation .secure-boot-wrapper {
+  background-color: #dbffc6;
+  border: 1px dashed;
+  border-color: #4bcd00;
+  height: 66px;
+  left: 144px;
+  position: absolute;
+  top: 284px;
+  width: 127px;
+}
+
+.threat-mitigation .secure-boot {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+}
+
+.threat-mitigation .overlap-4 {
+  background-color: #fbfba4;
+  border: 1px dashed;
+  border-color: #e5e500;
+  height: 66px;
+  left: 144px;
+  position: absolute;
+  top: 204px;
+  width: 127px;
+}
+
+.threat-mitigation .text-wrapper-12 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.threat-mitigation .automatic-patching-wrapper {
+  background-color: #ffefb8;
+  border: 1px dashed;
+  border-color: #e2b000;
+  height: 66px;
+  left: 144px;
+  position: absolute;
+  top: 124px;
+  width: 127px;
+}
+
+.threat-mitigation .automatic-patching {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+}
+
+.threat-mitigation .overlap-5 {
+  height: 66px;
+  left: 144px;
+  position: absolute;
+  top: 44px;
+  width: 127px;
+}
+
+.threat-mitigation .rectangle-2 {
+  background-color: #ffe5e5;
+  border: 1px dashed;
+  border-color: #ff9494;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 127px;
+}
+
+.threat-mitigation .encryption-signing {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+}
+
+.threat-mitigation .ML-adversarial-wrapper {
+  background-color: #ffbbbb;
+  border: 1px dashed;
+  border-color: #e00000;
+  height: 66px;
+  left: 275px;
+  position: absolute;
+  top: 44px;
+  width: 127px;
+}
+
+.threat-mitigation .ML-adversarial {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+}
+
+.threat-mitigation .overlap-6 {
+  height: 563px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1078px;
+}
+
+.threat-mitigation .rectangle-3 {
+  background-color: #ffefb8;
+  border: 1px dashed;
+  border-color: #e2b000;
+  height: 66px;
+  left: 406px;
+  position: absolute;
+  top: 44px;
+  width: 127px;
+}
+
+.threat-mitigation .rectangle-4 {
+  background-color: #dbffc6;
+  border: 1px dashed;
+  border-color: #4bcd00;
+  height: 66px;
+  left: 406px;
+  position: absolute;
+  top: 124px;
+  width: 127px;
+}
+
+.threat-mitigation .rectangle-5 {
+  background-color: #ffefb8;
+  border: 1px dashed;
+  border-color: #e2b000;
+  height: 66px;
+  left: 406px;
+  position: absolute;
+  top: 204px;
+  width: 127px;
+}
+
+.threat-mitigation .rectangle-6 {
+  background-color: #ffe5e5;
+  border: 1px dashed;
+  border-color: #ff9494;
+  height: 66px;
+  left: 406px;
+  position: absolute;
+  top: 284px;
+  width: 127px;
+}
+
+.threat-mitigation .rectangle-7 {
+  background-color: #9aff60;
+  border: 1px dashed;
+  border-color: #369300;
+  height: 66px;
+  left: 406px;
+  position: absolute;
+  top: 367px;
+  width: 127px;
+}
+
+.threat-mitigation .rectangle-8 {
+  background-color: #fcfca5;
+  border: 1px dashed;
+  border-color: #e5e500;
+  height: 66px;
+  left: 406px;
+  position: absolute;
+  top: 449px;
+  width: 127px;
+}
+
+.threat-mitigation .rectangle-9 {
+  background-color: #dbffc6;
+  border: 1px dashed;
+  border-color: #4bcd00;
+  height: 66px;
+  left: 537px;
+  position: absolute;
+  top: 44px;
+  width: 127px;
+}
+
+.threat-mitigation .rectangle-10 {
+  background-color: #dbffc6;
+  border: 1px dashed;
+  border-color: #4bcd00;
+  height: 66px;
+  left: 537px;
+  position: absolute;
+  top: 124px;
+  width: 127px;
+}
+
+.threat-mitigation .rectangle-11 {
+  background-color: #ffe5e5;
+  border: 1px dashed;
+  border-color: #ff9494;
+  height: 66px;
+  left: 537px;
+  position: absolute;
+  top: 204px;
+  width: 127px;
+}
+
+.threat-mitigation .rectangle-12 {
+  background-color: #9aff60;
+  border: 1px dashed;
+  border-color: #369300;
+  height: 66px;
+  left: 537px;
+  position: absolute;
+  top: 284px;
+  width: 127px;
+}
+
+.threat-mitigation .rectangle-13 {
+  background-color: #ffefb8;
+  border: 1px dashed;
+  border-color: #e2b000;
+  height: 66px;
+  left: 537px;
+  position: absolute;
+  top: 367px;
+  width: 127px;
+}
+
+.threat-mitigation .rectangle-14 {
+  background-color: #fcfca5;
+  border: 1px dashed;
+  border-color: #e5e500;
+  height: 66px;
+  left: 537px;
+  position: absolute;
+  top: 449px;
+  width: 127px;
+}
+
+.threat-mitigation .text-wrapper-13 {
+  color: #555555;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 432px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 536px;
+  white-space: nowrap;
+}
+
+.threat-mitigation .EDR-antivirus-static {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 414px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 49px;
+}
+
+.threat-mitigation .vulnerability {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 425px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 138px;
+}
+
+.threat-mitigation .text-wrapper-14 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 419px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 307px;
+  white-space: nowrap;
+}
+
+.threat-mitigation .vulnerability-2 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 425px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 218px;
+}
+
+.threat-mitigation .IDS-edrs-SIEM {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 433px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 381px;
+}
+
+.threat-mitigation .text-wrapper-15 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 424px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 472px;
+  white-space: nowrap;
+}
+
+.threat-mitigation .ML-adversarial-2 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 561px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 49px;
+}
+
+.threat-mitigation .EDR-antivirus {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 567px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 129px;
+}
+
+.threat-mitigation .auditing-logging {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 567px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 298px;
+}
+
+.threat-mitigation .EDR-antivirus-2 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 567px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 209px;
+}
+
+.threat-mitigation .auditing-logging-2 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 567px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 381px;
+}
+
+.threat-mitigation .cloud-siems-cloud {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 555px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 463px;
+}
+
+.threat-mitigation .rectangle-15 {
+  border: 1px solid;
+  border-color: #777777;
+  height: 1078px;
+  left: 522px;
+  position: absolute;
+  top: 7px;
+  transform: rotate(-90deg);
+  width: 33px;
+}
+
+.threat-mitigation .rectangle-16 {
+  background-color: #ffffff33;
+  border: 1px solid;
+  border-color: #b3b3b333;
+  border-radius: 4px;
+  box-shadow: 0px 4px 8px #0000000d;
+  height: 30px;
+  left: 406px;
+  position: absolute;
+  top: 0;
+  width: 256px;
+}
+
+.threat-mitigation .text-wrapper-16 {
+  color: #555555;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 507px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.threat-mitigation .application-wrapper {
+  background-color: #fcfca5;
+  border: 1px dashed;
+  border-color: #e5e500;
+  height: 66px;
+  left: 668px;
+  position: absolute;
+  top: 124px;
+  width: 127px;
+}
+
+.threat-mitigation .executable-wrapper {
+  background-color: #dbffc6;
+  border: 1px dashed;
+  border-color: #4bcd00;
+  height: 66px;
+  left: 799px;
+  position: absolute;
+  top: 124px;
+  width: 95px;
+}
+
+.threat-mitigation .text-wrapper-17 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+}
+
+.threat-mitigation .process-termination-wrapper {
+  background-color: #ffe486;
+  border: 1px dashed;
+  border-color: #ffcf27;
+  height: 66px;
+  left: 899px;
+  position: absolute;
+  top: 124px;
+  width: 95px;
+}
+
+.threat-mitigation .process-termination {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+}
+
+.threat-mitigation .shutdown-system-wrapper {
+  background-color: #ffefb8;
+  border: 1px dashed;
+  border-color: #e2b000;
+  height: 66px;
+  left: 900px;
+  position: absolute;
+  top: 284px;
+  width: 95px;
+}
+
+.threat-mitigation .text-wrapper-18 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+}
+
+.threat-mitigation .remove-infected-wrapper {
+  background-color: #9aff60;
+  border: 1px dashed;
+  border-color: #369300;
+  height: 66px;
+  left: 900px;
+  position: absolute;
+  top: 204px;
+  width: 184px;
+}
+
+.threat-mitigation .remove-infected {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 134px;
+}
+
+.threat-mitigation .overlap-7 {
+  background-color: #ffefb8;
+  border: 1px dashed;
+  border-color: #e2b000;
+  height: 66px;
+  left: 900px;
+  position: absolute;
+  top: 367px;
+  width: 184px;
+}
+
+.threat-mitigation .p {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 152px;
+}
+
+.threat-mitigation .reset-or-cleaning-wrapper {
+  background-color: #dbffc6;
+  border: 1px dashed;
+  border-color: #4bcd00;
+  height: 66px;
+  left: 900px;
+  position: absolute;
+  top: 449px;
+  width: 184px;
+}
+
+.threat-mitigation .reset-or-cleaning {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 133px;
+}
+
+.threat-mitigation .infected-data-wrapper {
+  background-color: #fcfca5;
+  border: 1px dashed;
+  border-color: #e5e500;
+  height: 66px;
+  left: 895px;
+  position: absolute;
+  top: 44px;
+  width: 105px;
+}
+
+.threat-mitigation .text-wrapper-19 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+}
+
+.threat-mitigation .disable-or-remove-wrapper {
+  background-color: #fcfca5;
+  border: 1px dashed;
+  border-color: #e5e500;
+  height: 66px;
+  left: 999px;
+  position: absolute;
+  top: 124px;
+  width: 85px;
+}
+
+.threat-mitigation .disable-or-remove {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+}
+
+.threat-mitigation .overlap-group-3 {
+  background-color: #fcfca5;
+  border: 1px dashed;
+  border-color: #e5e500;
+  height: 66px;
+  left: 999px;
+  position: absolute;
+  top: 284px;
+  width: 85px;
+}
+
+.threat-mitigation .data-denoising-wrapper {
+  background-color: #ffe486;
+  border: 1px dashed;
+  border-color: #ffcf27;
+  height: 66px;
+  left: 1004px;
+  position: absolute;
+  top: 44px;
+  width: 80px;
+}
+
+.threat-mitigation .database-denylisting-wrapper {
+  background-color: #ffe5e5;
+  border: 1px dashed;
+  border-color: #ff9494;
+  height: 66px;
+  left: 799px;
+  position: absolute;
+  top: 204px;
+  width: 96px;
+}
+
+.threat-mitigation .IO-port-restriction-wrapper {
+  background-color: #ffe486;
+  border: 1px dashed;
+  border-color: #ffcf27;
+  height: 66px;
+  left: 799px;
+  position: absolute;
+  top: 284px;
+  width: 97px;
+}
+
+.threat-mitigation .IO-port-restriction {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+}
+
+.threat-mitigation .out-in-boundtraffic-wrapper {
+  background-color: #dbffc6;
+  border: 1px dashed;
+  border-color: #4bcd00;
+  height: 66px;
+  left: 798px;
+  position: absolute;
+  top: 367px;
+  width: 98px;
+}
+
+.threat-mitigation .text-wrapper-20 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+}
+
+.threat-mitigation .overlap-8 {
+  background-color: #ffe486;
+  border: 1px dashed;
+  border-color: #ffcf27;
+  height: 66px;
+  left: 799px;
+  position: absolute;
+  top: 449px;
+  width: 98px;
+}
+
+.threat-mitigation .database-isolation-wrapper {
+  background-color: #9aff60;
+  border: 1px dashed;
+  border-color: #369300;
+  height: 66px;
+  left: 668px;
+  position: absolute;
+  top: 204px;
+  width: 127px;
+}
+
+.threat-mitigation .kernel-based-process-wrapper {
+  background-color: #dbffc6;
+  border: 1px dashed;
+  border-color: #4bcd00;
+  height: 66px;
+  left: 668px;
+  position: absolute;
+  top: 284px;
+  width: 127px;
+}
+
+.threat-mitigation .kernel-based-process {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+}
+
+.threat-mitigation .DNS-denylisting-wrapper {
+  background-color: #ffe486;
+  border: 1px dashed;
+  border-color: #ffcf27;
+  height: 66px;
+  left: 668px;
+  position: absolute;
+  top: 367px;
+  width: 127px;
+}
+
+.threat-mitigation .overlap-9 {
+  background-color: #ffefb8;
+  border: 1px dashed;
+  border-color: #e2b000;
+  height: 66px;
+  left: 668px;
+  position: absolute;
+  top: 449px;
+  width: 127px;
+}
+
+.threat-mitigation .overlap-10 {
+  background-color: #fcfca5;
+  border: 1px dashed;
+  border-color: #e5e500;
+  height: 66px;
+  left: 668px;
+  position: absolute;
+  top: 44px;
+  width: 223px;
+}
+
+.threat-mitigation .text-wrapper-21 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 54px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.threat-mitigation .proper-IAM-wrapper {
+  background-color: #ffefb8;
+  border: 1px dashed;
+  border-color: #e2b000;
+  height: 66px;
+  left: 275px;
+  position: absolute;
+  top: 124px;
+  width: 127px;
+}
+
+.threat-mitigation .proper-IAM {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+}
+
+.threat-mitigation .overlap-11 {
+  background-color: #9aff5f;
+  border: 1px dashed;
+  border-color: #369300;
+  height: 66px;
+  left: 275px;
+  position: absolute;
+  top: 204px;
+  width: 127px;
+}
+
+.threat-mitigation .trusted-platform-wrapper {
+  background-color: #ffe5e5;
+  border: 1px dashed;
+  border-color: #ff9494;
+  height: 66px;
+  left: 275px;
+  position: absolute;
+  top: 284px;
+  width: 127px;
+}
+
+.threat-mitigation .trusted-platform {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+}
+
+.threat-mitigation .overlap-12 {
+  background-color: #fcfca5;
+  border: 1px dashed;
+  border-color: #e5e500;
+  height: 66px;
+  left: 275px;
+  position: absolute;
+  top: 367px;
+  width: 127px;
+}
+
+.threat-mitigation .proper-IAM-2 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+}
+
+.threat-mitigation .overlap-13 {
+  background-color: #9aff60;
+  border: 1px dashed;
+  border-color: #369300;
+  height: 66px;
+  left: 275px;
+  position: absolute;
+  top: 449px;
+  width: 127px;
+}
+
+.threat-mitigation .text-wrapper-22 {
+  color: #555555;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.threat-mitigation .text-wrapper-23 {
+  color: #555555;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 536px;
+  white-space: nowrap;
+}
+
+.threat-mitigation .keys-models-datasets-wrapper {
+  background-color: #e7f2ff;
+  border: 1px solid;
+  border-color: #757bff;
+  height: 66px;
+  left: 7px;
+  position: absolute;
+  top: 44px;
+  width: 127px;
+}
+
+.threat-mitigation .text-wrapper-24 {
+  color: #555555;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 206px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 536px;
+  white-space: nowrap;
+}
+
+.threat-mitigation .text-wrapper-25 {
+  color: #555555;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 664px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 536px;
+  white-space: nowrap;
+}
+
+.threat-mitigation .text-wrapper-26 {
+  color: #555555;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 796px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 536px;
+  white-space: nowrap;
+}
+
+.threat-mitigation .text-wrapper-27 {
+  color: #555555;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 945px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 536px;
+  white-space: nowrap;
+}
+
+.threat-mitigation .overlap-14 {
+  background-color: #ffffff33;
+  border: 1px solid;
+  border-color: #b3b3b333;
+  border-radius: 4px;
+  box-shadow: 0px 4px 8px #0000000d;
+  height: 30px;
+  left: 144px;
+  position: absolute;
+  top: 0;
+  width: 255px;
+}
+
+.threat-mitigation .text-wrapper-28 {
+  color: #555555;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 98px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.threat-mitigation .overlap-15 {
+  background-color: #ffffff33;
+  border: 1px solid;
+  border-color: #b3b3b333;
+  border-radius: 4px;
+  box-shadow: 0px 4px 8px #0000000d;
+  height: 30px;
+  left: 668px;
+  position: absolute;
+  top: 0;
+  width: 223px;
+}
+
+.threat-mitigation .text-wrapper-29 {
+  color: #555555;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 84px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.threat-mitigation .overlap-16 {
+  background-color: #ffffff33;
+  border: 1px solid;
+  border-color: #b3b3b333;
+  border-radius: 4px;
+  box-shadow: 0px 4px 8px #0000000d;
+  height: 30px;
+  left: 896px;
+  position: absolute;
+  top: 0;
+  width: 188px;
+}
+
+.threat-mitigation .text-wrapper-30 {
+  color: #555555;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 73px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.threat-mitigation .overlap-17 {
+  height: 462px;
+  left: 10px;
+  position: absolute;
+  top: 130px;
+  width: 33px;
+}
+
+.threat-mitigation .text-wrapper-31 {
+  color: #555555;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: -6px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 423px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.threat-mitigation .text-wrapper-32 {
+  color: #555555;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: -16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 342px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.threat-mitigation .text-wrapper-33 {
+  color: #555555;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: -13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 258px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.threat-mitigation .text-wrapper-34 {
+  color: #555555;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: -14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 180px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.threat-mitigation .text-wrapper-35 {
+  color: #555555;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: -19px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 95px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.threat-mitigation .text-wrapper-36 {
+  color: #555555;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: -2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.threat-mitigation .rectangle-17 {
+  border: 1px solid;
+  border-color: #777777;
+  height: 462px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 33px;
+}
+
+.threat-mitigation .line-4 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 394px;
+  width: 33px;
+}
+
+.threat-mitigation .line-5 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 305px;
+  width: 33px;
+}
+
+.threat-mitigation .line-6 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 229px;
+  width: 33px;
+}
+
+.threat-mitigation .line-7 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 153px;
+  width: 33px;
+}
+
+.threat-mitigation .line-8 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 33px;
+}
+
+.threat-mitigation .add-a-new-company {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.threat-mitigation .menu-instance {
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.threat-mitigation .design-component-instance-node {
+  background-color: #ffffff !important;
+}
+
+.threat-mitigation .menu-2 {
+  background-color: var(--logo-color) !important;
+}
+
+.threat-mitigation .menu-3 {
+  color: #ffffff !important;
+}
+
+.threat-mitigation .menu-4 {
+  color: var(--logo-color) !important;
+}
+
+.threat-mitigation .header-instance {
+  background-color: transparent !important;
+  left: 248px !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.threat-mitigation .header-2 {
+  background-image: url(../../../static/img/header-1.svg) !important;
+}

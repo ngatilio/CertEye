@@ -1,0 +1,261 @@
+.type-wide-version .div {
+  position: relative;
+}
+
+.type-wide-version .name-of-the-company {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.type-wide-version .overlap-group {
+  left: 0;
+  position: absolute;
+  top: 29px;
+}
+
+.type-wide-version .rectangle {
+  position: absolute;
+}
+
+.type-wide-version .rectangle-2 {
+  height: 208px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 638px;
+}
+
+.type-wide-version .keyboard-arrow-down {
+  height: 24px;
+  left: 595px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.type-wide-version .frame-wrapper {
+  background-image: url(../../../static/img/vector-2.svg);
+  background-size: 100% 100%;
+  height: 163px;
+  left: 0;
+  position: absolute;
+  top: 45px;
+  width: 638px;
+}
+
+.type-wide-version .frame {
+  height: 131px;
+  left: 16px;
+  position: relative;
+  top: 17px;
+  width: 220px;
+}
+
+.type-wide-version .options {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  top: -1px;
+  width: 220px;
+}
+
+.type-wide-version .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+  width: 178px;
+}
+
+.type-wide-version .checkbox-field {
+  height: 19.83px !important;
+  margin-left: -0.75px !important;
+  margin-top: -0.75px !important;
+  position: relative !important;
+  width: 19.83px !important;
+}
+
+.type-wide-version .location {
+  color: var(--grey-icon-color);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.type-wide-version .frame-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+}
+
+.type-wide-version .blinkbee {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.type-wide-version.property-1-YAML {
+  height: 75px;
+  width: 638px;
+}
+
+.type-wide-version.property-1-frame-1000001909 {
+  height: 75px;
+  width: 639px;
+}
+
+.type-wide-version.property-1-python {
+  height: 75px;
+  width: 639px;
+}
+
+.type-wide-version.property-1-API {
+  height: 75px;
+  width: 637px;
+}
+
+.type-wide-version.property-1-expanded-form {
+  height: 249px;
+  width: 638px;
+}
+
+.type-wide-version.property-1-serverless {
+  height: 75px;
+  width: 636px;
+}
+
+.type-wide-version.property-1-YAML .div {
+  height: 75px;
+  width: 643px;
+}
+
+.type-wide-version.property-1-frame-1000001909 .div {
+  height: 75px;
+  width: 643px;
+}
+
+.type-wide-version.property-1-python .div {
+  height: 75px;
+  width: 643px;
+}
+
+.type-wide-version.property-1-API .div {
+  height: 75px;
+  width: 641px;
+}
+
+.type-wide-version.property-1-expanded-form .div {
+  height: 248px;
+  width: 643px;
+}
+
+.type-wide-version.property-1-serverless .div {
+  height: 75px;
+  width: 640px;
+}
+
+.type-wide-version.property-1-YAML .overlap-group {
+  background-image: url(../../../static/img/rectangle-2-6.png);
+  background-size: 100% 100%;
+  height: 46px;
+  width: 639px;
+}
+
+.type-wide-version.property-1-frame-1000001909 .overlap-group {
+  background-image: url(../../../static/img/rectangle-2-5.png);
+  background-size: 100% 100%;
+  height: 46px;
+  width: 639px;
+}
+
+.type-wide-version.property-1-python .overlap-group {
+  background-image: url(../../../static/img/rectangle-2-5.png);
+  background-size: 100% 100%;
+  height: 46px;
+  width: 639px;
+}
+
+.type-wide-version.property-1-API .overlap-group {
+  background-image: url(../../../static/img/rectangle-2-4.png);
+  background-size: 100% 100%;
+  height: 46px;
+  width: 637px;
+}
+
+.type-wide-version.property-1-expanded-form .overlap-group {
+  height: 219px;
+  width: 639px;
+}
+
+.type-wide-version.property-1-serverless .overlap-group {
+  background-image: url(../../../static/img/rectangle-2-3.png);
+  background-size: 100% 100%;
+  height: 46px;
+  width: 636px;
+}
+
+.type-wide-version.property-1-YAML .rectangle {
+  height: 24px;
+  left: 595px;
+  top: 11px;
+  width: 24px;
+}
+
+.type-wide-version.property-1-frame-1000001909 .rectangle {
+  height: 24px;
+  left: 595px;
+  top: 11px;
+  width: 24px;
+}
+
+.type-wide-version.property-1-python .rectangle {
+  height: 24px;
+  left: 595px;
+  top: 11px;
+  width: 24px;
+}
+
+.type-wide-version.property-1-API .rectangle {
+  height: 24px;
+  left: 593px;
+  top: 11px;
+  width: 24px;
+}
+
+.type-wide-version.property-1-expanded-form .rectangle {
+  height: 46px;
+  left: 0;
+  top: 0;
+  width: 639px;
+}
+
+.type-wide-version.property-1-serverless .rectangle {
+  height: 24px;
+  left: 592px;
+  top: 11px;
+  width: 24px;
+}

@@ -1,0 +1,494 @@
+.profile {
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.profile .div-4 {
+  background-color: #eeeeee;
+  height: 1500px;
+  position: relative;
+  width: 1440px;
+}
+
+.profile .staff-list {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 1342px;
+  left: 272px;
+  overflow: hidden;
+  position: absolute;
+  top: 94px;
+  width: 1144px;
+}
+
+.profile .address {
+  height: 415px;
+  left: 24px;
+  position: absolute;
+  top: 744px;
+  width: 722px;
+}
+
+.profile .role {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 42px;
+  width: 722px;
+}
+
+.profile .field {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 722px;
+}
+
+.profile .overlap-group-3 {
+  border-radius: 8px;
+  height: 46px;
+  position: relative;
+}
+
+.profile .start-and-end {
+  color: var(--x222-text-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.profile .rectangle {
+  border: 1px solid;
+  border-color: #d6d9de;
+  border-radius: 8px;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 722px;
+}
+
+.profile .start-and-end-2 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.profile .role-2 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 141px;
+  width: 722px;
+}
+
+.profile .frame-7 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 240px;
+  width: 353px;
+}
+
+.profile .field-2 {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 353px;
+}
+
+.profile .rectangle-2 {
+  border: 1px solid;
+  border-color: #d6d9de;
+  border-radius: 8px;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 353px;
+}
+
+.profile .frame-8 {
+  height: 75px;
+  left: 369px;
+  position: absolute;
+  top: 240px;
+  width: 353px;
+}
+
+.profile .frame-9 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 340px;
+  width: 353px;
+}
+
+.profile .frame-10 {
+  height: 75px;
+  left: 369px;
+  position: absolute;
+  top: 340px;
+  width: 353px;
+}
+
+.profile .jib-details {
+  color: var(--x222-text-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.profile .image-uplaod {
+  height: 204px;
+  left: 24px;
+  position: absolute;
+  top: 96px;
+  width: 184px;
+}
+
+.profile .overlap-2 {
+  height: 182px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 184px;
+}
+
+.profile .avatar-user {
+  background-image: url(../../../static/img/avatar-user-166.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 8px;
+  height: 166px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 166px;
+}
+
+.profile .edit-icon {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--line-color);
+  border-radius: 18px;
+  height: 36px;
+  left: 148px;
+  position: absolute;
+  top: 0;
+  width: 36px;
+}
+
+.profile .edit {
+  height: 18px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 18px;
+}
+
+.profile .close-icon {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--line-color);
+  border-radius: 18px;
+  height: 36px;
+  left: 148px;
+  position: absolute;
+  top: 146px;
+  width: 36px;
+}
+
+.profile .close-icon-2 {
+  height: 14px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 14px;
+}
+
+.profile .allowed-file-types {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 189px;
+  white-space: nowrap;
+}
+
+.profile .text-wrapper-5 {
+  color: var(--x222-text-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.profile .line-4 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 71px;
+  width: 1144px;
+}
+
+.profile .name {
+  height: 75px;
+  left: 24px;
+  position: absolute;
+  top: 336px;
+  width: 353px;
+}
+
+.profile .start-and-end-3 {
+  color: var(--x222-text-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.profile .p {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.profile .span {
+  color: #777777;
+}
+
+.profile .text-wrapper-6 {
+  color: #dc3545;
+}
+
+.profile .name-2 {
+  height: 75px;
+  left: 393px;
+  position: absolute;
+  top: 336px;
+  width: 353px;
+}
+
+.profile .email {
+  height: 75px;
+  left: 393px;
+  position: absolute;
+  top: 435px;
+  width: 353px;
+}
+
+.profile .input {
+  background: transparent;
+  border: none;
+  color: var(--x222-text-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.profile .mobile {
+  height: 75px;
+  left: 24px;
+  position: absolute;
+  top: 435px;
+  width: 353px;
+}
+
+.profile .password {
+  height: 75px;
+  left: 24px;
+  position: absolute;
+  top: 534px;
+  width: 353px;
+}
+
+.profile .start-and-end-4 {
+  color: var(--x222-text-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.profile .iconsax-linear-20 {
+  height: 20px;
+  left: 317px;
+  position: absolute;
+  top: 13px;
+  width: 20px;
+}
+
+.profile .DOB {
+  height: 75px;
+  left: 393px;
+  position: absolute;
+  top: 534px;
+  width: 353px;
+}
+
+.profile .gender {
+  height: 75px;
+  left: 24px;
+  position: absolute;
+  top: 633px;
+  width: 353px;
+}
+
+.profile .start-and-end-5 {
+  background: transparent;
+  border: none;
+  color: var(--x222-text-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.profile .iconsax-linear-21 {
+  height: 18px;
+  left: 319px;
+  position: absolute;
+  top: 14px;
+  width: 18px;
+}
+
+.profile .button {
+  all: unset;
+  align-items: center;
+  background-color: var(--logo-color);
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 139px;
+  padding: 13px 24px 14px;
+  position: absolute;
+  top: 1241px;
+}
+
+.profile .content {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  position: relative;
+}
+
+.profile .start-and-end-6 {
+  color: var(--fff-white);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.profile .content-wrapper {
+  all: unset;
+  align-items: center;
+  background-color: var(--f2f2f2-line-color);
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 24px;
+  padding: 13px 24px 14px;
+  position: absolute;
+  top: 1241px;
+}
+
+.profile .start-and-end-7 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.profile .menu-instance {
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.profile .header-instance {
+  background-color: transparent !important;
+  left: 248px !important;
+  position: fixed !important;
+  top: 0 !important;
+}

@@ -1,0 +1,915 @@
+.compliance-risk {
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.compliance-risk .div-5 {
+  background-color: #eeeeee;
+  height: 1403px;
+  position: relative;
+  width: 1440px;
+}
+
+.compliance-risk .group-16 {
+  height: 17px;
+  left: 272px;
+  position: absolute;
+  top: 94px;
+  width: 302px;
+}
+
+.compliance-risk .text-wrapper-5 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.compliance-risk .text-wrapper-6 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 170px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.compliance-risk .text-wrapper-7 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 187px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.compliance-risk .group-17 {
+  height: 1235px;
+  left: 272px;
+  position: absolute;
+  top: 135px;
+  width: 1146px;
+}
+
+.compliance-risk .overlap-3 {
+  border-radius: 8px;
+  height: 1235px;
+  position: relative;
+  width: 1144px;
+}
+
+.compliance-risk .add-new-button {
+  all: unset;
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--logo-color);
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 10px;
+  height: 46px;
+  justify-content: center;
+  left: 1005px;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 64px;
+}
+
+.compliance-risk .content {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  position: relative;
+}
+
+.compliance-risk .vector-2 {
+  height: 15px;
+  position: relative;
+  width: 13px;
+}
+
+.compliance-risk .start-and-end {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.compliance-risk .group-18 {
+  height: 326px;
+  left: 22px;
+  position: absolute;
+  top: 500px;
+  width: 532px;
+}
+
+.compliance-risk .overlap-4 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 3px 20px #11111a1a;
+  height: 326px;
+  position: relative;
+  width: 530px;
+}
+
+.compliance-risk .group-19 {
+  height: 17px;
+  left: 20px;
+  position: absolute;
+  top: 84px;
+  width: 199px;
+}
+
+.compliance-risk .text-wrapper-8 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.compliance-risk .text-wrapper-9 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 147px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.compliance-risk .group-20 {
+  height: 17px;
+  left: 20px;
+  position: absolute;
+  top: 131px;
+  width: 199px;
+}
+
+.compliance-risk .text-wrapper-10 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 151px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.compliance-risk .group-21 {
+  height: 17px;
+  left: 20px;
+  position: absolute;
+  top: 178px;
+  width: 199px;
+}
+
+.compliance-risk .text-wrapper-11 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 163px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.compliance-risk .section {
+  height: 261px;
+  left: 257px;
+  position: absolute;
+  top: 32px;
+  width: 264px;
+}
+
+.compliance-risk .overlap-group-3 {
+  height: 293px;
+  left: 0;
+  position: absolute;
+  top: -32px;
+  width: 87px;
+}
+
+.compliance-risk .thu {
+  height: 293px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 85px;
+}
+
+.compliance-risk .rectangle-2 {
+  background-color: #58508d;
+  border-radius: 10px 10px 0px 0px;
+  height: 224px;
+  left: 15px;
+  position: relative;
+  top: 36px;
+  width: 60px;
+}
+
+.compliance-risk .thu-2 {
+  color: #39373e;
+  font-family: "Rubik", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 1px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 274px;
+  width: 86px;
+}
+
+.compliance-risk .overlap-5 {
+  height: 210px;
+  left: 112px;
+  position: absolute;
+  top: 51px;
+  width: 59px;
+}
+
+.compliance-risk .fri {
+  height: 210px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 59px;
+}
+
+.compliance-risk .rectangle-3 {
+  background-color: #58508d80;
+  border-radius: 10px 10px 0px 0px;
+  height: 178px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 61px;
+}
+
+.compliance-risk .fri-2 {
+  color: #39373e;
+  font-family: "Rubik", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 1px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 191px;
+  width: 59px;
+}
+
+.compliance-risk .overlap-group-4 {
+  height: 104px;
+  left: 192px;
+  position: absolute;
+  top: 157px;
+  width: 72px;
+}
+
+.compliance-risk .sat {
+  height: 104px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 72px;
+}
+
+.compliance-risk .rectangle-4 {
+  background-color: #f2f2f2;
+  border-radius: 10px 10px 0px 0px;
+  height: 72px;
+  left: 5px;
+  position: relative;
+  top: -1px;
+  width: 60px;
+}
+
+.compliance-risk .sat-2 {
+  color: #39373e;
+  font-family: "Rubik", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 1px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 85px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.compliance-risk .add-a-new-company {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.compliance-risk .group-22 {
+  height: 326px;
+  left: 22px;
+  position: absolute;
+  top: 860px;
+  width: 532px;
+}
+
+.compliance-risk .text-wrapper-12 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 152px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.compliance-risk .text-wrapper-13 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.compliance-risk .text-wrapper-14 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 149px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.compliance-risk .section-2 {
+  height: 261px;
+  left: 257px;
+  overflow: hidden;
+  position: absolute;
+  top: 32px;
+  width: 264px;
+}
+
+.compliance-risk .rectangle-5 {
+  background-color: #ff6361;
+  border-radius: 10px 10px 0px 0px;
+  height: 224px;
+  left: 15px;
+  position: relative;
+  top: 36px;
+  width: 60px;
+}
+
+.compliance-risk .overlap-6 {
+  height: 225px;
+  left: 112px;
+  position: absolute;
+  top: 36px;
+  width: 59px;
+}
+
+.compliance-risk .rectangle-wrapper {
+  height: 225px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 59px;
+}
+
+.compliance-risk .rectangle-6 {
+  background-color: #ff636180;
+  border-radius: 10px 10px 0px 0px;
+  height: 193px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 61px;
+}
+
+.compliance-risk .fri-3 {
+  color: #39373e;
+  font-family: "Rubik", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 1px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 206px;
+  width: 59px;
+}
+
+.compliance-risk .div-6 {
+  height: 150px;
+  left: 192px;
+  position: absolute;
+  top: 111px;
+  width: 72px;
+}
+
+.compliance-risk .sat-3 {
+  height: 150px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 72px;
+}
+
+.compliance-risk .rectangle-7 {
+  background-color: #f2f2f2;
+  border-radius: 10px 10px 0px 0px;
+  height: 142px;
+  left: 5px;
+  position: relative;
+  top: -25px;
+  width: 60px;
+}
+
+.compliance-risk .sat-4 {
+  color: #39373e;
+  font-family: "Rubik", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 1px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 131px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.compliance-risk .group-23 {
+  height: 326px;
+  left: 592px;
+  position: absolute;
+  top: 140px;
+  width: 532px;
+}
+
+.compliance-risk .text-wrapper-15 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 150px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.compliance-risk .text-wrapper-16 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 154px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.compliance-risk .rectangle-8 {
+  background-color: #003f5c;
+  border-radius: 10px 10px 0px 0px;
+  height: 224px;
+  left: 15px;
+  position: relative;
+  top: 36px;
+  width: 60px;
+}
+
+.compliance-risk .overlap-group-5 {
+  height: 201px;
+  left: 112px;
+  position: absolute;
+  top: 60px;
+  width: 59px;
+}
+
+.compliance-risk .fri-4 {
+  height: 201px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 59px;
+}
+
+.compliance-risk .rectangle-9 {
+  background-color: #003f5c80;
+  border-radius: 10px 10px 0px 0px;
+  height: 169px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 61px;
+}
+
+.compliance-risk .fri-5 {
+  color: #39373e;
+  font-family: "Rubik", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 1px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 182px;
+  width: 59px;
+}
+
+.compliance-risk .rectangle-10 {
+  background-color: #f2f2f2;
+  border-radius: 10px 10px 0px 0px;
+  height: 134px;
+  left: 5px;
+  position: relative;
+  top: -17px;
+  width: 60px;
+}
+
+.compliance-risk .group-24 {
+  height: 326px;
+  left: 22px;
+  position: absolute;
+  top: 140px;
+  width: 532px;
+}
+
+.compliance-risk .group-25 {
+  height: 17px;
+  left: 20px;
+  position: absolute;
+  top: 84px;
+  width: 189px;
+}
+
+.compliance-risk .text-wrapper-17 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 137px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.compliance-risk .group-26 {
+  height: 17px;
+  left: 20px;
+  position: absolute;
+  top: 131px;
+  width: 189px;
+}
+
+.compliance-risk .group-27 {
+  height: 17px;
+  left: 20px;
+  position: absolute;
+  top: 178px;
+  width: 189px;
+}
+
+.compliance-risk .thu-3 {
+  height: 293px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: -32px;
+  width: 85px;
+}
+
+.compliance-risk .rectangle-11 {
+  background-color: #4050e7;
+  border-radius: 10px 10px 0px 0px;
+  height: 224px;
+  left: 15px;
+  position: absolute;
+  top: 36px;
+  width: 60px;
+}
+
+.compliance-risk .fri-6 {
+  height: 229px;
+  left: 112px;
+  overflow: hidden;
+  position: absolute;
+  top: 32px;
+  width: 59px;
+}
+
+.compliance-risk .rectangle-12 {
+  background-color: #9ca5ff;
+  border-radius: 10px 10px 0px 0px;
+  height: 197px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 61px;
+}
+
+.compliance-risk .fri-7 {
+  color: #39373e;
+  font-family: "Rubik", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 1px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 210px;
+  width: 59px;
+}
+
+.compliance-risk .rectangle-13 {
+  background-color: #f2f2f2;
+  border-radius: 10px 10px 0px 0px;
+  height: 79px;
+  left: 5px;
+  position: absolute;
+  top: 38px;
+  width: 60px;
+}
+
+.compliance-risk .group-28 {
+  height: 326px;
+  left: 592px;
+  position: absolute;
+  top: 500px;
+  width: 532px;
+}
+
+.compliance-risk .rectangle-14 {
+  background-color: #bc5090;
+  border-radius: 10px 10px 0px 0px;
+  height: 224px;
+  left: 15px;
+  position: relative;
+  top: 36px;
+  width: 60px;
+}
+
+.compliance-risk .overlap-group-6 {
+  height: 207px;
+  left: 112px;
+  position: absolute;
+  top: 54px;
+  width: 59px;
+}
+
+.compliance-risk .fri-8 {
+  height: 207px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 59px;
+}
+
+.compliance-risk .rectangle-15 {
+  background-color: #bc509080;
+  border-radius: 10px 10px 0px 0px;
+  height: 175px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 61px;
+}
+
+.compliance-risk .fri-9 {
+  color: #39373e;
+  font-family: "Rubik", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 1px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 188px;
+  width: 59px;
+}
+
+.compliance-risk .rectangle-16 {
+  background-color: #f2f2f2;
+  border-radius: 10px 10px 0px 0px;
+  height: 147px;
+  left: 5px;
+  position: relative;
+  top: -30px;
+  width: 60px;
+}
+
+.compliance-risk .group-29 {
+  height: 326px;
+  left: 592px;
+  position: absolute;
+  top: 860px;
+  width: 532px;
+}
+
+.compliance-risk .text-wrapper-18 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 165px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.compliance-risk .rectangle-17 {
+  background-color: #ffa630;
+  border-radius: 10px 10px 0px 0px;
+  height: 224px;
+  left: 15px;
+  position: relative;
+  top: 36px;
+  width: 60px;
+}
+
+.compliance-risk .overlap-group-7 {
+  height: 90px;
+  left: 112px;
+  position: absolute;
+  top: 171px;
+  width: 59px;
+}
+
+.compliance-risk .fri-10 {
+  height: 90px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 59px;
+}
+
+.compliance-risk .rectangle-18 {
+  background-color: #ffa63080;
+  border-radius: 10px 10px 0px 0px;
+  height: 58px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 61px;
+}
+
+.compliance-risk .fri-11 {
+  color: #39373e;
+  font-family: "Rubik", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 1px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  width: 59px;
+}
+
+.compliance-risk .rectangle-19 {
+  background-color: #f2f2f2;
+  border-radius: 10px 10px 0px 0px;
+  height: 200px;
+  left: 5px;
+  position: relative;
+  top: -83px;
+  width: 60px;
+}
+
+.compliance-risk .key-ethics-indicator-instance {
+  left: 20px !important;
+  position: absolute !important;
+  top: 64px !important;
+}
+
+.compliance-risk .rectangle-20 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 1235px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1144px;
+}
+
+.compliance-risk .menu-instance {
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.compliance-risk .design-component-instance-node {
+  background-color: #ffffff !important;
+}
+
+.compliance-risk .menu-2 {
+  background-color: var(--logo-color) !important;
+}
+
+.compliance-risk .menu-3 {
+  color: #ffffff !important;
+}
+
+.compliance-risk .menu-4 {
+  color: #288efc !important;
+}
+
+.compliance-risk .header-instance {
+  background-color: transparent !important;
+  left: 248px !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.compliance-risk .header-2 {
+  background-image: url(../../../static/img/header-1.svg) !important;
+}

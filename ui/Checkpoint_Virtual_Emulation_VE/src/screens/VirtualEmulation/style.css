@@ -1,0 +1,292 @@
+.virtual-emulation {
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.virtual-emulation .div-5 {
+  background-color: #eeeeee;
+  height: 771px;
+  position: relative;
+  width: 1440px;
+}
+
+.virtual-emulation .text-wrapper-4 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 272px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.virtual-emulation .text-wrapper-5 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 383px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.virtual-emulation .text-wrapper-6 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 396px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.virtual-emulation .overlap-2 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 536px;
+  left: 272px;
+  position: absolute;
+  top: 204px;
+  width: 1144px;
+}
+
+.virtual-emulation .button {
+  all: unset;
+  box-sizing: border-box;
+  height: 46px;
+  left: 959px;
+  position: absolute;
+  top: 405px;
+  width: 137px;
+}
+
+.virtual-emulation .next-wrapper {
+  background-image: url(../../../static/img/rectangle-3-2.svg);
+  background-size: 100% 100%;
+  height: 46px;
+  position: relative;
+  width: 135px;
+}
+
+.virtual-emulation .next {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 600;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.virtual-emulation .button-2 {
+  all: unset;
+  box-sizing: border-box;
+  height: 46px;
+  left: 831px;
+  position: absolute;
+  top: 405px;
+  width: 108px;
+}
+
+.virtual-emulation .overlap-3 {
+  background-image: url(../../../static/img/rectangle-3-1.svg);
+  background-size: 100% 100%;
+  height: 46px;
+  position: relative;
+  width: 106px;
+}
+
+.virtual-emulation .next-2 {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 600;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.virtual-emulation .group-15 {
+  height: 46px;
+  left: 532px;
+  position: absolute;
+  top: 53px;
+  width: 112px;
+}
+
+.virtual-emulation .overlap-4 {
+  background-image: url(../../../static/img/rectangle-3.svg);
+  background-size: 100% 100%;
+  height: 46px;
+  position: relative;
+  width: 110px;
+}
+
+.virtual-emulation .next-3 {
+  color: #288efc;
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 600;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+  width: 94px;
+}
+
+.virtual-emulation .AI-pipeline {
+  height: 75px;
+  left: 24px;
+  position: absolute;
+  top: 24px;
+  width: 478px;
+}
+
+.virtual-emulation .name-of-the-company {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.virtual-emulation .overlap-5 {
+  background-image: url(../../../static/img/rectangle-2.png);
+  background-size: 100% 100%;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 478px;
+}
+
+.virtual-emulation .keyboard-arrow-down {
+  height: 24px;
+  left: 449px;
+  position: absolute;
+  top: 11px;
+  width: 24px;
+}
+
+.virtual-emulation .blinkbee {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.virtual-emulation .AI-pipeline-2 {
+  height: 75px;
+  left: 24px;
+  position: absolute;
+  top: 121px;
+  width: 478px;
+}
+
+.virtual-emulation .overlap-6 {
+  height: 57px;
+  left: 272px;
+  position: absolute;
+  top: 128px;
+  width: 1144px;
+}
+
+.virtual-emulation .rectangle {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1144px;
+}
+
+.virtual-emulation .rectangle-2 {
+  height: 3px;
+  left: 261px;
+  position: absolute;
+  top: 54px;
+  width: 170px;
+}
+
+.virtual-emulation .overview {
+  color: #9e9fac;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.virtual-emulation .notification {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 261px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.virtual-emulation .menu-instance {
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.virtual-emulation .design-component-instance-node {
+  background-color: var(--logo-color) !important;
+}
+
+.virtual-emulation .menu-2 {
+  color: #ffffff !important;
+}
+
+.virtual-emulation .menu-3 {
+  color: var(--logo-color) !important;
+}
+
+.virtual-emulation .header-instance {
+  background-color: transparent !important;
+  left: 248px !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.virtual-emulation .header-2 {
+  background-image: url(../../../static/img/header-1.svg) !important;
+}

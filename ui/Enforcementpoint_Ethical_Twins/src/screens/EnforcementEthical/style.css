@@ -1,0 +1,721 @@
+.enforcement-ethical {
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.enforcement-ethical .div-4 {
+  background-color: #eeeeee;
+  height: 960px;
+  position: relative;
+  width: 1440px;
+}
+
+.enforcement-ethical .NRS-database-list {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 806px;
+  left: 272px;
+  position: absolute;
+  top: 135px;
+  width: 1144px;
+}
+
+.enforcement-ethical .search {
+  height: 46px;
+  left: 24px;
+  position: absolute;
+  top: 24px;
+  width: 356px;
+}
+
+.enforcement-ethical .overlap-group-3 {
+  border-radius: 8px;
+  height: 46px;
+  position: relative;
+}
+
+.enforcement-ethical .start-and-end {
+  background: transparent;
+  border: none;
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: absolute;
+  top: 14px;
+  width: 295px;
+}
+
+.enforcement-ethical .search-2 {
+  height: 17px;
+  left: 16px;
+  position: absolute;
+  top: 15px;
+  width: 17px;
+}
+
+.enforcement-ethical .rectangle {
+  border: 1px solid;
+  border-color: #d6d9de;
+  border-radius: 8px;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 356px;
+}
+
+.enforcement-ethical .add-new-button {
+  all: unset;
+  align-items: center;
+  background-color: var(--logo-color);
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 1033px;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 24px;
+}
+
+.enforcement-ethical .content {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  position: relative;
+}
+
+.enforcement-ethical .add-icon {
+  height: 14px;
+  margin-left: -1px;
+  position: relative;
+  width: 14px;
+}
+
+.enforcement-ethical .start-and-end-2 {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.enforcement-ethical .line-4 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 153px;
+  width: 1096px;
+}
+
+.enforcement-ethical .JC {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 103px;
+  width: 49px;
+}
+
+.enforcement-ethical .JC-2 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 212px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 103px;
+  white-space: nowrap;
+}
+
+.enforcement-ethical .JC-3 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 534px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 103px;
+  white-space: nowrap;
+}
+
+.enforcement-ethical .JC-4 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 739px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 103px;
+  white-space: nowrap;
+}
+
+.enforcement-ethical .JC-5 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 908px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 103px;
+  width: 57px;
+}
+
+.enforcement-ethical .element {
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 164px;
+  width: 1096px;
+}
+
+.enforcement-ethical .JC-6 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.enforcement-ethical .JC-7 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 510px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.enforcement-ethical .JC-8 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 715px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.enforcement-ethical .JC-9 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 903px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.enforcement-ethical .tag {
+  align-items: flex-start;
+  background-color: #f2f2f24c;
+  border: 1px solid;
+  border-color: #ffa500;
+  border-radius: 100px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 317px;
+  padding: 6px 12px 6px 16px;
+  position: absolute;
+  top: 9px;
+}
+
+.enforcement-ethical .frame-7 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.enforcement-ethical .start-and-end-3 {
+  color: #ffa500;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.enforcement-ethical .iconsax-linear-22 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.enforcement-ethical .frame-wrapper {
+  align-items: flex-start;
+  background-color: #f2f2f24c;
+  border: 1px solid;
+  border-color: #005fff;
+  border-radius: 100px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 188px;
+  padding: 6px 12px 6px 16px;
+  position: absolute;
+  top: 9px;
+}
+
+.enforcement-ethical .start-and-end-4 {
+  color: #005fff;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.enforcement-ethical .group-16 {
+  height: 36px;
+  left: 971px;
+  position: absolute;
+  top: 7px;
+  width: 112px;
+}
+
+.enforcement-ethical .group-17 {
+  height: 36px;
+  width: 114px;
+}
+
+.enforcement-ethical .overlap-group-4 {
+  background-color: var(--f2f2f2-line-color);
+  border-radius: 4px;
+  height: 36px;
+  position: relative;
+  width: 112px;
+}
+
+.enforcement-ethical .text-wrapper-5 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  width: 48px;
+}
+
+.enforcement-ethical .drop-down-arrow {
+  height: 28px;
+  left: 71px;
+  position: absolute;
+  top: 4px;
+  width: 33px;
+}
+
+.enforcement-ethical .element-2 {
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 242px;
+  width: 1096px;
+}
+
+.enforcement-ethical .JC-10 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 715px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.enforcement-ethical .tag-2 {
+  align-items: flex-start;
+  background-color: #f2f2f24c;
+  border: 1px solid;
+  border-color: #ffa500;
+  border-radius: 100px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 188px;
+  padding: 6px 12px 6px 16px;
+  position: absolute;
+  top: 9px;
+}
+
+.enforcement-ethical .tag-3 {
+  align-items: flex-start;
+  background-color: #f2f2f24c;
+  border: 1px solid;
+  border-color: #ff5b5b;
+  border-radius: 100px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 317px;
+  padding: 6px 12px 6px 16px;
+  position: absolute;
+  top: 9px;
+}
+
+.enforcement-ethical .start-and-end-5 {
+  color: #ff5b5b;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.enforcement-ethical .group-18 {
+  height: 36px;
+  left: 971px;
+  position: absolute;
+  top: 7px;
+  width: 114px;
+}
+
+.enforcement-ethical .element-3 {
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 320px;
+  width: 1096px;
+}
+
+.enforcement-ethical .tag-4 {
+  align-items: flex-start;
+  background-color: #f2f2f24c;
+  border: 1px solid;
+  border-color: #ff5b5b;
+  border-radius: 100px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 188px;
+  padding: 6px 12px 6px 16px;
+  position: absolute;
+  top: 9px;
+}
+
+.enforcement-ethical .element-4 {
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 398px;
+  width: 1096px;
+}
+
+.enforcement-ethical .JC-11 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 904px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.enforcement-ethical .element-5 {
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 476px;
+  width: 1096px;
+}
+
+.enforcement-ethical .tag-5 {
+  align-items: flex-start;
+  background-color: #f2f2f24c;
+  border: 1px solid;
+  border-color: #ff5b5b;
+  border-radius: 100px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 319px;
+  padding: 6px 12px 6px 16px;
+  position: absolute;
+  top: 9px;
+}
+
+.enforcement-ethical .element-6 {
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 554px;
+  width: 1096px;
+}
+
+.enforcement-ethical .element-7 {
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 632px;
+  width: 1096px;
+}
+
+.enforcement-ethical .line-5 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 223px;
+  width: 1096px;
+}
+
+.enforcement-ethical .line-6 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 301px;
+  width: 1096px;
+}
+
+.enforcement-ethical .line-7 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 379px;
+  width: 1096px;
+}
+
+.enforcement-ethical .line-8 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 457px;
+  width: 1096px;
+}
+
+.enforcement-ethical .line-9 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 535px;
+  width: 1096px;
+}
+
+.enforcement-ethical .line-10 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 613px;
+  width: 1096px;
+}
+
+.enforcement-ethical .line-11 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 691px;
+  width: 1096px;
+}
+
+.enforcement-ethical .pagination {
+  height: 18px;
+  left: 974px;
+  position: absolute;
+  top: 752px;
+  width: 146px;
+}
+
+.enforcement-ethical .JC-12 {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.enforcement-ethical .iconsax-linear-23 {
+  height: 15px;
+  left: 131px;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.enforcement-ethical .iconsax-linear-24 {
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.enforcement-ethical .JC-13 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.enforcement-ethical .JC-14 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 81px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.enforcement-ethical .JC-15 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 111px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.enforcement-ethical .text-wrapper-6 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 272px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.enforcement-ethical .text-wrapper-7 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 412px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.enforcement-ethical .text-wrapper-8 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 425px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.enforcement-ethical .menu-instance {
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.enforcement-ethical .design-component-instance-node {
+  background-color: var(--logo-color) !important;
+}
+
+.enforcement-ethical .menu-2 {
+  color: #ffffff !important;
+}
+
+.enforcement-ethical .menu-3 {
+  color: var(--logo-color) !important;
+}
+
+.enforcement-ethical .header-instance {
+  background-color: transparent !important;
+  left: 248px !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.enforcement-ethical .header-2 {
+  background-image: url(../../../static/img/header-1.svg) !important;
+}

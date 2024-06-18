@@ -1,0 +1,68 @@
+.new-password {
+  height: 141px;
+  position: relative;
+  width: 500px;
+}
+
+.new-password .enter-your-email-and {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.new-password .frame {
+  border: 1px solid;
+  border-color: #d6d9de;
+  border-radius: 8px;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 27px;
+  width: 500px;
+}
+
+.new-password .iconsax-linear {
+  height: 24px;
+  left: 451px;
+  position: absolute;
+  top: 17px;
+  width: 24px;
+}
+
+.new-password .img {
+  height: 6px;
+  left: 23px;
+  position: absolute;
+  top: 26px;
+  width: 78px;
+}
+
+.new-password .rectangle {
+  background-color: var(--green);
+  border-radius: 50px;
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 103px;
+  width: 500px;
+}
+
+.new-password .use-or-more {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 123px;
+}

@@ -1,0 +1,314 @@
+.virtual-emulation {
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.virtual-emulation .div-5 {
+  background-color: #eeeeee;
+  height: 771px;
+  position: relative;
+  width: 1440px;
+}
+
+.virtual-emulation .text-wrapper-4 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 272px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.virtual-emulation .text-wrapper-5 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 383px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.virtual-emulation .text-wrapper-6 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 396px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.virtual-emulation .overlap-2 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 536px;
+  left: 272px;
+  position: absolute;
+  top: 204px;
+  width: 1144px;
+}
+
+.virtual-emulation .add-new-button {
+  all: unset;
+  align-items: center;
+  background-color: var(--logo-color);
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 1027px;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 8px;
+}
+
+.virtual-emulation .content {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  position: relative;
+}
+
+.virtual-emulation .add-icon {
+  height: 14px;
+  margin-left: -1px;
+  position: relative;
+  width: 14px;
+}
+
+.virtual-emulation .start-and-end {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.virtual-emulation .group-15 {
+  height: 36px;
+  left: 33px;
+  position: absolute;
+  top: 80px;
+  width: 1084px;
+}
+
+.virtual-emulation .group-16 {
+  height: 36px;
+  left: 982px;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.virtual-emulation .group-17 {
+  height: 36px;
+  width: 102px;
+}
+
+.virtual-emulation .overlap-group-3 {
+  background-color: var(--f2f2f2-line-color);
+  border-radius: 4px;
+  height: 36px;
+  position: relative;
+  width: 100px;
+}
+
+.virtual-emulation .text-wrapper-7 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  width: 43px;
+}
+
+.virtual-emulation .drop-down-arrow {
+  height: 28px;
+  left: 61px;
+  position: absolute;
+  top: 4px;
+  width: 33px;
+}
+
+.virtual-emulation .teenyicons-tick {
+  height: 14px;
+  left: 501px;
+  position: absolute;
+  top: 11px;
+  width: 14px;
+}
+
+.virtual-emulation .JC {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.virtual-emulation .image {
+  height: 20px;
+  left: 244px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 83px;
+}
+
+.virtual-emulation .line-4 {
+  height: 1px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  width: 1096px;
+}
+
+.virtual-emulation .JC-2 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  width: 49px;
+}
+
+.virtual-emulation .JC-3 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 296px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+  white-space: nowrap;
+}
+
+.virtual-emulation .JC-4 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 500;
+  left: 533px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+  white-space: nowrap;
+}
+
+.virtual-emulation .overlap-3 {
+  height: 57px;
+  left: 272px;
+  position: absolute;
+  top: 128px;
+  width: 1144px;
+}
+
+.virtual-emulation .rectangle {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1144px;
+}
+
+.virtual-emulation .rectangle-2 {
+  height: 3px;
+  left: 22px;
+  position: absolute;
+  top: 54px;
+  width: 160px;
+}
+
+.virtual-emulation .overview {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.virtual-emulation .notification {
+  color: #9e9fac;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 267px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.virtual-emulation .menu-instance {
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.virtual-emulation .design-component-instance-node {
+  background-color: var(--logo-color) !important;
+}
+
+.virtual-emulation .menu-2 {
+  color: #ffffff !important;
+}
+
+.virtual-emulation .menu-3 {
+  color: var(--logo-color) !important;
+}
+
+.virtual-emulation .header-instance {
+  background-color: transparent !important;
+  left: 248px !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.virtual-emulation .header-2 {
+  background-image: url(../../../static/img/header-1.svg) !important;
+}

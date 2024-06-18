@@ -1,0 +1,19 @@
+Version: 1.0
+Authors: Lionel Tidjon 
+Date: 2024-06-02 12:45:00PM EST 
+Description: An example of scenarios following ISO 42001:2023
+Input scenario:
+    privacy: 
+        rules:  ["~/iso42001/privacy/pii_exposure_101.aipac"]
+    fairness: 
+        rules: ["~/iso42001/fairness/bais_detection_98.aipac",
+                "~/iso4200/fairness/toxicity_output_156.aipac"]
+Model scenario:
+    sustainability: 
+        rules: ["~/iso42001/sust/train_carbonfootprint_274.aipac",
+                "~/iso42001/sust/gpu_optimization_145.aipac"]
+Output scenario:
+    fairness: 
+        rules: ["~/iso4200/fairness/toxicity_output_156.aipac"]
+    privacy: 
+        rules:  ["~/iso42001/privacy/pii_exposure_101.aipac"]

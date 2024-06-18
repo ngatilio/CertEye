@@ -1,0 +1,955 @@
+.popup-modal {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.popup-modal .div-2 {
+  background-image: url(../../../static/img/rectangle-3689.png);
+  background-size: 100% 100%;
+  height: 680px;
+  position: relative;
+  width: 1373px;
+}
+
+.popup-modal .overlap-2 {
+  height: 543px;
+  left: 58px;
+  position: absolute;
+  top: 99px;
+  width: 608px;
+}
+
+.popup-modal .path {
+  height: 12px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+
+.popup-modal .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 24px;
+  height: 543px;
+  left: 0;
+  overflow-y: scroll;
+  position: absolute;
+  top: 0;
+}
+
+.popup-modal .group-4 {
+  height: 170px;
+  position: relative;
+  width: 602px;
+}
+
+.popup-modal .UX-research-for {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 600;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 336px;
+}
+
+.popup-modal .task {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 52px;
+  white-space: nowrap;
+}
+
+.popup-modal .icon-ionic-ios {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+
+.popup-modal .created-by-saran-on {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 114px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 52px;
+  white-space: nowrap;
+}
+
+.popup-modal .div-wrapper {
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 82px;
+  width: 598px;
+}
+
+.popup-modal .text-wrapper-5 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 0;
+  width: 596px;
+}
+
+.popup-modal .path-2 {
+  height: 46px;
+  left: 372px;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.popup-modal .priority-tag {
+  height: 37px;
+  left: 386px;
+  position: absolute;
+  top: 14px;
+  width: 72px;
+}
+
+.popup-modal .overlap-group-3 {
+  background-image: url(../../../static/img/rectangle-3064.png);
+  background-size: 100% 100%;
+  height: 37px;
+  position: relative;
+  width: 70px;
+}
+
+.popup-modal .text-wrapper-6 {
+  color: #fd8052;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+}
+
+.popup-modal .frame-2 {
+  align-items: center;
+  background-color: #fdddb2;
+  border-radius: 30px;
+  display: flex;
+  gap: 6px;
+  height: 37px;
+  left: 478px;
+  padding: 12px;
+  position: absolute;
+  top: 14px;
+  width: 118px;
+}
+
+.popup-modal .text-wrapper-7 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -1px;
+  margin-top: -3px;
+  position: relative;
+  width: fit-content;
+}
+
+.popup-modal .iconsax-linear {
+  height: 18px;
+  margin-bottom: -2.5px;
+  margin-right: -1px;
+  margin-top: -2.5px;
+  position: relative;
+  width: 18px;
+}
+
+.popup-modal .line-4 {
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 589px;
+}
+
+.popup-modal .group-5 {
+  height: 40px;
+  position: relative;
+  width: 458px;
+}
+
+.popup-modal .path-3 {
+  height: 38px;
+  left: 288px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.popup-modal .group-6 {
+  height: 40px;
+  left: 157px;
+  position: absolute;
+  top: 0;
+  width: 109px;
+}
+
+.popup-modal .group-7 {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 109px;
+}
+
+.popup-modal .text-wrapper-8 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.popup-modal .icon-feather-2 {
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.popup-modal .text-wrapper-9 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.popup-modal .path-4 {
+  height: 38px;
+  left: 133px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.popup-modal .group-8 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 111px;
+}
+
+.popup-modal .group-9 {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 111px;
+}
+
+.popup-modal .frame-3 {
+  align-items: center;
+  background-color: #fdddb2;
+  border-radius: 30px;
+  display: flex;
+  gap: 6px;
+  height: 37px;
+  justify-content: center;
+  left: 319px;
+  padding: 12px;
+  position: absolute;
+  top: 2px;
+  width: 139px;
+}
+
+.popup-modal .iconsax-linear-2 {
+  height: 17px;
+  margin-bottom: -2px;
+  margin-top: -2px;
+  position: relative;
+  width: 17px;
+}
+
+.popup-modal .line-5 {
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 587px;
+}
+
+.popup-modal .group-10 {
+  height: 75px;
+  position: relative;
+  width: 193px;
+}
+
+.popup-modal .text-wrapper-10 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.popup-modal .overlap-wrapper {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 31px;
+  width: 191px;
+}
+
+.popup-modal .overlap-3 {
+  height: 44px;
+  position: relative;
+}
+
+.popup-modal .group-11 {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.popup-modal .group-12 {
+  height: 38px;
+  left: 33px;
+  position: absolute;
+  top: 3px;
+  width: 38px;
+}
+
+.popup-modal .group-13 {
+  height: 44px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.popup-modal .overlap-group-4 {
+  background-image: url(../../../static/img/path-2755.png);
+  background-size: 100% 100%;
+  height: 44px;
+  position: relative;
+  width: 44px;
+}
+
+.popup-modal .text-wrapper-11 {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+}
+
+.popup-modal .group-14 {
+  height: 44px;
+  left: 93px;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.popup-modal .overlap-4 {
+  background-image: url(../../../static/img/path-2753.png);
+  background-size: 100% 100%;
+  height: 44px;
+  position: relative;
+  width: 44px;
+}
+
+.popup-modal .group-15 {
+  height: 38px;
+  left: 126px;
+  position: absolute;
+  top: 3px;
+  width: 38px;
+}
+
+.popup-modal .group-16 {
+  height: 38px;
+  left: 153px;
+  position: absolute;
+  top: 3px;
+  width: 38px;
+}
+
+.popup-modal .group-17 {
+  height: 66px;
+  position: relative;
+  width: 418px;
+}
+
+.popup-modal .tag {
+  align-items: flex-start;
+  background-color: #f2f2f280;
+  border: 1px solid;
+  border-color: #d6d9de;
+  border-radius: 100px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 0;
+  padding: 6px 12px 6px 16px;
+  position: absolute;
+  top: 34px;
+}
+
+.popup-modal .frame-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.popup-modal .start-and-end-3 {
+  color: var(--x222-text-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.popup-modal .iconsax-linear-3 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.popup-modal .frame-wrapper {
+  align-items: flex-start;
+  background-color: #f2f2f280;
+  border: 1px solid;
+  border-color: #d6d9de;
+  border-radius: 100px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 131px;
+  padding: 6px 12px 6px 16px;
+  position: absolute;
+  top: 34px;
+}
+
+.popup-modal .tag-2 {
+  align-items: flex-start;
+  background-color: #f2f2f280;
+  border: 1px solid;
+  border-color: #d6d9de;
+  border-radius: 100px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 301px;
+  padding: 6px 12px 6px 16px;
+  position: absolute;
+  top: 34px;
+}
+
+.popup-modal .group-18 {
+  height: 121px;
+  margin-right: -2px;
+  position: relative;
+  width: 610px;
+}
+
+.popup-modal .group-19 {
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 48px;
+  width: 620px;
+}
+
+.popup-modal .text-wrapper-12 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 39px;
+}
+
+.popup-modal .text-wrapper-13 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 113px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 39px;
+}
+
+.popup-modal .text-wrapper-14 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 213px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 39px;
+}
+
+.popup-modal .text-wrapper-15 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 329px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 39px;
+  width: 55px;
+}
+
+.popup-modal .text-wrapper-16 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 449px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 39px;
+}
+
+.popup-modal .text-wrapper-17 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 537px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 39px;
+}
+
+.popup-modal .group-20 {
+  height: 25px;
+  left: 23px;
+  position: absolute;
+  top: 0;
+  width: 565px;
+}
+
+.popup-modal .line-6 {
+  height: 556px;
+  left: 676px;
+  position: absolute;
+  top: 99px;
+  width: 1px;
+}
+
+.popup-modal .overlap-5 {
+  height: 78px;
+  left: 58px;
+  position: absolute;
+  top: 2px;
+  width: 1290px;
+}
+
+.popup-modal .x {
+  height: 20px;
+  left: 1265px;
+  position: absolute;
+  top: 27px;
+  width: 20px;
+}
+
+.popup-modal .group-21 {
+  height: 78px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1290px;
+}
+
+.popup-modal .overlap-6 {
+  height: 78px;
+  position: relative;
+}
+
+.popup-modal .background {
+  background-color: #ffffff;
+  height: 78px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1244px;
+}
+
+.popup-modal .group-22 {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 30px;
+  width: 144px;
+}
+
+.popup-modal .icon-feather-chevron {
+  height: 10px;
+  left: 138px;
+  position: absolute;
+  top: 4px;
+  width: 6px;
+}
+
+.popup-modal .text-wrapper-18 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.popup-modal .UX-research-wrapper {
+  height: 17px;
+  left: 154px;
+  position: absolute;
+  top: 30px;
+  width: 287px;
+}
+
+.popup-modal .line-7 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 77px;
+  width: 1290px;
+}
+
+.popup-modal .frame-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: 422px;
+  left: 706px;
+  overflow-y: scroll;
+  position: absolute;
+  top: 99px;
+  width: 642px;
+}
+
+.popup-modal .text-wrapper-19 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.popup-modal .comment-instance {
+  position: relative !important;
+}
+
+.popup-modal .design-component-instance-node {
+  left: 0 !important;
+  top: 0 !important;
+}
+
+.popup-modal .group-23 {
+  height: 117.83px;
+  margin-right: -2px;
+  position: relative;
+  width: 644px;
+}
+
+.popup-modal .text-wrapper-20 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 66px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.popup-modal .element-minutes-ago {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 540px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.popup-modal .element-research-and-2 {
+  height: 89px;
+  left: 66px;
+  position: absolute;
+  top: 29px;
+  width: 555px;
+}
+
+.popup-modal .div-3 {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.popup-modal .text-wrapper-21 {
+  color: #222222;
+}
+
+.popup-modal .text-wrapper-22 {
+  color: #1a508e;
+}
+
+.popup-modal .text-wrapper-23 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 29px;
+  width: 551px;
+}
+
+.popup-modal .component-2 {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.popup-modal .overlap-group-5 {
+  background-image: url(../../../static/img/ellipse-13.svg);
+  background-size: 100% 100%;
+  height: 46px;
+  position: relative;
+  width: 46px;
+}
+
+.popup-modal .text-wrapper-24 {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.popup-modal .group-24 {
+  height: 149px;
+  margin-right: -4px;
+  position: relative;
+  width: 646px;
+}
+
+.popup-modal .vector {
+  height: 46px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.popup-modal .element-minutes-ago-2 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 533px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.popup-modal .element-research-and-3 {
+  height: 65px;
+  left: 66px;
+  position: absolute;
+  top: 29px;
+  width: 580px;
+}
+
+.popup-modal .text-wrapper-25 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 25px;
+  width: 576px;
+}
+
+.popup-modal .group-wrapper {
+  background-image: url(../../../static/img/rectangle-3698.png);
+  background-size: 100% 100%;
+  height: 30px;
+  left: 65px;
+  position: absolute;
+  top: 119px;
+  width: 59px;
+}
+
+.popup-modal .group-25 {
+  height: 20px;
+  left: 14px;
+  position: relative;
+  top: 5px;
+  width: 32px;
+}
+
+.popup-modal .thumb-up-fill {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.popup-modal .text-wrapper-26 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+}
+
+.popup-modal .group-26 {
+  background-image: url(../../../static/img/rectangle-3698.png);
+  background-size: 100% 100%;
+  height: 30px;
+  left: 136px;
+  position: absolute;
+  top: 119px;
+  width: 59px;
+}
+
+.popup-modal .group-27 {
+  height: 17px;
+  left: 13px;
+  position: relative;
+  top: 7px;
+  width: 33px;
+}
+
+.popup-modal .text-wrapper-27 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.popup-modal .icon-feather-heart {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.popup-modal .path-5 {
+  height: 17px;
+  left: 207px;
+  position: absolute;
+  top: 126px;
+  width: 18px;
+}

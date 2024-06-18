@@ -1,0 +1,1 @@
+export { TypeWideVersion } from "./TypeWideVersion";

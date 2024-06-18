@@ -1,0 +1,322 @@
+.autopatching {
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.autopatching .div-6 {
+  background-color: #eeeeee;
+  height: 797px;
+  position: relative;
+  width: 1440px;
+}
+
+.autopatching .navbar {
+  height: 17px;
+  left: 272px;
+  position: absolute;
+  top: 94px;
+  width: 457px;
+}
+
+.autopatching .text-wrapper-6 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.autopatching .text-wrapper-7 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 173px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.autopatching .text-wrapper-8 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 156px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.autopatching .text-wrapper-9 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 346px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.autopatching .text-wrapper-10 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 359px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.autopatching .NRS-database-list {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 628px;
+  left: 272px;
+  position: absolute;
+  top: 134px;
+  width: 1144px;
+}
+
+.autopatching .add-a-new-company {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.autopatching .add-new-button {
+  all: unset;
+  align-items: center;
+  background-color: var(--logo-color);
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 196px;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 514px;
+}
+
+.autopatching .content {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  position: relative;
+}
+
+.autopatching .start-and-end {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.autopatching .content-wrapper {
+  align-items: center;
+  background-color: var(--logo-color);
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 1004px;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 19px;
+}
+
+.autopatching .add-new-button-2 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #288efc;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 23px;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 514px;
+}
+
+.autopatching .start-and-end-2 {
+  color: #288efc;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.autopatching .add-new-button-3 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #288efc;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 104px;
+  padding: 12px 16px 13px;
+  position: absolute;
+  top: 514px;
+}
+
+.autopatching .group-19 {
+  height: 24px;
+  left: 22px;
+  position: absolute;
+  top: 83px;
+  width: 257px;
+}
+
+.autopatching .group-20 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 123px;
+}
+
+.autopatching .add-a-new-company-2 {
+  -webkit-text-stroke: 1px #222222fc;
+  color: #222222fc;
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.autopatching .ic-sharp-add {
+  height: 24px;
+  left: 233px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.autopatching .group-21 {
+  height: 24px;
+  left: 22px;
+  position: absolute;
+  top: 121px;
+  width: 259px;
+}
+
+.autopatching .add-a-new-company-3 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.autopatching .group-22 {
+  height: 24px;
+  left: 22px;
+  position: absolute;
+  top: 159px;
+  width: 259px;
+}
+
+.autopatching .add-a-new-company-4 {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 196px;
+  white-space: nowrap;
+}
+
+.autopatching .line-4 {
+  height: 478px;
+  left: 322px;
+  object-fit: cover;
+  position: absolute;
+  top: 83px;
+  width: 1px;
+}
+
+.autopatching .autopatching-editor-instance {
+  left: 347px !important;
+  position: absolute !important;
+  top: 83px !important;
+}
+
+.autopatching .menu-instance {
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.autopatching .design-component-instance-node {
+  background-color: var(--logo-color) !important;
+}
+
+.autopatching .menu-2 {
+  color: #ffffff !important;
+}
+
+.autopatching .menu-3 {
+  color: var(--logo-color) !important;
+}
+
+.autopatching .header-instance {
+  background-color: transparent !important;
+  left: 248px !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.autopatching .header-2 {
+  background-image: url(../../../static/img/header-1.svg) !important;
+}

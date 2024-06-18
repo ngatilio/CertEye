@@ -4,8 +4,6 @@
 .github
 .vscode
 
-@app/e2e
-
 *Dockerfile*
 *docker-compose*
 

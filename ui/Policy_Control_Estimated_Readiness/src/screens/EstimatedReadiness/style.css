@@ -1,0 +1,666 @@
+.estimated-readiness {
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.estimated-readiness .div-4 {
+  background-color: #eeeeee;
+  height: 777px;
+  position: relative;
+  width: 1440px;
+}
+
+.estimated-readiness .AI-policies-controls-3 {
+  color: var(--grey);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 272px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.estimated-readiness .text-wrapper-5 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 423px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.estimated-readiness .text-wrapper-6 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 436px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+}
+
+.estimated-readiness .group-16 {
+  height: 290px;
+  left: 272px;
+  position: absolute;
+  top: 135px;
+  width: 367px;
+}
+
+.estimated-readiness .overlap-group-3 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 2px 2px 10px #00000012;
+  height: 290px;
+  position: relative;
+  width: 365px;
+}
+
+.estimated-readiness .group-17 {
+  height: 130px;
+  left: 137px;
+  position: absolute;
+  top: 142px;
+  width: 226px;
+}
+
+.estimated-readiness .text-wrapper-7 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 10px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.estimated-readiness .text-wrapper-8 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 10px;
+  left: 184px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.estimated-readiness .text-wrapper-9 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 10px;
+  left: 187px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 24px;
+  white-space: nowrap;
+}
+
+.estimated-readiness .text-wrapper-10 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 10px;
+  left: 187px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 48px;
+  white-space: nowrap;
+}
+
+.estimated-readiness .text-wrapper-11 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 10px;
+  left: 187px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 72px;
+  white-space: nowrap;
+}
+
+.estimated-readiness .text-wrapper-12 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 10px;
+  left: 187px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 96px;
+  white-space: nowrap;
+}
+
+.estimated-readiness .text-wrapper-13 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 10px;
+  left: 187px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 120px;
+  white-space: nowrap;
+}
+
+.estimated-readiness .text-wrapper-14 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 10px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 24px;
+  white-space: nowrap;
+}
+
+.estimated-readiness .text-wrapper-15 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 10px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+  white-space: nowrap;
+}
+
+.estimated-readiness .text-wrapper-16 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 10px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 72px;
+  white-space: nowrap;
+}
+
+.estimated-readiness .text-wrapper-17 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 10px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 96px;
+  white-space: nowrap;
+}
+
+.estimated-readiness .text-wrapper-18 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 10px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 120px;
+  white-space: nowrap;
+}
+
+.estimated-readiness .text-wrapper-19 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 10px;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 88px;
+  white-space: nowrap;
+}
+
+.estimated-readiness .group-18 {
+  height: 62px;
+  left: 18px;
+  position: absolute;
+  top: 174px;
+  width: 88px;
+}
+
+.estimated-readiness .text-wrapper-20 {
+  color: #000000;
+  font-family: "Rubik", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 21px;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.estimated-readiness .text-wrapper-21 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 27px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  width: 84px;
+}
+
+.estimated-readiness .element {
+  height: 10px;
+  left: 14px;
+  position: absolute;
+  top: 108px;
+  width: 214px;
+}
+
+.estimated-readiness .rectangle-wrapper {
+  background-color: #e1e7ff;
+  border-radius: 100px;
+  height: 10px;
+  left: 7px;
+  position: absolute;
+  top: 1px;
+  width: 207px;
+}
+
+.estimated-readiness .rectangle {
+  background-color: #1b9a55;
+  border-radius: 100px;
+  height: 10px;
+  width: 157px;
+}
+
+.estimated-readiness .text-wrapper-22 {
+  color: #1b9a55;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 17px;
+  left: 226px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -4px;
+}
+
+.estimated-readiness .ellipse {
+  height: 50px;
+  left: 14px;
+  position: absolute;
+  top: 14px;
+  width: 50px;
+}
+
+.estimated-readiness .group-19 {
+  height: 22px;
+  left: 78px;
+  position: absolute;
+  top: 28px;
+  width: 158px;
+}
+
+.estimated-readiness .text-wrapper-23 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.estimated-readiness .line-4 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 154px;
+}
+
+.estimated-readiness .line-5 {
+  height: 137px;
+  left: 123px;
+  object-fit: cover;
+  position: absolute;
+  top: 142px;
+  width: 1px;
+}
+
+.estimated-readiness .group-20 {
+  height: 290px;
+  left: 272px;
+  position: absolute;
+  top: 449px;
+  width: 367px;
+}
+
+.estimated-readiness .text-wrapper-24 {
+  color: #000000;
+  font-family: "Rubik", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 21px;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.estimated-readiness .rectangle-2 {
+  background-color: #ff3d3d;
+  border-radius: 100px;
+  height: 10px;
+  width: 83px;
+}
+
+.estimated-readiness .text-wrapper-25 {
+  color: #ff3d3d;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 17px;
+  left: 225px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -4px;
+}
+
+.estimated-readiness .group-21 {
+  height: 43px;
+  left: 78px;
+  position: absolute;
+  top: 28px;
+  width: 254px;
+}
+
+.estimated-readiness .p {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 252px;
+}
+
+.estimated-readiness .line-6 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 226px;
+}
+
+.estimated-readiness .group-22 {
+  height: 290px;
+  left: 661px;
+  position: absolute;
+  top: 135px;
+  width: 367px;
+}
+
+.estimated-readiness .group-23 {
+  height: 22px;
+  left: 78px;
+  position: absolute;
+  top: 28px;
+  width: 168px;
+}
+
+.estimated-readiness .line-7 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 160px;
+}
+
+.estimated-readiness .group-24 {
+  height: 290px;
+  left: 661px;
+  position: absolute;
+  top: 449px;
+  width: 367px;
+}
+
+.estimated-readiness .text-wrapper-26 {
+  color: #000000;
+  font-family: "Rubik", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 21px;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.estimated-readiness .rectangle-3 {
+  background-color: #ff3d3d;
+  border-radius: 100px;
+  height: 10px;
+  width: 97px;
+}
+
+.estimated-readiness .text-wrapper-27 {
+  color: #ff3d3d;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 17px;
+  left: 226px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -4px;
+}
+
+.estimated-readiness .group-25 {
+  height: 22px;
+  left: 78px;
+  position: absolute;
+  top: 28px;
+  width: 138px;
+}
+
+.estimated-readiness .line-8 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 128px;
+}
+
+.estimated-readiness .group-26 {
+  height: 290px;
+  left: 1050px;
+  position: absolute;
+  top: 135px;
+  width: 367px;
+}
+
+.estimated-readiness .text-wrapper-28 {
+  color: #000000;
+  font-family: "Rubik", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 21px;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.estimated-readiness .rectangle-4 {
+  background-color: #1b9a55;
+  border-radius: 100px;
+  height: 10px;
+  width: 176px;
+}
+
+.estimated-readiness .text-wrapper-29 {
+  color: #1b9a55;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 17px;
+  left: 225px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -4px;
+}
+
+.estimated-readiness .group-27 {
+  height: 41px;
+  left: 78px;
+  position: absolute;
+  top: 28px;
+  width: 263px;
+}
+
+.estimated-readiness .text-wrapper-30 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 261px;
+}
+
+.estimated-readiness .line-9 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 225px;
+}
+
+.estimated-readiness .group-28 {
+  height: 290px;
+  left: 1050px;
+  position: absolute;
+  top: 449px;
+  width: 367px;
+}
+
+.estimated-readiness .rectangle-5 {
+  background-color: #1b9a55;
+  border-radius: 100px;
+  height: 10px;
+  width: 146px;
+}
+
+.estimated-readiness .menu-instance {
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.estimated-readiness .design-component-instance-node {
+  background-color: var(--logo-color) !important;
+}
+
+.estimated-readiness .menu-2 {
+  color: #ffffff !important;
+}
+
+.estimated-readiness .menu-3 {
+  color: var(--logo-color) !important;
+}
+
+.estimated-readiness .header-instance {
+  background-color: transparent !important;
+  left: 248px !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.estimated-readiness .header-2 {
+  background-image: url(../../../static/img/header-1.svg) !important;
+}

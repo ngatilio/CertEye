@@ -1,0 +1,432 @@
+.add-NRS {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.add-NRS .group-wrapper {
+  height: 1085px;
+  width: 611px;
+}
+
+.add-NRS .group {
+  background-color: #ffffff;
+  height: 1098px;
+}
+
+.add-NRS .overlap {
+  height: 999px;
+  left: 30px;
+  position: relative;
+  top: 27px;
+  width: 549px;
+}
+
+.add-NRS .div {
+  height: 999px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 549px;
+}
+
+.add-NRS .add-a-new-company {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 22px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 319px;
+}
+
+.add-NRS .group-2 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 156px;
+  width: 551px;
+}
+
+.add-NRS .name-of-the-company {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 143px;
+}
+
+.add-NRS .overlap-group {
+  background-image: url(../../../static/img/rectangle-2.png);
+  background-size: 100% 100%;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 547px;
+}
+
+.add-NRS .blinkbee {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.add-NRS .group-3 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 61px;
+  width: 551px;
+}
+
+.add-NRS .blinkbee-wrapper {
+  background-image: url(../../../static/img/rectangle-2-4.png);
+  background-size: 100% 100%;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 547px;
+}
+
+.add-NRS .group-4 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 386px;
+  width: 551px;
+}
+
+.add-NRS .group-5 {
+  height: 115px;
+  left: 0;
+  position: absolute;
+  top: 251px;
+  width: 551px;
+}
+
+.add-NRS .div-wrapper {
+  background-image: url(../../../static/img/rectangle-2-3.png);
+  background-size: 100% 100%;
+  height: 86px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 547px;
+}
+
+.add-NRS .text-wrapper {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 10px;
+  width: 513px;
+}
+
+.add-NRS .group-6 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 576px;
+  width: 549px;
+}
+
+.add-NRS .name-of-the-company-2 {
+  color: #999999;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.add-NRS .rectangle {
+  background-image: url(../../../static/img/vector-1.svg);
+  background-size: 100% 100%;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 547px;
+}
+
+.add-NRS .overlap-group-2 {
+  background-image: url(../../../static/img/vector.svg);
+  background-size: 100% 100%;
+  height: 45px;
+  position: relative;
+  width: 546px;
+}
+
+.add-NRS .group-7 {
+  height: 24px;
+  left: 20px;
+  position: absolute;
+  top: 10px;
+  width: 153px;
+}
+
+.add-NRS .text-wrapper-2 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  width: 114px;
+}
+
+.add-NRS .component {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.add-NRS .iconsax-linear {
+  height: 18px;
+  left: 518px;
+  position: absolute;
+  top: 14px;
+  width: 18px;
+}
+
+.add-NRS .group-8 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 671px;
+  width: 551px;
+}
+
+.add-NRS .overlap-2 {
+  background-image: url(../../../static/img/rectangle-2-2.png);
+  background-size: 100% 100%;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 547px;
+}
+
+.add-NRS .group-9 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 766px;
+  width: 551px;
+}
+
+.add-NRS .overlap-3 {
+  background-image: url(../../../static/img/rectangle-2-1.png);
+  background-size: 100% 100%;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 547px;
+}
+
+.add-NRS .button {
+  all: unset;
+  box-sizing: border-box;
+  height: 46px;
+  left: 290px;
+  position: absolute;
+  top: 953px;
+  width: 132px;
+}
+
+.add-NRS .cancel-wrapper {
+  background-image: url(../../../static/img/group.png);
+  background-size: 100% 100%;
+  height: 46px;
+  position: relative;
+  width: 130px;
+}
+
+.add-NRS .cancel {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 600;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 69px;
+}
+
+.add-NRS .overlap-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  height: 46px;
+  left: 440px;
+  position: absolute;
+  top: 953px;
+  width: 108px;
+}
+
+.add-NRS .next-wrapper {
+  background-image: url(../../../static/img/rectangle-3.svg);
+  background-size: 100% 100%;
+  height: 46px;
+  position: relative;
+  width: 106px;
+}
+
+.add-NRS .next {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 17px;
+  font-weight: 600;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 37px;
+}
+
+.add-NRS .role {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 481px;
+  width: 544px;
+}
+
+.add-NRS .overlap-4 {
+  border-radius: 8px;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 544px;
+}
+
+.add-NRS .field {
+  border: 1px solid;
+  border-color: #d6d9de;
+  border-radius: 8px;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 544px;
+}
+
+.add-NRS .tag {
+  align-items: flex-start;
+  background-color: #f2f2f280;
+  border: 1px solid;
+  border-color: #d6d9de;
+  border-radius: 100px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 15px;
+  padding: 6px 12px 6px 16px;
+  position: absolute;
+  top: 6px;
+}
+
+.add-NRS .frame {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.add-NRS .start-and-end {
+  color: var(--x222-text-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.add-NRS .img {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.add-NRS .frame-wrapper {
+  align-items: flex-start;
+  background-color: #f2f2f280;
+  border: 1px solid;
+  border-color: #d6d9de;
+  border-radius: 100px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 146px;
+  padding: 6px 12px 6px 16px;
+  position: absolute;
+  top: 6px;
+}
+
+.add-NRS .iconsax-linear-2 {
+  height: 18px;
+  left: 519px;
+  position: absolute;
+  top: 14px;
+  width: 18px;
+}
+
+.add-NRS .start-and-end-2 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.add-NRS .x {
+  height: 18px;
+  left: 531px;
+  position: absolute;
+  top: 5px;
+  width: 18px;
+}

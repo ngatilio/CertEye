@@ -1,0 +1,63 @@
+.autotesting-editor {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #d6d6d6;
+  border-radius: 6px;
+  height: 477px;
+  overflow: scroll;
+  position: relative;
+  width: 736px;
+}
+
+.autotesting-editor .group {
+  height: 823px;
+  left: 20px;
+  position: absolute;
+  top: 22px;
+  width: 340px;
+}
+
+.autotesting-editor .pipeline-name {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 338px;
+}
+
+.autotesting-editor .text-wrapper {
+  color: #2a3273;
+}
+
+.autotesting-editor .span {
+  color: #22a83e;
+}
+
+.autotesting-editor .text-wrapper-2 {
+  color: #22a839;
+}
+
+.autotesting-editor .text-wrapper-3 {
+  color: #22a83c;
+}
+
+.autotesting-editor .rectangle-wrapper {
+  background-color: #ebebeb;
+  border-radius: 30px;
+  height: 415px;
+  left: 712px;
+  position: absolute;
+  top: 31px;
+  width: 8px;
+}
+
+.autotesting-editor .rectangle {
+  background-color: #bdbdbd;
+  border-radius: 30px;
+  height: 202px;
+}

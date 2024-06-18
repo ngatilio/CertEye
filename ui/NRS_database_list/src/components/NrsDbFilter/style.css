@@ -1,0 +1,433 @@
+.NRS-DB-filter {
+  height: 46px;
+  width: 107px;
+}
+
+.NRS-DB-filter .frame {
+  align-items: flex-end;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  left: -184px;
+  position: relative;
+}
+
+.NRS-DB-filter .filter-button {
+  position: relative;
+  width: 99px;
+}
+
+.NRS-DB-filter .filter {
+  align-items: center;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 13px 16px 12px;
+  position: relative;
+}
+
+.NRS-DB-filter .content-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  position: relative;
+}
+
+.NRS-DB-filter .img {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.NRS-DB-filter .text-wrapper {
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.NRS-DB-filter .filter-options {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 9px 27px;
+  position: relative;
+  width: 283px;
+}
+
+.NRS-DB-filter .frame-2 {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 7px 20px #0000001c;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  margin-bottom: -27px;
+  margin-left: -9px;
+  margin-right: -9px;
+  padding: 16px 0px;
+  position: relative;
+}
+
+.NRS-DB-filter .header-2 {
+  height: 35px;
+  position: relative;
+  width: 283px;
+}
+
+.NRS-DB-filter .filter-2 {
+  color: var(--x222-text-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.NRS-DB-filter .filter-3 {
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 181px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+}
+
+.NRS-DB-filter .iconsax-linear {
+  height: 20px;
+  position: absolute;
+  width: 20px;
+}
+
+.NRS-DB-filter .line {
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 283px;
+}
+
+.NRS-DB-filter .search {
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.NRS-DB-filter .month-wrapper {
+  height: 38px;
+  position: relative;
+  width: 252px;
+}
+
+.NRS-DB-filter .month {
+  background-color: var(--f2f2f2-line-color);
+  border-radius: 4px;
+  height: 40px;
+  overflow: hidden;
+  position: relative;
+  top: -2px;
+}
+
+.NRS-DB-filter .filter-4 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.NRS-DB-filter .search-2 {
+  height: 17px;
+  left: -4208px;
+  position: absolute;
+  top: -6518px;
+  width: 17px;
+}
+
+.NRS-DB-filter .div-2 {
+  height: 67px;
+  position: relative;
+  width: 252px;
+  z-index: 3;
+}
+
+.NRS-DB-filter .label {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 57px;
+}
+
+.NRS-DB-filter .location {
+  color: var(--x777-body-text);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.NRS-DB-filter .frame-3 {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 252px;
+}
+
+.NRS-DB-filter .overlap-group {
+  border-radius: 4px;
+  height: 40px;
+  position: relative;
+  top: -2px;
+}
+
+.NRS-DB-filter .filter-wrapper {
+  border: 1px solid;
+  border-color: var(--line-color);
+  border-radius: 4px;
+  height: 40px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 252px;
+}
+
+.NRS-DB-filter .filter-5 {
+  color: var(--grey-icon-color);
+  font-family: "Poppins", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+}
+
+.NRS-DB-filter .drop-down-arrow-12 {
+  height: 28px !important;
+  left: 215px !important;
+  position: absolute !important;
+  top: 7px !important;
+  width: 33px !important;
+}
+
+.NRS-DB-filter .div-3 {
+  height: 67px;
+  position: relative;
+  width: 252px;
+  z-index: 2;
+}
+
+.NRS-DB-filter .div-4 {
+  height: 67px;
+  position: relative;
+  width: 252px;
+  z-index: 1;
+}
+
+.NRS-DB-filter .frame-4 {
+  height: 40px;
+  position: relative;
+  width: 204px;
+  z-index: 0;
+}
+
+.NRS-DB-filter .button-instance {
+  color: var(--logo-color) !important;
+}
+
+.NRS-DB-filter .instance-node {
+  background-color: #ffffff !important;
+  border: 1px solid !important;
+  border-color: #288efc !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.NRS-DB-filter .button-2 {
+  background-color: var(--logo-color) !important;
+  left: 111px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.NRS-DB-filter .button-3 {
+  color: #ffffff !important;
+}
+
+.NRS-DB-filter .frame-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.NRS-DB-filter .location-2 {
+  color: var(--x777-body-text);
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.NRS-DB-filter .div-wrapper {
+  border: 1px solid;
+  border-color: var(--line-color);
+  border-radius: 4px;
+  height: 40px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: -2px;
+  width: 252px;
+}
+
+.NRS-DB-filter .filter-6 {
+  color: var(--grey-icon-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.NRS-DB-filter .iconsax-linear-2 {
+  height: 18px;
+  left: -4006px;
+  position: absolute;
+  top: -6770px;
+  width: 18px;
+}
+
+.NRS-DB-filter .button-4 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.NRS-DB-filter .button-5 {
+  left: 111px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.NRS-DB-filter .active-state {
+  height: 428px;
+}
+
+.NRS-DB-filter .inactive-filter {
+  height: 482px;
+}
+
+.NRS-DB-filter .frame.active-state .filter-button {
+  height: 46px;
+}
+
+.NRS-DB-filter .frame.inactive-filter .filter-button {
+  height: 48px;
+}
+
+.NRS-DB-filter .frame.active-state .filter {
+  background-color: var(--logo-color);
+}
+
+.NRS-DB-filter .frame.inactive-filter .filter {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--logo-color);
+}
+
+.NRS-DB-filter .frame.active-state .text-wrapper {
+  color: #ffffff;
+}
+
+.NRS-DB-filter .frame.inactive-filter .text-wrapper {
+  color: var(--logo-color);
+}
+
+.NRS-DB-filter .frame.active-state .filter-options {
+  height: 372px;
+}
+
+.NRS-DB-filter .frame.inactive-filter .filter-options {
+  height: 426px;
+  margin-bottom: -2px;
+  opacity: 0;
+}
+
+.NRS-DB-filter .frame.active-state .filter-3 {
+  color: var(--logo-color);
+}
+
+.NRS-DB-filter .frame.inactive-filter .filter-3 {
+  color: var(--text-color);
+}
+
+.NRS-DB-filter .frame.active-state .iconsax-linear {
+  left: 247px;
+  top: 0;
+}
+
+.NRS-DB-filter .frame.inactive-filter .iconsax-linear {
+  left: -3962px;
+  top: -6480px;
+}
+
+.NRS-DB-filter .frame.active-state .line {
+  left: 0;
+  top: 34px;
+}
+
+.NRS-DB-filter .frame.inactive-filter .line {
+  left: -4209px;
+  top: -6445px;
+}
+
+.NRS-DB-filter .frame.active-state .search {
+  align-items: center;
+}
+
+.NRS-DB-filter .frame.inactive-filter .search {
+  align-items: flex-start;
+}

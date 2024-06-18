@@ -1,0 +1,64 @@
+.autopatching-editor {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #d6d6d6;
+  border-radius: 6px;
+  height: 477px;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: relative;
+  width: 736px;
+}
+
+.autopatching-editor .group {
+  height: 830px;
+  left: 20px;
+  position: absolute;
+  top: 22px;
+  width: 340px;
+}
+
+.autopatching-editor .pipeline-name {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 338px;
+}
+
+.autopatching-editor .text-wrapper {
+  color: #2a3273;
+}
+
+.autopatching-editor .span {
+  color: #22a83e;
+}
+
+.autopatching-editor .text-wrapper-2 {
+  color: #22a839;
+}
+
+.autopatching-editor .text-wrapper-3 {
+  color: #22a83c;
+}
+
+.autopatching-editor .rectangle-wrapper {
+  background-color: #ebebeb;
+  border-radius: 30px;
+  height: 415px;
+  left: 712px;
+  position: absolute;
+  top: 31px;
+  width: 8px;
+}
+
+.autopatching-editor .rectangle {
+  background-color: #bdbdbd;
+  border-radius: 30px;
+  height: 202px;
+}

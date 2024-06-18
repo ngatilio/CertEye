@@ -1,0 +1,15 @@
+:root {
+  --grey: rgba(85, 85, 85, 1);
+  --grey-icon-color: rgba(153, 153, 153, 1);
+  --logo-color: rgba(40, 142, 252, 1);
+  --neutral-colors400: rgba(146, 145, 165, 1);
+  --neutral-colorsblack: rgba(30, 27, 57, 1);
+  --neutral-colorswhite: rgba(255, 255, 255, 1);
+  --primary-color: rgba(10, 29, 51, 1);
+  --text-single-400-regular-font-family: "Inter-Regular", Helvetica;
+  --text-single-400-regular-font-size: 18px;
+  --text-single-400-regular-font-style: normal;
+  --text-single-400-regular-font-weight: 400;
+  --text-single-400-regular-letter-spacing: 0px;
+  --text-single-400-regular-line-height: 20px;
+}

@@ -1,0 +1,40 @@
+package pii_exposure_101
+import (
+    "secret_checker",
+    "net/http",
+    "prometheus_wrapper"
+)
+
+rule pii_exposure {
+
+include 
+    "pii_exposure_120"
+    "secret_detection_230"
+metadata 
+    gid:= "002"
+    author := "Lionel Tidjon"
+    date := "2016-06-26"
+    description := "PII Exposure"
+    targets := {"input", "output", "model", "pipeline"}
+    models := {
+        "gpt-3.5-turbo", "mixtral-8x7b-32768", "gemini-1.0-pro",
+        "llama3-8b-8192", "claude-instant-1.2"
+    }
+    tools:= {
+        "detect_secrets", "regex", 
+        "presidio_analyzer", "trivy"
+    }
+    references := {
+        "OWASP TOP 10 LLM (LLM06, LLM02)", "GDPR", 
+        "ISO 42001:2023", "EU AI Act"
+    }
+when 
+    results:= secret_checker.PolicyEngine(metadata.tools, metadata.targets).Check();
+    results != nil && (Average(results.RiskScore) >= 0.5 || results.PIIFound)
+then 
+    // riskScore and piiCount metrics are already registered in the prometheus wrapper
+    prometheus_wrapper.riskScore.Set(Average(results.RiskScore));
+    prometheus_wrapper.piiCount.Set(results.UniqueCount);
+    http.Handle("/metrics", prometheus_wrapper.Handler());
+    http.ListenAndServe(":9094", nil);
+}

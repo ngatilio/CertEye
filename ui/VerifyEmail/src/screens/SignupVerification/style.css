@@ -1,0 +1,254 @@
+.signup-verification {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.signup-verification .div {
+  background-color: #ffffff;
+  height: 960px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.signup-verification .iconsax-linear {
+  height: 24px;
+  left: 5959px;
+  position: absolute;
+  top: 3106px;
+  width: 24px;
+}
+
+.signup-verification .frame {
+  background-color: #dee3e9;
+  height: 960px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 700px;
+}
+
+.signup-verification .overlap-group {
+  background-image: url(../../../static/img/rectangle.png);
+  background-size: 100% 100%;
+  height: 959px;
+  left: 1px;
+  position: relative;
+  width: 698px;
+}
+
+.signup-verification .rectangle {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.89) 0%, rgba(0, 0, 0, 0) 100%);
+  height: 959px;
+}
+
+.signup-verification .reset {
+  height: 537px;
+  left: 819px;
+  position: absolute;
+  top: 211px;
+  width: 500px;
+}
+
+.signup-verification .heading {
+  height: 87px;
+  left: 33px;
+  position: absolute;
+  top: 0;
+  width: 435px;
+}
+
+.signup-verification .sign-in {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.signup-verification .enter-your-email-and {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.signup-verification .text-wrapper {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 364px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.signup-verification .new-password {
+  height: 87px;
+  left: 0;
+  position: absolute;
+  top: 143px;
+  width: 500px;
+}
+
+.signup-verification .enter-your-email-and-2 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.signup-verification .mufaddal-rangwala-wrapper {
+  border: 1px solid;
+  border-color: #d6d9de;
+  border-radius: 8px;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 27px;
+  width: 500px;
+}
+
+.signup-verification .mufaddal-rangwala {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.signup-verification .use-or-more {
+  color: transparent;
+  font-family: "Rubik", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 385px;
+}
+
+.signup-verification .span {
+  color: #777777;
+}
+
+.signup-verification .text-wrapper-2 {
+  color: #222222;
+}
+
+.signup-verification .checkbox {
+  height: 18px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 385px !important;
+  width: 18px !important;
+}
+
+.signup-verification .button {
+  all: unset;
+  align-items: center;
+  background-color: var(--logo-color);
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  left: 0;
+  padding: 18px 268px;
+  position: absolute;
+  top: 437px;
+  width: 500px;
+}
+
+.signup-verification .login {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -84px;
+  margin-right: -84px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.signup-verification .new-password-2 {
+  height: 87px;
+  left: 0;
+  position: absolute;
+  top: 262px;
+  width: 500px;
+}
+
+.signup-verification .enter-your-email-and-3 {
+  color: #777777;
+  font-family: "Rubik", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.signup-verification .mufaddal-rangwala-2 {
+  color: #222222;
+  font-family: "Rubik", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.signup-verification .text-wrapper-3 {
+  color: var(--logo-color);
+  font-family: "Rubik", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 940px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 132px;
+  white-space: nowrap;
+}
