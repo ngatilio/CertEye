@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/version-v0.1.0%20-%23EC591A)
 ![](https://img.shields.io/static/v1?label=license&message=BSD-3&color=%23385177)
 ![](https://img.shields.io/discord/762976922531528725.svg?label=discord&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
-[![](https://img.shields.io/github/contributors/ngatilio/certeye)](https://github.com/unikraft/unikraft/graphs/contributors)
+[![](https://img.shields.io/github/contributors/ngatilio/certeye)](https://github.com/ngatilio/certeye/graphs/contributors)
 
 </div>
 
@@ -31,7 +31,7 @@
    - AI community uses AIPaC policy templates to create custom policies for their organization. An AIPaC policy template essentialy consists of rule skeletons with metadata based on policies (e.g., description, references) but without the code.
 
 - **Sandboxing** 📚
-   - CertEye sandbox analyzes `samples`, containing a `twin` of the initial artifact (app, api url, pipeline), libraries, and auto-generated configuration files. Libraries include pre-compiled policy rules and dependencies (e.g., libtensorflow.so, libtorch.so).
+   - CertEye sandbox leverages `SPDX` (ISO/IEC 5962:2021) and analyzes `samples`, containing a `twin` of the initial artifact (app, api url, pipeline), libraries, and auto-generated configuration files. Libraries include pre-compiled policy rules and dependencies (e.g., libtensorflow.so, libtorch.so).
    - The sandbox uses an agnostic GPU acceleration engine (`vAccel`, `CUDA`) and virtualization ([`VirtIO`](https://github.com/oasis-tcs/virtio-spec), `libvrt`) based on security-oriented OS (e.g., `Qubes`) and unikernels (e.g., `Unikraft`) on top of secure microkernels such as `seL4` and `hardened Xen`.
    - The sandbox distributes twin instance workloads accross multiple machines (nodes) and monitors the executing services on the network using the `gRPC` protocol.
    - Sandbox results (i.e., compliance reports) is automatically pushed as PDF to your cloud storage (S3, Azure, GCP) or as open issues in your repository (Git, DVC, Azure DevOps, AWS).
@@ -132,27 +132,33 @@ Output scenario:
 
 ## Licy
 
+Licy uses the following commands. The commands are very similar to other package management such as docker and kubenetes.
+
 ```console
-licy registry login
-licy registry add helloworld-rule@V1
-licy registry validate
-licy registry commit -m <message> -c <changes>
-licy registry commit c3f279d17e0a  test/helloworld-rule:v1
-licy registry commit --change "rule name" c3f279d17e0a  test/helloworld-rule:v1
-licy registry push
-licy registry pull
-licy registry delete --id 5ec45d
-licy registry audit
-licy registry logout
+$licy registry login
+$licy registry add helloworld-rule@V1
+$licy registry commit c3f279d17e0a  helloworld-rule@v1
+$licy registry commit --change "PII exposure" c3f279d10a  helloworld-rule@v1
+$licy registry push
+$licy registry pull
+$licy registry delete --id 5ec45d
+$licy registry logout
+```
+
+Licy supports `audit` and `validate` commands allowing to audit your AIPaC policy packages and fix errors before committing to the AIPaC registry.
+
+```console
+$licy registry audit helloworld-rule@V1
+0 vulnerabilities. Done
+$licy registry validate helloworld-rule@V1
+0 errors. Done.
 ```
 
 # Sandbox CLI
 
-SPDX (ISO/IEC 5962:2021) tools extract metadata from AI/LLM app packages, API URLs, and pipelines.
+CertEye Sandbox CLI uses the following commands.
 
 ```console
-certeye sample verify --spdx v3.0 hello-world-app@v0.1
-
 certeye sandbox submit --help
 Usage: certeye sandbox submit [OPTIONS] [TARGET]...
 
@@ -162,18 +168,19 @@ Options:
   -u, --url           Submitting URLs instead of samples
   -o, --options TEXT  Options for these tasks
   --package TEXT      Analysis package to use
+  --pipeline TEXT     Analysis the current pipeline directory
   --custom TEXT       Custom information to pass along this task
   --owner TEXT        Owner of this task
   --timeout INTEGER   Analysis time in seconds
   --priority INTEGER  Priority of this task
-  --machine TEXT      virtual machine to analyze these tasks on
-  --platform TEXT     Analysis platform (qube os, unikraft)
+  --machine TEXT      VM to analyze these tasks on (qubes, unikraft)
+  --platform TEXT     Analysis platform (seL4, Xen)
   --memory            Enable memory dumping
   --enforce-timeout   Don't terminate the analysis early
   --clock TEXT        Set the system clock
   --tags TEXT         Analysis tags
   --baseline          Create baseline task
-  --remote TEXT       Submit to a remote Cuckoo instance
+  --remote TEXT       Submit to a remote Sandbox instance
   --shuffle           Shuffle the submitted tasks
   --pattern TEXT      Provide a glob-pattern when submitting a
                       directory
@@ -182,24 +189,53 @@ Options:
                       analyzed before
   -d, --debug         Enable verbose logging
   -q, --quiet         Only log warnings and critical messages
+  --json  TEXT        Output results in JSON format
   --help              Show this message and exit.
 ```
 
+For example, you can submit your inference APIs for analysis as follows:
+
+```console
+certeye sandbox submit --url https://api.mycompany.serve.us/v1/predict
+```
+You can also submit your app or the current directory of your LLM/AI pipeline:
+
+```console
+certeye sandbox submit --machine qubes-test --platform Xen --priority 2 --timeout 60 --package llm-appv1.deb ~/pkgs/apps/ 
+```
+
+
 # CI/CD integration
 
-GitHub Actions
+The sandbox can be seamlessly integrated into your CI/CD pipelines
 
-```\h*yaml
-```
+```yaml
 
-Azure Pipelines
+version: 0.1
+orbs: 
+  certeye: certeye/certeye@0.1
 
-```\h*yaml
-```
+jobs:
+  certeye-sandbox:
+    docker:
+      - image: golang:latest
+      - image: golangci/golangci-lint:latest
+    steps:
+      - checkout
+      - run:
+          name: pull policy rules
+          command: licy registry pull --auth CERTEYE_TOKEN
+      - 
+      - certeye/sandbox:
+          command: submit
+          token-variable: CERTEYE_TOKEN
+          additional-arguments: --machine qubes --platform xen --priority 1 --timeout 60 --pipeline . --json=results.json
 
-Circle CI
+workflows:
+  build-test-certeye:
+    jobs:
+      - certeye-sandbox
 
-```\h*yaml
 ```
 
 ### Docker development
