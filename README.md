@@ -21,14 +21,14 @@
 ## Features
 
 - **AI Policy As Code (AIPaC) Language** ⚡
-   - A specification language that turn AI policies into code with a syntax similar to `Go` and `Drools`.
+   - A specification language that turns AI policies into code with a syntax similar to `Go` and `Drools`.
    - The code is translated and compiled with `gc` to be used at runtime on the operating system during the sandbox analysis
 
 - **Licy** 🧩
    - Licy is a `policy rule management system` that enables AI community to validate, commit, push, pull, delete, and audit AIPaC policy rules.
    - Licy supports a `AIPaC registry` to get and publish `policy packages`. A policy package contains rules and a manifest file describing policy scenarios, a mapping between attributes (e.g., fairness, sustainability, privacy) and rule sets.
    - Licy uses `Agentic RAG` approach to mine regulation databases and extract step-by-step policies, automatically transformed as `AIPaC policy templates`.
-   - AI community uses AIPaC policy templates to create custom policies for their organization. An AIPaC policy template essentialy consists of rule skeletons with metadata based on policies (e.g., description, references) but without the code.
+   - AI community uses AIPaC policy templates to create custom policies for their organization. An AIPaC policy template essentially consists of rule skeletons with metadata based on policies (e.g., description, references) but without the code.
 
 - **Sandboxing** 📚
    - CertEye sandbox leverages `SPDX` (ISO/IEC 5962:2021) and analyzes `samples`, containing a `twin` of the initial artifact (app, api url, pipeline), libraries, and auto-generated configuration files. Libraries include pre-compiled policy rules and dependencies (e.g., libtensorflow.so, libtorch.so).
@@ -225,7 +225,6 @@ jobs:
       - run:
           name: pull policy rules
           command: licy registry pull --auth CERTEYE_TOKEN
-      - 
       - certeye/sandbox:
           command: submit
           token-variable: CERTEYE_TOKEN
